@@ -7,10 +7,13 @@
     "name": "ヌルヌル",
     "romaji": "Nuru-Nuru",
     "altWriting": "ぬるぬる",
+    "description": "1. Appearance of an object's surface becoming slippery due to mucus, etc. \n 2. Something that works smooth (screen, internet…).",
     "video": "https://www.youtube.com/watch?v=IW3GwdgGv5g",
+    "image": "https://tsurinews.jp/data/wp-content/uploads/2019/12/df6258f8e69aca2e90b465a809d190a4_s.jpg",
     "meaning": [
         "Slimy; slippery",
-        "Greasy"
+        "Greasy",
+        "Smooth"
     ],
     "usage": [
         {
@@ -30,18 +33,32 @@
             "tag": "adv",
             "sentence": "〜としている",
             "meaning": "~ be slippery."
+        },
+        {
+            "type": "Adverb",
+            "tag": "adv",
+            "sentence": "〜動く",
+            "meaning": "~ to move smooth."
         }
     ],
     "examples": [
         {
             "usage": "slimy",
             "sentence": "ぬるぬるして気持ち悪い",
+            "source": "https://ncode.syosetu.com/n4405cp/707/",
             "meaning": "It's slimy and disgusting."
         },
         {
             "usage": "to be slippery",
             "sentence": "これもまたぬるぬるとしているな",
+            "source": "https://ncode.syosetu.com/n3125cg/230/",
             "meaning": "That's another slimy one."
+        },
+        {
+            "usage": "to move smooth",
+            "sentence": "ゲーミングPCはゲーム画面がぬるぬる動く",
+            "source": "https://goiryoku.com/onomatopoeia/nurunuru/",
+            "meaning": "Gaming PC move game screens smoothly."
         }
     ],
     "related": [
@@ -53,6 +70,11 @@
         {
             "name": "ぬらぬら",
             "romaji": "Nura-Nura",
+            "description": "Same meaning"
+        },
+        {
+            "name": "ぬるっと",
+            "romaji": "Nurutto",
             "description": "Same meaning"
         }
     ]

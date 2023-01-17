@@ -1,0 +1,57 @@
+{
+    "category": "mood",
+    "tags": [
+        "no sound",
+        "action"
+    ],
+    "name": "にこにこ",
+    "romaji": "Niko-Niko",
+    "altWriting": "にこ",
+    "description": "1. Happy, bright smile on a face.",
+    "gif": "https://media.giphy.com/media/dwZOgH1bBCwco/200w_d.gif",
+    "video": "",
+    "image": "https://nihongonosensei.net/wp-content/uploads/2022/07/22070802.png",
+    "meaning": [
+        "Smile broadly",
+        "Smile",
+        "Mood"
+    ],
+    "usage": [
+        {
+            "type": "Adverb",
+            "tag": "adv",
+            "rules": [
+                "Use of the と particle"
+            ],
+            "sentence": "（と）笑う",
+            "meaning": "~ to smile broadly."
+        },
+        {
+            "type": "Suru verb",
+            "tag": "suru",
+            "sentence": "〜する",
+            "meaning": "~ smile; beam."
+        }
+    ],
+    "examples": [
+        {
+            "usage": "smile",
+            "sentence": "にこにこ笑顔が素敵な彼女",
+            "source": "https://goiryoku.com/onomatopoeia/niko/",
+            "meaning": "She has a lovely smile."
+        },
+        {
+            "usage": "mood",
+            "sentence": "朝から機嫌がよくにこにこしている子ども",
+            "source": "https://goiryoku.com/onomatopoeia/niko/",
+            "meaning": "Children who have been in a good mood since morning"
+        }
+    ],
+    "related": [
+        {
+            "name": "",
+            "romaji": "",
+            "description": ""
+        }
+    ]
+}

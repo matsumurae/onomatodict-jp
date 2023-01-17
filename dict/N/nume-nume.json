@@ -7,6 +7,8 @@
     "name": "ヌメヌメ",
     "romaji": "Nume-Nume",
     "altWriting": "滑々",
+    "image": "https://i-ogp.pximg.net/c/540x540_70/img-master/img/2014/01/04/20/22/53/40754348_p0_square1200.jpg",
+    "description": "1. The appearance of an object's surface being smooth, moist, and shiny. \n 2. The state of being soft and not good to the touch.",
     "meaning": [
         "Wet; wet and glistening",
         "Slimy; slippery",
@@ -17,7 +19,7 @@
             "type": "Adverb",
             "tag": "Adv",
             "rules": [
-                "Adverb taking the と particle"
+                "Use of the と particle"
             ],
             "sentence": "〜（と）光っていた",
             "meaning": "~ her lips glistened."
@@ -25,24 +27,36 @@
         {
             "type": "Adjective",
             "tag": "Adj",
+            "rules": [
+                "Use of the と particle"
+            ],
             "sentence": "〜（と）した蛞蝓",
             "meaning": "~ a slimy slug."
         },
         {
             "type": "Adjective",
             "tag": "Adj",
+            "rules": [
+                "Use of the と particle"
+            ],
             "sentence": "〜（と）した液体",
             "meaning": "~ wet."
         },
         {
             "type": "Adjective",
             "tag": "Adj",
+            "rules": [
+                "Use of the と particle"
+            ],
             "sentence": "〜（と）した床柱",
             "meaning": "~ a smooth tokonoma post."
         },
         {
             "type": "Adjective",
             "tag": "Adj",
+            "rules": [
+                "Use of the と particle"
+            ],
             "sentence": "〜（と）した風呂場",
             "meaning": "~ a slippery bathroom."
         }
@@ -51,16 +65,19 @@
         {
             "usage": "slimy; slippery",
             "sentence": "それに表面がヌメヌメしている",
+            "source": "https://ncode.syosetu.com/n2674cv/1/",
             "meaning": "And the surface is slimy."
         },
         {
             "usage": "wet; wet and glistening",
             "sentence": "彼女の唇はヌメヌメと光っていた",
+            "source": "Book - 1000 Japanese Onomatopoeia",
             "meaning": "Her lips were wet and glistening."
         },
         {
             "usage": "smooth",
             "sentence": "それヌメヌメだなって！",
+            "source": "https://ncode.syosetu.com/n6774eh/284/",
             "meaning": "I thought it was smooth!"
         }
     ],
@@ -73,6 +90,11 @@
         {
             "name": "ぬらぬら",
             "romaji": "Nura-Nura",
+            "description": "Same meaning"
+        },
+        {
+            "name": "ぬるっと",
+            "romaji": "Nurutto",
             "description": "Same meaning"
         }
     ]

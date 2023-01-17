@@ -14,6 +14,7 @@ Japanese has onomatopoeia as the core of it's language. There's onomatopoeic wor
 - [Onomatopedia](https://www.onomatopedia.jp/about)
 - [Onomappu](https://www.instagram.com/onomappu/)
 - [Japaslang](https://japaslang.com/tag/onomatopoeia)
+- [オノマトペ](https://goiryoku.com/onomatopoeia/)
 - 1000 Japanese Onomatopoeia from William de Lange
 
 ### Examples

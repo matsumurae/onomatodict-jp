@@ -7,11 +7,13 @@
     "name": "ぬらぬら",
     "romaji": "Nura-Nura",
     "altWriting": "ヌラヌラ",
+    "image": "http://sura-sura.com/wp-content/uploads/2016/05/69187e4f116bc1e0d6175ced46aecc5f.jpg",
     "meaning": [
         "Slimy; slippery",
         "Sluggishly",
         "Glistening"
     ],
+    "description": "1. Surface covered with mucus or oil that is slippery when touched or grasped. \n 2. Living thing moving forward in a slow motion.",
     "usage": [
         {
             "type": "Adverb",
@@ -51,16 +53,19 @@
         {
             "usage": "slimy",
             "sentence": "ぬらぬらとした肌",
+            "source": "https://ncode.syosetu.com/n5184cm/88/",
             "meaning": "Skin that is slimy."
         },
         {
             "usage": "slippery",
             "sentence": "油を吸ったヌラヌラしたパンを口に運ぶ",
+            "source": "https://ncode.syosetu.com/n4027dp/56/",
             "meaning": "The slippery, oil-soaked bread is brought to the mouth."
         },
         {
             "usage": "glistening",
             "sentence": "ぬらぬらと光る溶けた肌",
+            "source": "https://ncode.syosetu.com/n0432fz/31/",
             "meaning": "The skin is glistening and molten."
         }
     ],
@@ -73,6 +78,11 @@
         {
             "name": "ヌメヌメ",
             "romaji": "Nume-Nume",
+            "description": "Same meaning"
+        },
+        {
+            "name": "ぬるっと",
+            "romaji": "Nurutto",
             "description": "Same meaning"
         }
     ]

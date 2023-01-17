@@ -4,6 +4,10 @@
     "name": "japanese name",
     "romaji": "english name",
     "altWriting": "alternative name",
+    "description": "",
+    "gif": "",
+    "video": "",
+    "image": "",
     "meaning": [],
     "usage": [
         {
@@ -18,6 +22,7 @@
         {
             "usage": "",
             "sentence": "",
+            "source": "",
             "meaning": ""
         }
     ],
