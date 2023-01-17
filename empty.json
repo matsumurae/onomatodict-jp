@@ -1,0 +1,31 @@
+{
+    "category": "",
+    "tags": [],
+    "name": "japanese name",
+    "romaji": "english name",
+    "altWriting": "alternative name",
+    "meaning": [],
+    "usage": [
+        {
+            "type": "Adverb / Adjective / Noun",
+            "tag": "",
+            "rules": [],
+            "sentence": "",
+            "meaning": ""
+        }
+    ],
+    "examples": [
+        {
+            "usage": "",
+            "sentence": "",
+            "meaning": ""
+        }
+    ],
+    "related": [
+        {
+            "name": "",
+            "romaji": "",
+            "description": ""
+        }
+    ]
+}

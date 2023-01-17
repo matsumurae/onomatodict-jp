@@ -1,0 +1,79 @@
+{
+    "category": "water",
+    "tags": [
+        "water",
+        "moist"
+    ],
+    "name": "ヌメヌメ",
+    "romaji": "Nume-Nume",
+    "altWriting": "滑々",
+    "meaning": [
+        "Wet; wet and glistening",
+        "Slimy; slippery",
+        "Smooth"
+    ],
+    "usage": [
+        {
+            "type": "Adverb",
+            "tag": "Adv",
+            "rules": [
+                "Adverb taking the と particle"
+            ],
+            "sentence": "〜（と）光っていた",
+            "meaning": "~ her lips glistened."
+        },
+        {
+            "type": "Adjective",
+            "tag": "Adj",
+            "sentence": "〜（と）した蛞蝓",
+            "meaning": "~ a slimy slug."
+        },
+        {
+            "type": "Adjective",
+            "tag": "Adj",
+            "sentence": "〜（と）した液体",
+            "meaning": "~ wet."
+        },
+        {
+            "type": "Adjective",
+            "tag": "Adj",
+            "sentence": "〜（と）した床柱",
+            "meaning": "~ a smooth tokonoma post."
+        },
+        {
+            "type": "Adjective",
+            "tag": "Adj",
+            "sentence": "〜（と）した風呂場",
+            "meaning": "~ a slippery bathroom."
+        }
+    ],
+    "examples": [
+        {
+            "usage": "slimy; slippery",
+            "sentence": "それに表面がヌメヌメしている",
+            "meaning": "And the surface is slimy."
+        },
+        {
+            "usage": "wet; wet and glistening",
+            "sentence": "彼女の唇はヌメヌメと光っていた",
+            "meaning": "Her lips were wet and glistening."
+        },
+        {
+            "usage": "smooth",
+            "sentence": "それヌメヌメだなって！",
+            "meaning": "I thought it was smooth!"
+        }
+    ],
+    "related": [
+        {
+            "name": "ヌルヌル",
+            "romaji": "Nuru-Nuru",
+            "description": "Same meaning"
+        },
+        {
+            "name": "ぬらぬら",
+            "romaji": "Nura-Nura",
+            "description": "Same meaning"
+        }
+    ]
+}

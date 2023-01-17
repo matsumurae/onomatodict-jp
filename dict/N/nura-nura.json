@@ -1,0 +1,79 @@
+{
+    "category": "water",
+    "tags": [
+        "water",
+        "moist"
+    ],
+    "name": "ぬらぬら",
+    "romaji": "Nura-Nura",
+    "altWriting": "ヌラヌラ",
+    "meaning": [
+        "Slimy; slippery",
+        "Sluggishly",
+        "Glistening"
+    ],
+    "usage": [
+        {
+            "type": "Adverb",
+            "tag": "Adv",
+            "rules": [
+                "Adverb taking the と particle"
+            ],
+            "sentence": "〜（と）動く",
+            "meaning": "~ slouch along; slither along."
+        },
+        {
+            "type": "Adverb",
+            "tag": "Adv",
+            "rules": [
+                "Adverb taking the と particle"
+            ],
+            "sentence": "〜（と）輝く",
+            "meaning": "~ glisten/slimmer."
+        },
+        {
+            "type": "Adverb",
+            "tag": "Adv",
+            "rules": [
+                "Adverb taking the と particle"
+            ],
+            "sentence": "〜（と）夜に蠢く幽霊",
+            "meaning": "~ a night crawling with ghosts."
+        },
+        {
+            "type": "Adjective",
+            "tag": "Adj",
+            "sentence": "〜（と）としている",
+            "meaning": "~ be slippery."
+        }
+    ],
+    "examples": [
+        {
+            "usage": "slimy",
+            "sentence": "ぬらぬらとした肌",
+            "meaning": "Skin that is slimy."
+        },
+        {
+            "usage": "slippery",
+            "sentence": "油を吸ったヌラヌラしたパンを口に運ぶ",
+            "meaning": "The slippery, oil-soaked bread is brought to the mouth."
+        },
+        {
+            "usage": "glistening",
+            "sentence": "ぬらぬらと光る溶けた肌",
+            "meaning": "The skin is glistening and molten."
+        }
+    ],
+    "related": [
+        {
+            "name": "ヌルヌル",
+            "romaji": "Nuru-Nuru",
+            "description": "Same meaning"
+        },
+        {
+            "name": "ヌメヌメ",
+            "romaji": "Nume-Nume",
+            "description": "Same meaning"
+        }
+    ]
+}

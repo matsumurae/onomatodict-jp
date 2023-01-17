@@ -1,0 +1,59 @@
+{
+    "category": "water",
+    "tags": [
+        "water",
+        "moist"
+    ],
+    "name": "ヌルヌル",
+    "romaji": "Nuru-Nuru",
+    "altWriting": "ぬるぬる",
+    "video": "https://www.youtube.com/watch?v=IW3GwdgGv5g",
+    "meaning": [
+        "Slimy; slippery",
+        "Greasy"
+    ],
+    "usage": [
+        {
+            "type": "Noun",
+            "tag": "n",
+            "sentence": "〜になる",
+            "meaning": "~ become slimy / slippery."
+        },
+        {
+            "type": "Noun",
+            "tag": "n",
+            "sentence": "〜を洗い流す",
+            "meaning": "~ wash off the grease."
+        },
+        {
+            "type": "Adverb",
+            "tag": "adv",
+            "sentence": "〜としている",
+            "meaning": "~ be slippery."
+        }
+    ],
+    "examples": [
+        {
+            "usage": "slimy",
+            "sentence": "ぬるぬるして気持ち悪い",
+            "meaning": "It's slimy and disgusting."
+        },
+        {
+            "usage": "to be slippery",
+            "sentence": "これもまたぬるぬるとしているな",
+            "meaning": "That's another slimy one."
+        }
+    ],
+    "related": [
+        {
+            "name": "ヌメヌメ",
+            "romaji": "Nume-Nume",
+            "description": "Same meaning"
+        },
+        {
+            "name": "ぬらぬら",
+            "romaji": "Nura-Nura",
+            "description": "Same meaning"
+        }
+    ]
+}
