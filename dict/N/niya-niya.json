@@ -1,0 +1,105 @@
+{
+    "type": [
+        "",
+        ""
+    ],
+    "name": "にやにや",
+    "romaji": "Niya-Niya",
+    "altWriting": "ニヤニヤ",
+    "gif": "",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ニヤニヤ",
+    "video": "https://www.youtube.com/watch?v=Za430fjW2mE",
+    "image": "https://i0.wp.com/nihongo-illust.com/wp-content/uploads/2018/10/ef3dcae064e85bc3669b3c90193108e8.jpg?fit=320%2C370&ssl=1",
+    "en": {
+        "category": "mood",
+        "tags": [
+            "no sound",
+            "action"
+        ],
+        "description": "1. Big smile.",
+        "equivalent": "",
+        "meaning": [
+            "Grinning; broad grin; smirk"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "意味ありげに〜（と）笑う",
+                "meaning": "~ grin meaningfully; give somebody a sinister smirk."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する（な）",
+                "meaning": "~ grin (to oneself); (with な) stop smirking!"
+            }
+        ],
+        "examples": [{
+                "usage": "grinning",
+                "sentence": "好きな人の事を考えるだけで**ニヤニヤ**が止まらない",
+                "source": "https://goiryoku.com/onomatopoeia/niya/",
+                "meaning": "I can't stop **grinning** just thinking about the person I love."
+            },
+            {
+                "usage": "suru",
+                "sentence": "宝くじが当選することを考えると**ニヤニヤしてしまう**",
+                "source": "https://goiryoku.com/onomatopoeia/niya/",
+                "meaning": "She **grins** when she thinks about winning the lottery."
+            }
+        ],
+        "related": [{
+            "name": "",
+            "romaji": "",
+            "description": ""
+        }]
+    },
+    "es": {
+        "category": "humor",
+        "tags": [
+            "sin sonido",
+            "acción"
+        ],
+        "description": "1. Gran sonrisa.",
+        "equivalent": "",
+        "meaning": [
+            "Sonreír; amplia sonrisa"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "意味ありげに〜（と）笑う",
+                "meaning": "~ sonríe significativamente; dale a alguien una sonrisa siniestra"
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ sonrisa (para uno mismo); (con な) deja de sonreír!"
+            }
+        ],
+        "examples": [{
+                "usage": "sonreír",
+                "sentence": "好きな人の事を考えるだけで**ニヤニヤ**が止まらない",
+                "source": "https://goiryoku.com/onomatopoeia/niko/",
+                "meaning": "No puedo dejar de **sonreír** solo de pensar en la persona que amo"
+            },
+            {
+                "usage": "suru",
+                "sentence": "宝くじが当選することを考えると**ニヤニヤしてしまう**",
+                "source": "https://goiryoku.com/onomatopoeia/niya/",
+                "meaning": "Ella **sonríe** cuando piensa en ganar la lotería."
+            }
+        ],
+        "related": [{
+            "name": "",
+            "romaji": "",
+            "description": ""
+        }]
+    }
+}

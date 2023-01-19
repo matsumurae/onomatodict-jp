@@ -1,0 +1,61 @@
+{
+    "type": [
+        "",
+        ""
+    ],
+    "name": "にへー",
+    "romaji": "Nihee~",
+    "altWriting": "",
+    "gif": "",
+    "sound": "",
+    "video": "",
+    "image": "https://image.news.livedoor.com/newsimage/stf/b/7/b7741_1106_fb5ec26646e12f6aeca08f7ff951a73e.jpg",
+    "en": {
+        "category": "mood",
+        "tags": [
+            "no sound",
+            "action"
+        ],
+        "description": "1. Pervert smile (when you think of someone you like)",
+        "equivalent": "No equivalent.",
+        "meaning": [
+            "Pervert smile"
+        ],
+        "examples": [{
+                "usage": "pervert smile",
+                "sentence": "「にへー」と笑う彼女は大層幸せそうで、付け入る余地などなさそうです",
+                "source": "https://news.livedoor.com/article/detail/19689989/",
+                "meaning": "She seems to be smiling **(with a perv one)** and there is no room for taking advantage of it."
+            }
+        ],
+        "related": [{
+            "name": "ニヤニヤ",
+            "romaji": "Niya-Niya",
+            "description": "Big smile"
+        }]
+    },
+    "es": {
+        "category": "humor",
+        "tags": [
+            "sin sonido",
+            "acción"
+        ],
+        "description": "1. Sonrisa pervertida (cuando piensas en alguien que te gusta)",
+        "equivalent": "Sin equivalencia.",
+        "meaning": [
+            "Sonrisa pervertida"
+        ],
+        "examples": [{
+                "usage": "sonrisa perv",
+                "sentence": "「にへー」と笑う彼女は大層幸せそうで、付け入る余地などなさそうです",
+                "source": "https://news.livedoor.com/article/detail/19689989/",
+                "meaning": "Parece estar sonriendo **(con una sonrisa perv)** y no hay lugar para aprovecharlo"
+            }
+        ],
+        "related": [{
+            "name": "ニヤニヤ",
+            "romaji": "Niya-Niya",
+            "description": "Sonrisa de lado a lado"
+        }]
+    }
+}
