@@ -1,3 +1,3 @@
 # Z
 
-- Subaboo / スバブー
+- Subaboo / スバブー (No sound)

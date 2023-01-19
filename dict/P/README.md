@@ -1,3 +1,3 @@
 # P
 
-- Pikon / ピコーン
+- Pikon / ピコーン (No sound)

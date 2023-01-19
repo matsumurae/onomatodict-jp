@@ -1,3 +1,3 @@
 # D
 
-- Doo / ドオ
+- Doo / ドオ (No sound)

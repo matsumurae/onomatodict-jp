@@ -2,7 +2,7 @@
 
 ## D
 
-- Doo / ドオ
+- Doo / ドオ (No sound)
 
 ## G
 
@@ -19,11 +19,11 @@
 
 ## P
 
-- Pikon / ピコーン
+- Pikon / ピコーン (No sound)
 
 ## S
 
-- Subaboo / スバブー
+- Subaboo / スバブー (No sound)
 
 ## Z
 
