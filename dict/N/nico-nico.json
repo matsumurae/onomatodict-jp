@@ -17,6 +17,7 @@
             "action"
         ],
         "description": "1. Happy, bright smile on a face.",
+        "equivalent": "Smile from ear to ear.",
         "meaning": [
             "Smile broadly",
             "Smile",
@@ -64,6 +65,7 @@
             "acción"
         ],
         "description": "1. Sonrisa feliz y brillante en la cara.",
+        "equivalent": "Sonrisa de oreja a oreja.",
         "meaning": [
             "Sonreír ampliamente",
             "Sonrisa",
@@ -76,7 +78,7 @@
                     "Uso de la partícula と"
                 ],
                 "sentence": "（と）笑う",
-                "meaning": "~ sonreír ampliamente."
+                "meaning": "~ sonreír ampliamente (de oreja a oreja)."
             },
             {
                 "type": "Verbo suru",

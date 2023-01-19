@@ -1,0 +1,41 @@
+{
+    "type": [
+        "giongo",
+        "擬音語"
+    ],
+    "name": "ピコーン",
+    "romaji": "Pikon",
+    "altWriting": "",
+    "gif": "",
+    "video": "https://www.youtube.com/watch?v=cL6DfTodMCI",
+    "image": "https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/BToI25TAYqTVZmjrEt3IgCeFpbq1/c_1568600965154?height=600&auto=webp",
+    "sound": "",
+    "en": {
+        "category": "state",
+        "description": "1. Express a flash inspiration.",
+        "equivalent": "1. Light bulb went on in my head or \"ding-ding\".",
+        "meaning": [
+            "light bulb goes on (in your head)"
+        ],
+        "examples": [{
+            "usage": "light bulb goes on (in your head)",
+            "sentence": "ギュニュッ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*sound effect for light bulb goes on (in your head)*"
+        }]
+    },
+    "es": {
+        "categoría": "estado",
+        "description": "1. Expresar una inspiración instantánea.",
+        "equivalent": "1. Se me encendió una bombilla en la cabeza.",
+        "meaning": [
+            "encenderse la bombilla (en la cabeza)"
+        ],
+        "examples": [{
+            "usage": "encender la bombilla",
+            "sentence": "ギュニュッ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*efecto de sonido para encender la bombilla (en la cabeza)*"
+        }]
+    }
+}

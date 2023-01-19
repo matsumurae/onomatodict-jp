@@ -1,0 +1,41 @@
+{
+    "type": [
+        "giongo",
+        "擬音語"
+    ],
+    "name": "ギュニュッ",
+    "romaji": "Gyunyu",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/jc6P0JsnKYOAtiVWIPpRWu0Zvyq2/c_1575431674429?height=600&auto=webp",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=牛乳&kana=ぎゅうにゅう",
+    "en": {
+        "category": "drink",
+        "description": "1. Sound when drinking milk.",
+        "equivalent": "1. Glu-glu.",
+        "meaning": [
+            "drink milk"
+        ],
+        "examples": [{
+            "usage": "drink milk",
+            "sentence": "ギュニュッ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*sound effect for drinking milk*"
+        }]
+    },
+    "es": {
+        "category": "bebida",
+        "description": "1. Sonido al beber leche.",
+        "equivalent": "1. Glu-glu.",
+        "meaning": [
+            "beber leche"
+        ],
+        "examples": [{
+            "usage": "beber leche",
+            "sentence": "ギュニュッ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*efecto de sonido para beber leche*"
+        }]
+    }
+}

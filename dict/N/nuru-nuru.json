@@ -17,10 +17,11 @@
             "moist"
         ],
         "description": "1. Appearance of an object's surface becoming slippery due to mucus, etc. \n 2. Something that works smooth (screen, internet…).",
+        "equivalent": "1. Wet and slimy. \n 2. Smooth.",
         "meaning": [
             "Slimy; slippery",
             "Greasy",
-            "Smooth"
+            "Smooth; flow"
         ],
         "usage": [{
                 "type": "Noun",
@@ -90,10 +91,12 @@
             "húmedo"
         ],
         "description": "1. La superficie de un objeto se vuelve resbaladiza debido a la mucosidad, etc. \n 2. Algo que funciona sin problemas (pantalla, Internet...).",
+        "equivalent": "1. Mojado y viscoso. \n 2. Fluido.",
         "meaning": [
             "Viscoso; resbaladizo",
             "Grasiento",
-            "Liso"
+            "Liso",
+            "Suave; fluido"
         ],
         "usage": [{
                 "type": "Nombre",
@@ -117,7 +120,7 @@
                 "type": "Adverbio",
                 "tag": "adv",
                 "sentence": "〜動く",
-                "meaning": "~ moverse suavemente."
+                "meaning": "~ moverse suavemente / fluidamente."
             }
         ],
         "examples": [{
@@ -133,7 +136,7 @@
                 "meaning": "Esto también **es resbaladizo** otra vez."
             },
             {
-                "usage": "moverse suavemente",
+                "usage": "moverse suavemente; moverse fluidamente",
                 "sentence": "ゲーミングPCはゲーム画面が**ぬるぬる**動く",
                 "source": "https://goiryoku.com/onomatopoeia/nurunuru/",
                 "meaning": "El pc gaming mueve las pantallas de los juegos **suavemente**."

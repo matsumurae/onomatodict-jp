@@ -1,0 +1,41 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ズボンッ",
+    "romaji": "Zubon",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/jc6P0JsnKYOAtiVWIPpRWu0Zvyq2/c_1575431726449?height=600&auto=webp",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ズボン",
+    "en": {
+        "category": "clothes",
+        "description": "1. Putting on trousers.",
+        "equivalent": "No exact equivalent.",
+        "meaning": [
+            "put on trousers"
+        ],
+        "examples": [{
+            "usage": "put on trousers",
+            "sentence": "ズボンッ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*sound effect for putting on trousers*"
+        }]
+    },
+    "es": {
+        "category": "clothes",
+        "description": "1. Poniéndose los pantalones.",
+        "equivalent": "Sin equivalente exacto.",
+        "meaning": [
+            "ponerse los pantalones"
+        ],
+        "examples": [{
+            "usage": "ponerse los pantalones",
+            "sentence": "ズボンッ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*efecto de sonido para ponerse los pantalones*"
+        }]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "type": [
+        "giseigo",
+        "擬声語"
+    ],
+    "name": "スバブー",
+    "romaji": "Subaboo",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/jc6P0JsnKYOAtiVWIPpRWu0Zvyq2/c_1575431726449?height=600&auto=webp",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ズボン",
+    "en": {
+        "category": "drink",
+        "description": "1. When a person unexpectedly blows out coffee (or other drink) from his/her mouth in a sudden and reckless manner.",
+        "equivalent": "1. Spoosh.",
+        "meaning": [
+            "spit after being shocked"
+        ],
+        "examples": [{
+            "usage": "spit after being shocked",
+            "sentence": "スバブー",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*spoosh*"
+        }]
+    },
+    "es": {
+        "category": "bebida",
+        "description": "1. Cuando una persona inesperadamente sopla el café (o cualquier otro líquido) de la boca de forma repentina e imprudente.",
+        "equivalent": "",
+        "meaning": [
+            "escupir después de sorprenderse"
+        ],
+        "examples": [{
+            "usage": "escupir después de sorprenderse",
+            "sentence": "スバブー",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*efecto de sonido para escupir líquido al sorprenderse*"
+        }]
+    }
+}

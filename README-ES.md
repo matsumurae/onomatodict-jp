@@ -12,6 +12,18 @@ El japonés tiene la onomatopeya como núcleo de su lenguaje. ¡Hay palabras ono
 
 Tienes dos traducciones: `en` y `es`. Pero como se trata de un proyecto abierto, ¡podría traducirse a todos los idiomas! Si quieres traducirlo a cualquier otro idioma solo tienes que abrir un ticket (para solicitarlo) o enviar un PR (si quieres colaborar traduciendo).
 
+## ¿Cómo escoger la categoría correcta?
+
+Si es algo tangible, es posible que esté en la categoría `giongo` o su subcategoría. Si no, estára en la categoría `gitaigo` o alguna de sus subcategorías.
+
+Para que te hagas una idea:
+
+1. `giongo` para **efectos de sonido**.
+   1. `giseigo` para **onomatopeyas humanas (jajaja) y animales (pio pio)**.
+2. `gitaigo` para **expresiones faciales, emociones, texturas o formas de acción**.
+   1. `giyougo` para **describir el lenguaje corporal**.
+   2. `gijougo` para **emociones y sentimientos**.
+
 ## Clasificación de onomatopeyas
 
 Todas las palabras japonesas para cualquier categoría tienen dos kanji en común: 擬 al principio, que significa "imitar" y 語 al final, que significa "lenguaje". Como puede ver, todos ellos son "imitar el lenguaje de ~".
@@ -65,7 +77,7 @@ Esta subcategoría de `gitaigo` es para el movimiento (caminar o viajar de un lu
 
 ![gijougo](https://img-cdn.jg.jugem.jp/445/15130/20060307_141520.jpg)
 
-En esta subcategoría de `gitaigo` puedes encontrar emociones. Cosas como "dolor palpitante y molido" o "Emocionado por la anticipación, el placer o la felicidad" van aquí. **Muy usado en manga.**
+En esta subcategoría de `gitaigo` puedes encontrar emociones. Cosas como "dolor palpitante y molido" o "Emocionado por la anticipación, el placer o la felicidad" van aquí. **Muy usado en manga.** 
 
 ## Idiomas disponibles
 

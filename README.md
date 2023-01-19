@@ -12,6 +12,18 @@ Japanese has onomatopoeia as the core of it's language. There's onomatopoeic wor
 
 You have two translations: `en` and `es`. But as this is an open project, this could be translated to every language! If you want to translate it into any other language, you just have to open a ticket (to request it) or send a PR (if you want to collaborate by translating).
 
+## How to choose the right category?
+
+If it's something tangible, it might be in the `giongo` category or its subcategory. If not, it'll be in the `gitaigo` category or one of its subcategories.
+
+To give you an idea:
+
+1. `giongo` for **sound effects**.
+    1. `giseigo` for **human (hahaha) and animal (pio pio) onomatopoeias**.
+2. `gitaigo` for **facial expressions, emotions, textures or manner of action**.
+    1. `giyougo` to **describe body language**.
+    2. `gijougo` for **emotions and feelings**.
+
 ## Onomatopoeia classification
 
 All of the Japanese words for any category have two kanji in common: 擬 at the beginning, meaning "imitate" and 語 at the end, which means "language". As you can see, all of them are "imitate ~ language".

@@ -1,0 +1,41 @@
+{
+    "type": [
+        "",
+        ""
+    ],
+    "name": "ドオ",
+    "romaji": "Doo",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/CPSkhnKgY6OrjA1s1Lk24qKf99B2/c_1568696264720?height=600&auto=webp",
+    "sound": "",
+    "en": {
+        "category": "feeling",
+        "description": "1. Adds weight and strength to the movement.",
+        "equivalent": "No exact equivalent.",
+        "meaning": [
+            "give more strength (emphasis)"
+        ],
+        "examples": [{
+            "usage": "give more strength (emphasis)",
+            "sentence": "ドオ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*sound effect to give more strength to the movement*"
+        }]
+    },
+    "es": {
+        "category": "feeling",
+        "description": "1. Añade peso y fuerza al movimiento.",
+        "equivalent": "Sin equivalente exacto.",
+        "meaning": [
+            "dar más fuerza (énfasis)"
+        ],
+        "examples": [{
+            "usage": "dar más fuerza (énfasis)",
+            "sentence": "ドオ",
+            "source": "https://alu.jp/article/AJphA19vXxoI4183uULB",
+            "meaning": "*efecto de sonido para dar más fuerza al movimiento*"
+        }]
+    }
+}
