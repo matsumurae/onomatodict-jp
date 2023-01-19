@@ -21,7 +21,7 @@ There's two categories: `giongo` and `gitaigo`. Inside `giongo`, you'll find `gi
 - When combined with する without the と in between, it functions as part of the verb する or as an adverb.
 - When combined with a verb other than する, it is likely to be an adverb.
 
-### Nature or non-living / Giongo / 擬音語
+### Nature or non-living / Giongo / 擬音語
 
 > `giongo` translated as "imitate sound language" (音 means sound). It can describe any word that sounds like what it is describing.
 
@@ -57,7 +57,7 @@ This category will be sounds for conditions or states (human or not). Things lik
 
 This `gitaigo` subcategory is for movement (walking or traveling from one place to another). Things like "being half asleep and nodding off" or "not having the willpower to do something" come here. **This is commonly used in manga.**
 
-#### Feelings / Gijougo / 擬情語 (ぎじょうご)
+#### Feelings / Gijougo / 擬情語 (ぎじょうご)
 
 **No equivalent in English**.
 

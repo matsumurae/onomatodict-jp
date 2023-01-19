@@ -21,7 +21,7 @@ Existen dos categorías: `giongo` y `gitaigo`. Dentro de `giongo`, encontrarás 
 - Cuando se combinan con する sin と en medio, funciona como parte del verbo する o como adverbio.
 - Cuando se combina con un verbo que no sea する, es probable que sea un adverbio.
 
-### Naturaleza u objetos inanimados / Giongo / 擬音語
+### Naturaleza u objetos inanimados / Giongo / 擬音語
 
 > `giongo` podría traducirse como "imitar el lenguaje del sonido" (音 significa sonido). Describe cualquier palabra que suene como lo que está describiendo.
 
@@ -57,7 +57,7 @@ Esta categoría serán sonidos para condiciones o estados (humanos o no). Cosas 
 
 Esta subcategoría de `gitaigo` es para el movimiento (caminar o viajar de un lugar a otro). Cosas como "estar medio dormido y cabeceando" o "no tener la fuerza de voluntad para hacer algo" van aquí. **Muy usado en manga.**
 
-#### Sentimientos / Gijougo / 擬情語 (ぎじょうご)
+#### Sentimientos / Gijougo / 擬情語 (ぎじょうご)
 
 **Sin equivalente en inglés**.
 
