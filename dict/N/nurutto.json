@@ -1,53 +1,109 @@
 {
-    "category": "water",
-    "tags": [
-        "water",
-        "moist"
+    "type": [
+        "gitaigo",
+        "擬態語"
     ],
     "name": "ぬるっと",
     "romaji": "Nurutto",
-    "description": "1. Oil or viscous liquid on limbs or other parts of the body, making them slippery. \n 2. Things are progressing slowly. \n 3. The state of being slimy.",
+    "altWriting": "ヌルッと",
     "image": "https://tsurinews.jp/data/wp-content/uploads/2019/12/df6258f8e69aca2e90b465a809d190a4_s.jpg",
-    "meaning": [
-        "Slimy; slippery",
-        "Greasy; oily",
-        "Smooth"
-    ],
-    "examples": [
-        {
-            "usage": "slimy",
-            "sentence": "ぬるっとした手触りのナマズ",
-            "source": "https://goiryoku.com/onomatopoeia/nurultu/",
-            "meaning": "Catfish with a slimy texture."
-        },
-        {
-            "usage": "greasy; oily",
-            "sentence": "ぬるっとしている保湿剤",
-            "source": "https://goiryoku.com/onomatopoeia/nurultu/",
-            "meaning": "It's an oily moisturizer."
-        },
-        {
-            "usage": "slippery",
-            "sentence": "この温泉のお湯はぬるっとしているね",
-            "source": "https://goiryoku.com/onomatopoeia/nurultu/",
-            "meaning": "The hot water in this onsen slippery."
-        }
-    ],
-    "related": [
-        {
-            "name": "ヌメヌメ",
-            "romaji": "Nume-Nume",
-            "description": "Same meaning"
-        },
-        {
-            "name": "ヌルヌル",
-            "romaji": "Nuru-Nuru",
-            "description": "Same meaning"
-        },
-        {
-            "name": "ぬらぬら",
-            "romaji": "Nura-Nura",
-            "description": "Same meaning"
-        }
-    ]
+    "gif": "",
+    "video": "",
+    "sound": "",
+    "en": {
+        "category": "water",
+        "tags": [
+            "water",
+            "moist"
+        ],
+        "description": "1. Oil or viscous liquid on limbs or other parts of the body, making them slippery. \n 2. Things are progressing slowly. \n 3. The state of being slimy.",
+        "meaning": [
+            "Slimy; slippery",
+            "Greasy; oily",
+            "Smooth"
+        ],
+        "examples": [{
+                "usage": "slimy",
+                "sentence": "**ぬるっと**した手触りのナマズ",
+                "source": "https://goiryoku.com/onomatopoeia/nurultu/",
+                "meaning": "Catfish with a **slimy** texture."
+            },
+            {
+                "usage": "greasy; oily",
+                "sentence": "**ぬるっと**している保湿剤",
+                "source": "https://goiryoku.com/onomatopoeia/nurultu/",
+                "meaning": "It's an **oily** moisturizer."
+            },
+            {
+                "usage": "slippery",
+                "sentence": "この温泉のお湯は**ぬるっと**しているね",
+                "source": "https://goiryoku.com/onomatopoeia/nurultu/",
+                "meaning": "The hot water in this onsen **slippery**."
+            }
+        ],
+        "related": [{
+                "name": "ヌメヌメ",
+                "romaji": "Nume-Nume",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ヌルヌル",
+                "romaji": "Nuru-Nuru",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ぬらぬら",
+                "romaji": "Nura-Nura",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "agua",
+        "tags": [
+            "agua",
+            "húmedo"
+        ],
+        "description": "1. Aceite o líquido viscoso en las extremidades u otras partes del cuerpo, haciéndolas resbaladizas. \n 2. Las cosas progresan lentamente. \n 3. El estado de ser viscoso.",
+        "meaning": [
+            "Viscoso; baboso; resbaladizo",
+            "Grasiento; aceitoso",
+            "Liso"
+        ],
+        "examples": [{
+                "usage": "viscoso",
+                "sentence": "**ぬるっと**した手触りのナマズ",
+                "source": "https://goiryoku.com/onomatopoeia/nurultu/",
+                "meaning": "Bagre de textura **babosa**."
+            },
+            {
+                "usage": "grasiento; aceitoso",
+                "sentence": "**ぬるっと**している保湿剤",
+                "source": "https://goiryoku.com/onomatopoeia/nurultu/",
+                "meaning": "Es una crema **graso**."
+            },
+            {
+                "usage": "resbaladizo",
+                "sentence": "この温泉のお湯は**ぬるっと**しているね",
+                "source": "https://goiryoku.com/onomatopoeia/nurultu/",
+                "meaning": "El agua caliente en este onsen **resbaladiza**."
+            }
+        ],
+        "related": [{
+                "name": "ヌメヌメ",
+                "romaji": "Nume-Nume",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "ヌルヌル",
+                "romaji": "Nuru-Nuru",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "ぬらぬら",
+                "romaji": "Nura-Nura",
+                "description": "Mismo significado"
+            }
+        ]
+    }
 }

@@ -1,90 +1,183 @@
 {
-    "category": "water",
-    "tags": [
-        "water",
-        "moist"
+    "type": [
+        "gitaigo",
+        "擬態語"
     ],
     "name": "ぬらぬら",
     "romaji": "Nura-Nura",
     "altWriting": "ヌラヌラ",
     "image": "http://sura-sura.com/wp-content/uploads/2016/05/69187e4f116bc1e0d6175ced46aecc5f.jpg",
+    "gif": "",
+    "video": "",
     "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ぬらぬら",
-    "meaning": [
-        "Slimy; slippery",
-        "Sluggishly",
-        "Glistening"
-    ],
-    "description": "1. Surface covered with mucus or oil that is slippery when touched or grasped. \n 2. Living thing moving forward in a slow motion.",
-    "usage": [
-        {
-            "type": "Adverb",
-            "tag": "Adv",
-            "rules": [
-                "Adverb taking the と particle"
-            ],
-            "sentence": "〜（と）動く",
-            "meaning": "~ slouch along; slither along."
-        },
-        {
-            "type": "Adverb",
-            "tag": "Adv",
-            "rules": [
-                "Adverb taking the と particle"
-            ],
-            "sentence": "〜（と）輝く",
-            "meaning": "~ glisten/slimmer."
-        },
-        {
-            "type": "Adverb",
-            "tag": "Adv",
-            "rules": [
-                "Adverb taking the と particle"
-            ],
-            "sentence": "〜（と）夜に蠢く幽霊",
-            "meaning": "~ a night crawling with ghosts."
-        },
-        {
-            "type": "Adjective",
-            "tag": "Adj",
-            "sentence": "〜（と）としている",
-            "meaning": "~ be slippery."
-        }
-    ],
-    "examples": [
-        {
-            "usage": "slimy",
-            "sentence": "ぬらぬらとした肌",
-            "source": "https://ncode.syosetu.com/n5184cm/88/",
-            "meaning": "Skin that is slimy."
-        },
-        {
-            "usage": "slippery",
-            "sentence": "油を吸ったヌラヌラしたパンを口に運ぶ",
-            "source": "https://ncode.syosetu.com/n4027dp/56/",
-            "meaning": "The slippery, oil-soaked bread is brought to the mouth."
-        },
-        {
-            "usage": "glistening",
-            "sentence": "ぬらぬらと光る溶けた肌",
-            "source": "https://ncode.syosetu.com/n0432fz/31/",
-            "meaning": "The skin is glistening and molten."
-        }
-    ],
-    "related": [
-        {
-            "name": "ヌルヌル",
-            "romaji": "Nuru-Nuru",
-            "description": "Same meaning"
-        },
-        {
-            "name": "ヌメヌメ",
-            "romaji": "Nume-Nume",
-            "description": "Same meaning"
-        },
-        {
-            "name": "ぬるっと",
-            "romaji": "Nurutto",
-            "description": "Same meaning"
-        }
-    ]
+    "en": {
+        "category": "water",
+        "tags": [
+            "water",
+            "moist"
+        ],
+        "meaning": [
+            "Slimy; slippery",
+            "Sluggishly",
+            "Glistening"
+        ],
+        "description": "1. Surface covered with mucus or oil that is slippery when touched or grasped. \n 2. Living thing moving forward in a slow motion.",
+        "usage": [{
+                "type": "Adverb",
+                "tag": "Adv",
+                "rules": [
+                    "Adverb taking the と particle"
+                ],
+                "sentence": "〜（と）動く",
+                "meaning": "~ slouch along; slither along."
+            },
+            {
+                "type": "Adverb",
+                "tag": "Adv",
+                "rules": [
+                    "Adverb taking the と particle"
+                ],
+                "sentence": "〜（と）輝く",
+                "meaning": "~ glisten/slimmer."
+            },
+            {
+                "type": "Adverb",
+                "tag": "Adv",
+                "rules": [
+                    "Adverb taking the と particle"
+                ],
+                "sentence": "〜（と）夜に蠢く幽霊",
+                "meaning": "~ a night crawling with ghosts."
+            },
+            {
+                "type": "Adjective",
+                "tag": "Adj",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）としている",
+                "meaning": "~ be slippery."
+            }
+        ],
+        "examples": [{
+                "usage": "slimy",
+                "sentence": "**ぬらぬら**とした肌",
+                "source": "https://ncode.syosetu.com/n5184cm/88/",
+                "meaning": "Skin that is **slimy**."
+            },
+            {
+                "usage": "slippery",
+                "sentence": "油を吸った**ヌラヌラ**したパンを口に運ぶ",
+                "source": "https://ncode.syosetu.com/n4027dp/56/",
+                "meaning": "The **slippery**, oil-soaked bread is brought to the mouth."
+            },
+            {
+                "usage": "glistening",
+                "sentence": "**ぬらぬら**と光る溶けた肌",
+                "source": "https://ncode.syosetu.com/n0432fz/31/",
+                "meaning": "The skin is **glistening** and molten."
+            }
+        ],
+        "related": [{
+                "name": "ヌルヌル",
+                "romaji": "Nuru-Nuru",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ヌメヌメ",
+                "romaji": "Nume-Nume",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ぬるっと",
+                "romaji": "Nurutto",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "agua",
+        "tags": [
+            "agua",
+            "húmedo"
+        ],
+        "meaning": [
+            "Viscoso; resbaladizo",
+            "Inactivamente",
+            "Brillante"
+        ],
+        "description": "1. Superficie cubierta con mucosidad o aceite que es resbaladiza cuando se toca o se agarra. \n 2. Ser vivo que avanza a cámara lenta.",
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "Adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）動く",
+                "meaning": "~ deslizarse a lo largo."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "Adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）輝く",
+                "meaning": "~ Brillar / más delgado."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "Adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）夜に蠢く幽霊",
+                "meaning": "~ una noche repleta de fantasmas."
+            },
+            {
+                "type": "Adjetivo",
+                "tag": "Adj",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）としている",
+                "meaning": "~ ser resbaladizo."
+            }
+        ],
+        "examples": [{
+                "usage": "baboso",
+                "sentence": "**ぬらぬら**とした肌",
+                "source": "https://ncode.syosetu.com/n5184cm/88/",
+                "meaning": "Piel **viscosa**."
+            },
+            {
+                "usage": "resbaladizo",
+                "sentence": "油を吸った**ヌラヌラ**したパンを口に運ぶ",
+                "source": "https://ncode.syosetu.com/n4027dp/56/",
+                "meaning": "El pan **resbaladizo** y empapado en aceite se lleva a la boca."
+            },
+            {
+                "usage": "brillante",
+                "sentence": "**ぬらぬら**と光る溶けた肌",
+                "source": "https://ncode.syosetu.com/n0432fz/31/",
+                "meaning": "La piel está **brillante** y fundida."
+            }
+        ],
+        "related": [{
+                "name": "ヌルヌル",
+                "romaji": "Nuru-Nuru",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "ヌメヌメ",
+                "romaji": "Nume-Nume",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "ぬるっと",
+                "romaji": "Nurutto",
+                "description": "Mismo significado"
+            }
+        ]
+    }
 }

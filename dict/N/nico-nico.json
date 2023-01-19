@@ -1,58 +1,107 @@
 {
-    "category": "mood",
-    "tags": [
-        "no sound",
-        "action"
+    "type": [
+        "gitaigo",
+        "擬態語"
     ],
     "name": "にこにこ",
     "romaji": "Niko-Niko",
-    "altWriting": "にこ",
-    "description": "1. Happy, bright smile on a face.",
+    "altWriting": "ニコニコ",
     "gif": "https://media.giphy.com/media/dwZOgH1bBCwco/200w_d.gif",
     "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ニコニコ",
-    "video": "",
+    "video": "https://www.youtube.com/watch?v=Za430fjW2mE",
     "image": "https://nihongonosensei.net/wp-content/uploads/2022/07/22070802.png",
-    "meaning": [
-        "Smile broadly",
-        "Smile",
-        "Mood"
-    ],
-    "usage": [
-        {
-            "type": "Adverb",
-            "tag": "adv",
-            "rules": [
-                "Use of the と particle"
-            ],
-            "sentence": "（と）笑う",
-            "meaning": "~ to smile broadly."
-        },
-        {
-            "type": "Suru verb",
-            "tag": "suru",
-            "sentence": "〜する",
-            "meaning": "~ smile; beam."
-        }
-    ],
-    "examples": [
-        {
-            "usage": "smile",
-            "sentence": "にこにこ笑顔が素敵な彼女",
-            "source": "https://goiryoku.com/onomatopoeia/niko/",
-            "meaning": "She has a lovely smile."
-        },
-        {
-            "usage": "mood",
-            "sentence": "朝から機嫌がよくにこにこしている子ども",
-            "source": "https://goiryoku.com/onomatopoeia/niko/",
-            "meaning": "Children who have been in a good mood since morning"
-        }
-    ],
-    "related": [
-        {
+    "en": {
+        "category": "mood",
+        "tags": [
+            "no sound",
+            "action"
+        ],
+        "description": "1. Happy, bright smile on a face.",
+        "meaning": [
+            "Smile broadly",
+            "Smile",
+            "Mood"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "（と）笑う",
+                "meaning": "~ to smile broadly."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ smile; beam."
+            }
+        ],
+        "examples": [{
+                "usage": "smile",
+                "sentence": "**にこにこ**笑顔が素敵な彼女",
+                "source": "https://goiryoku.com/onomatopoeia/niko/",
+                "meaning": "She has a lovely **smile**."
+            },
+            {
+                "usage": "mood",
+                "sentence": "朝から機嫌がよく**にこにこ**している子ども",
+                "source": "https://goiryoku.com/onomatopoeia/niko/",
+                "meaning": "Children who have been in a **good mood** since morning"
+            }
+        ],
+        "related": [{
             "name": "",
             "romaji": "",
             "description": ""
-        }
-    ]
+        }]
+    },
+    "es": {
+        "category": "humor",
+        "tags": [
+            "sin sonido",
+            "acción"
+        ],
+        "description": "1. Sonrisa feliz y brillante en la cara.",
+        "meaning": [
+            "Sonreír ampliamente",
+            "Sonrisa",
+            "Estado de humor"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "（と）笑う",
+                "meaning": "~ sonreír ampliamente."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ sonrisa."
+            }
+        ],
+        "examples": [{
+                "usage": "sonrisa",
+                "sentence": "**にこにこ**笑顔が素敵な彼女",
+                "source": "https://goiryoku.com/onomatopoeia/niko/",
+                "meaning": "Tiene una hermosa **sonrisa**."
+            },
+            {
+                "usage": "humor",
+                "sentence": "朝から機嫌がよく**にこにこ**している子ども",
+                "source": "https://goiryoku.com/onomatopoeia/niko/",
+                "meaning": "Los niños han estado de **buen humor** desde por la mañana."
+            }
+        ],
+        "related": [{
+            "name": "",
+            "romaji": "",
+            "description": ""
+        }]
+    }
 }

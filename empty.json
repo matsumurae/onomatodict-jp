@@ -1,37 +1,61 @@
 {
-    "category": "",
-    "tags": [],
+    "type": [
+        "english name",
+        "japanese name"
+    ],
     "name": "japanese name",
     "romaji": "english name",
     "altWriting": "alternative name",
-    "description": "",
     "gif": "",
     "video": "",
     "image": "",
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji={expression}&kana={reading}",
-    "meaning": [],
-    "usage": [
-        {
+    "en": {
+        "category": "",
+        "tags": [],
+        "description": "",
+        "meaning": [],
+        "usage": [{
             "type": "Adverb / Adjective / Noun",
             "tag": "",
             "rules": [],
             "sentence": "",
             "meaning": ""
-        }
-    ],
-    "examples": [
-        {
+        }],
+        "examples": [{
             "usage": "",
             "sentence": "",
             "source": "",
             "meaning": ""
-        }
-    ],
-    "related": [
-        {
+        }],
+        "related": [{
             "name": "",
             "romaji": "",
             "description": ""
-        }
-    ]
+        }]
+    },
+    "es": {
+        "category": "",
+        "tags": [],
+        "description": "",
+        "meaning": [],
+        "usage": [{
+            "type": "Adverb / Adjective / Noun",
+            "tag": "",
+            "rules": [],
+            "sentence": "",
+            "meaning": ""
+        }],
+        "examples": [{
+            "usage": "",
+            "sentence": "",
+            "source": "",
+            "meaning": ""
+        }],
+        "related": [{
+            "name": "",
+            "romaji": "",
+            "description": ""
+        }]
+    }
 }

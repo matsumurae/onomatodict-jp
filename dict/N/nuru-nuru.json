@@ -1,82 +1,159 @@
 {
-    "category": "water",
-    "tags": [
-        "water",
-        "moist"
+    "type": [
+        "gitaigo",
+        "擬態語"
     ],
     "name": "ヌルヌル",
     "romaji": "Nuru-Nuru",
     "altWriting": "ぬるぬる",
-    "description": "1. Appearance of an object's surface becoming slippery due to mucus, etc. \n 2. Something that works smooth (screen, internet…).",
     "video": "https://www.youtube.com/watch?v=IW3GwdgGv5g",
+    "gif": "",
     "image": "https://tsurinews.jp/data/wp-content/uploads/2019/12/df6258f8e69aca2e90b465a809d190a4_s.jpg",
     "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ぬるぬる",
-    "meaning": [
-        "Slimy; slippery",
-        "Greasy",
-        "Smooth"
-    ],
-    "usage": [
-        {
-            "type": "Noun",
-            "tag": "n",
-            "sentence": "〜になる",
-            "meaning": "~ become slimy / slippery."
-        },
-        {
-            "type": "Noun",
-            "tag": "n",
-            "sentence": "〜を洗い流す",
-            "meaning": "~ wash off the grease."
-        },
-        {
-            "type": "Adverb",
-            "tag": "adv",
-            "sentence": "〜としている",
-            "meaning": "~ be slippery."
-        },
-        {
-            "type": "Adverb",
-            "tag": "adv",
-            "sentence": "〜動く",
-            "meaning": "~ to move smooth."
-        }
-    ],
-    "examples": [
-        {
-            "usage": "slimy",
-            "sentence": "ぬるぬるして気持ち悪い",
-            "source": "https://ncode.syosetu.com/n4405cp/707/",
-            "meaning": "It's slimy and disgusting."
-        },
-        {
-            "usage": "to be slippery",
-            "sentence": "これもまたぬるぬるとしているな",
-            "source": "https://ncode.syosetu.com/n3125cg/230/",
-            "meaning": "That's another slimy one."
-        },
-        {
-            "usage": "to move smooth",
-            "sentence": "ゲーミングPCはゲーム画面がぬるぬる動く",
-            "source": "https://goiryoku.com/onomatopoeia/nurunuru/",
-            "meaning": "Gaming PC move game screens smoothly."
-        }
-    ],
-    "related": [
-        {
-            "name": "ヌメヌメ",
-            "romaji": "Nume-Nume",
-            "description": "Same meaning"
-        },
-        {
-            "name": "ぬらぬら",
-            "romaji": "Nura-Nura",
-            "description": "Same meaning"
-        },
-        {
-            "name": "ぬるっと",
-            "romaji": "Nurutto",
-            "description": "Same meaning"
-        }
-    ]
+    "en": {
+        "category": "water",
+        "tags": [
+            "water",
+            "moist"
+        ],
+        "description": "1. Appearance of an object's surface becoming slippery due to mucus, etc. \n 2. Something that works smooth (screen, internet…).",
+        "meaning": [
+            "Slimy; slippery",
+            "Greasy",
+            "Smooth"
+        ],
+        "usage": [{
+                "type": "Noun",
+                "tag": "n",
+                "sentence": "〜になる",
+                "meaning": "~ become slimy / slippery."
+            },
+            {
+                "type": "Noun",
+                "tag": "n",
+                "sentence": "〜を洗い流す",
+                "meaning": "~ wash off the grease."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "〜としている",
+                "meaning": "~ be slippery."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "〜動く",
+                "meaning": "~ to move smooth."
+            }
+        ],
+        "examples": [{
+                "usage": "slimy",
+                "sentence": "**ぬるぬる**して気持ち悪い",
+                "source": "https://ncode.syosetu.com/n4405cp/707/",
+                "meaning": "It's **slimy** and disgusting."
+            },
+            {
+                "usage": "to be slippery",
+                "sentence": "これもまた**ぬるぬる**としているな",
+                "source": "https://ncode.syosetu.com/n3125cg/230/",
+                "meaning": "This is **being slippery** again too."
+            },
+            {
+                "usage": "to move smooth",
+                "sentence": "ゲーミングPCはゲーム画面が**ぬるぬる**動く",
+                "source": "https://goiryoku.com/onomatopoeia/nurunuru/",
+                "meaning": "Gaming PC move game screens **smoothly**."
+            }
+        ],
+        "related": [{
+                "name": "ヌメヌメ",
+                "romaji": "Nume-Nume",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ぬらぬら",
+                "romaji": "Nura-Nura",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ぬるっと",
+                "romaji": "Nurutto",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "agua",
+        "tags": [
+            "agua",
+            "húmedo"
+        ],
+        "description": "1. La superficie de un objeto se vuelve resbaladiza debido a la mucosidad, etc. \n 2. Algo que funciona sin problemas (pantalla, Internet...).",
+        "meaning": [
+            "Viscoso; resbaladizo",
+            "Grasiento",
+            "Liso"
+        ],
+        "usage": [{
+                "type": "Nombre",
+                "tag": "n",
+                "sentence": "〜になる",
+                "meaning": "~ volverse viscoso / resbaladizo."
+            },
+            {
+                "type": "Nombre",
+                "tag": "n",
+                "sentence": "〜を洗い流す",
+                "meaning": "~ quitar la grasa."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "〜としている",
+                "meaning": "~ ser resbaladizo."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "〜動く",
+                "meaning": "~ moverse suavemente."
+            }
+        ],
+        "examples": [{
+                "usage": "viscoso",
+                "sentence": "**ぬるぬる**して気持ち悪い",
+                "source": "https://ncode.syosetu.com/n4405cp/707/",
+                "meaning": "Es ** viscoso ** y asqueroso."
+            },
+            {
+                "usage": "ser resbaladizo",
+                "sentence": "これもまた**ぬるぬる**としているな",
+                "source": "https://ncode.syosetu.com/n3125cg/230/",
+                "meaning": "Esto también **es resbaladizo** otra vez."
+            },
+            {
+                "usage": "moverse suavemente",
+                "sentence": "ゲーミングPCはゲーム画面が**ぬるぬる**動く",
+                "source": "https://goiryoku.com/onomatopoeia/nurunuru/",
+                "meaning": "El pc gaming mueve las pantallas de los juegos **suavemente**."
+            }
+        ],
+        "related": [{
+                "name": "ヌメヌメ",
+                "romaji": "Nume-Nume",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "ぬらぬら",
+                "romaji": "Nura-Nura",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "ぬるっと",
+                "romaji": "Nurutto",
+                "description": "Mismo significado"
+            }
+        ]
+    }
 }

@@ -1,0 +1,129 @@
+{
+    "type": [
+        "gitaigo",
+        "擬態語"
+    ],
+    "name": "なみなみ",
+    "romaji": "Nami-Nami",
+    "altWriting": "ナミナミ",
+    "image": "https://uploads-ssl.webflow.com/5b1cd9ebe0c922320fed6215/5ca38f376ce59a43379c0c4b_NAMI-NAMI.jpg",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=なみなみ",
+    "gif": "",
+    "video": "",
+    "en": {
+        "category": "water",
+        "tags": [
+            "moist",
+            "water"
+        ],
+        "description": "1. The act of filling a container with liquid to the point of overflowing. \n 2. Ordinary (for 並々). \n 3. Extraordinary or unusual, used with ~ならぬ or ~ならない (for 並々).",
+        "meaning": [
+            "Overflow; brim",
+            "Ordinary"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "酒を〜（と）注ぐ",
+                "meaning": "~ fill (one's glass) to the brim with sake."
+            },
+            {
+                "type": "Adjective",
+                "tag": "adj",
+                "rules": [
+                    "Combine with ~ならぬ"
+                ],
+                "sentence": "並々ならぬ〜",
+                "meaning": "extraordinary ~."
+            },
+            {
+                "type": "Adjective i",
+                "tag": "adj-i",
+                "rules": [
+                    "Combine with ~ならない"
+                ],
+                "sentence": "並々ならない〜",
+                "meaning": "unusual ~."
+            }
+        ],
+        "examples": [{
+                "usage": "brim; overflow",
+                "sentence": "**なみなみ**と注がれたワイン",
+                "source": "https://goiryoku.com/onomatopoeia/naminami/",
+                "meaning": "Wine poured **to the brim**."
+            },
+            {
+                "usage": "extraordinary",
+                "sentence": "彼は**なみなみならぬ**苦労を経て社長になったんだ",
+                "source": "https://goiryoku.com/onomatopoeia/naminami/",
+                "meaning": "He went through **uncommon** troubles before he became president."
+            }
+        ],
+        "related": [{
+            "name": "タッピリ",
+            "romaji": "Tappiri",
+            "description": "Same meaning"
+        }]
+    },
+    "es": {
+        "category": "water",
+        "tags": [
+            "moist",
+            "water"
+        ],
+        "description": "1. El acto de llenar un recipiente con líquido hasta el punto de rebosar. \n 2. Ordinario (para 並々). \n 3. Extraordinaria o inusual, utilizado con ~ならぬ o ~ならない (para 並々).",
+        "meaning": [
+            "Desbordamiento; borde",
+            "Común"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "酒を〜（と）注ぐ",
+                "meaning": "~ llenar (tu propio vaso) hasta el borde con sake."
+            },
+            {
+                "type": "Adjetivo",
+                "tag": "adj",
+                "rules": [
+                    "Combinado con ~ならぬ"
+                ],
+                "sentence": "並々ならぬ〜",
+                "meaning": "~ extraordinario."
+            },
+            {
+                "type": "Adjetivo i",
+                "tag": "adj-i",
+                "rules": [
+                    "Combinado con ~ならない"
+                ],
+                "sentence": "並々ならない〜",
+                "meaning": "~ inusual."
+            }
+        ],
+        "examples": [{
+                "usage": "borde; Desbordamiento",
+                "sentence": "**なみなみ**と注がれたワイン",
+                "source": "https://goiryoku.com/onomatopoeia/naminami/",
+                "meaning": "Vino vertido **hasta el borde**."
+            },
+            {
+                "usage": "extraordinario",
+                "sentence": "彼は**なみなみならぬ**苦労を経て社長になったんだ",
+                "source": "https://goiryoku.com/onomatopoeia/naminami/",
+                "meaning": "Pasó por problemas **poco comunes** antes de convertirse en presidente."
+            }
+        ],
+        "related": [{
+            "name": "タッピリ",
+            "romaji": "Tappiri",
+            "description": "Mismo significado"
+        }]
+    }
+}
