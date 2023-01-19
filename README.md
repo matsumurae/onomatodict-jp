@@ -77,7 +77,7 @@ In this `gitaigo` subcategory you can find emotions. Things like "throbbing, gri
 #### Spanish
 - [Guía onomatopeyas](https://kizunaclub.com/blog/2016/01/27/la-guia-absoluta-de-onomatopeyas-japonesas/)
 
-#### English
+#### English
 - [Onomatopoeiamean](https://onomatopoeiamean.info/)
 - [Onomatopedia](https://www.onomatopedia.jp/about)
 - [Onomappu](https://www.instagram.com/onomappu/)
@@ -91,7 +91,7 @@ In this `gitaigo` subcategory you can find emotions. Things like "throbbing, gri
 - [The jaded network (Wayback machine)](https://web.archive.org/web/20221120054819/http://thejadednetwork.com/sfx/)
 - [1000 Japanese Onomatopoeia (Amazon)](https://www.amazon.es/1000-Japanese-Onomatopoeia-William-Lange/dp/949272216X/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=32I68HTUGH8BW&keywords=japanese+onomatopoeia&qid=1674067064&sprefix=japanese+onomatopoeia%2Caps%2C170&sr=8-1)
 
-#### Japanese
+#### Japanese
 - [オノマトペ](https://goiryoku.com/onomatopoeia/)
 - [日本語 NET](https://nihongokyoshi-net.com/category/onomatopoeia/)
 - [擬音語・擬態語 - 日本辞典](http://nihonjiten.com/nihongo/giongo/)
