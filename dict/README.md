@@ -12,6 +12,14 @@
 
 - Gyunyu / ギュニュッ
 
+## H
+
+- Hiso-Hiso / ヒソヒソ
+
+## K
+
+- Koso-Koso / こそこそ
+
 ## N
 
 - Nami-Nami / なみなみ
