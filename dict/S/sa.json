@@ -1,0 +1,29 @@
+{
+    "type": [
+        "",
+        ""
+    ],
+    "name": "さっ",
+    "romaji": "Sa",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://ei-raku.com/wp-content/uploads/2018/04/tadoku-gion-image2.jpg",
+    "sound": "",
+    "en": {
+        "category": "movement",
+        "description": "1. Swipe fast.",
+        "equivalent": "1. Swipe.",
+        "meaning": [
+            "swipe"
+        ]
+    },
+    "es": {
+        "category": "movimiento",
+        "description": "1. Girarse rápidamente.",
+        "equivalent": "1. Girarse.",
+        "meaning": [
+            "girarse"
+        ]
+    }
+}
