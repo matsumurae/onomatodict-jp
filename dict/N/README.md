@@ -195,7 +195,7 @@ Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?
 
 ### English
 
-> Big smile.
+> Grin, broad smile.
 
 - **Type:** Gitaigo (擬態語)
 - **Category:** Status.
@@ -221,7 +221,7 @@ She grins when she thinks about winning the lottery.
 
 ### Spanish
 
-> Gran sonrisa.
+> Sonrisa siniestra.
 
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Estado.
