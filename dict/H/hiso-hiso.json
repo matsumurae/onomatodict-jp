@@ -1,0 +1,105 @@
+{
+    "type": [
+        "gitaigo",
+        "擬態語"
+    ],
+    "name": "ヒソヒソ",
+    "romaji": "Hiso-Hiso",
+    "altWriting": "ひそひそ",
+    "gif": "",
+    "video": "",
+    "image": "https://static.amanaimages.com/imgroom/rf_preview640/07800/07800068216.jpg",
+    "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ヒソヒソ",
+    "en": {
+        "category": "speak",
+        "description": "1. Whispering. Speak in a low voice so that others cannot hear them. \n 2. Doing something secretly so that others don't notice.",
+        "equivalent": "Whisper",
+        "meaning": [
+            "whisper; talk in low voice",
+            "speak secretly"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）話す",
+                "meaning": "~ speak in whispers; talk in a low voice."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）陰謀を企む",
+                "meaning": "~ hatch a plot in secret."
+            }
+        ],
+        "examples": [{
+                "usage": "whisper",
+                "sentence": "あの人たちはいつも二人で**ヒソヒソ**噂話をしている",
+                "source": "https://www.facebook.com/nihongonote2/photos/japanese-onomatopoeia%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9Dhisohisowhisper-%E3%81%82%E3%81%AE%E4%BA%8C%E4%BA%BA%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E6%8E%88%E6%A5%AD%E4%B8%AD%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9D%E8%A9%B1%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%9D%E3%81%93%E3%81%9Dkosokososecret/424696344948206/",
+                "meaning": "Those two are always gossiping in **whisper**."
+            },
+            {
+                "usage": "secretly",
+                "sentence": "友人は新しいビジネスの準備を、**ヒソヒソ**と進めている",
+                "source": "https://nihon5-bunka.net/onomatopoeia-hisohiso/",
+                "meaning": "My friend is **quietly** preparing for a new business venture."
+            }
+        ],
+        "related": [{
+            "name": "こそこそ",
+            "romaji": "Koso-Koso",
+            "description": "Secret whisper"
+        }]
+    },
+    "es": {
+        "category": "hablar",
+        "description": "1. Susurrar. Hablar en voz baja para que los demás no puedan escucharlos. \n 2. Hacer algo en secreto para que los demás no se den cuenta.",
+        "equivalent": "Susurro",
+        "meaning": [
+            "susurro; hablar en voz baja",
+            "secretamente"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "〜（と）話す",
+                "meaning": "~ hablar entre susurros; hablar en voz baja."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "〜（と）陰謀を企む",
+                "meaning": "~ tramar un complot en secreto."
+            }
+        ],
+        "examples": [{
+                "usage": "susurro",
+                "sentence": "あの人たちはいつも二人で**ヒソヒソ**噂話をしている",
+                "source": "https://www.facebook.com/nihongonote2/photos/japanese-onomatopoeia%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9Dhisohisowhisper-%E3%81%82%E3%81%AE%E4%BA%8C%E4%BA%BA%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E6%8E%88%E6%A5%AD%E4%B8%AD%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9D%E8%A9%B1%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%9D%E3%81%93%E3%81%9Dkosokososecret/424696344948206/",
+                "meaning": "Esos dos siempre están chismorreando en **susurros**."
+            },
+            {
+                "usage": "secretamente",
+                "sentence": "友人は新しいビジネスの準備を、**ヒソヒソ**と進めている",
+                "source": "https://nihon5-bunka.net/onomatopoeia-hisohiso/",
+                "meaning": "Mi amigo se está preparando en **secreto** para una nueva empresa"
+            }
+        ],
+        "related": [{
+            "name": "こそこそ",
+            "romaji": "Koso-Koso",
+            "description": "Susurrar secretamente"
+        }]
+    }
+}

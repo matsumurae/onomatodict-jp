@@ -1,17 +1,17 @@
 {
     "type": [
-        "",
-        ""
+        "giongo",
+        "擬音語"
     ],
     "name": "すぅー",
     "romaji": "Suu",
     "altWriting": "すー or スー",
     "gif": "",
     "video": "",
-    "image": "blob:https://comic.pixiv.net/abc3f5d6-5697-45a5-baeb-cb85b69ae152",
+    "image": "https://i.pinimg.com/564x/39/dc/24/39dc2441d5f87938431e368bac07408d.jpg",
     "sound": "",
     "en": {
-        "category": "smoke",
+        "category": "sigh",
         "description": "1. Inhale sound (used for smoke).",
         "equivalent": "1. Inhale.",
         "meaning": [
@@ -19,7 +19,7 @@
         ]
     },
     "es": {
-        "category": "fumar",
+        "category": "suspiro",
         "description": "1. Sonido al inhalar (usado para fumar).",
         "equivalent": "1. Inhalar.",
         "meaning": [

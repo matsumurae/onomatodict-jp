@@ -1,7 +1,7 @@
 {
     "type": [
-        "",
-        ""
+        "gitaigo",
+        "擬態語"
     ],
     "name": "にやにや",
     "romaji": "Niya-Niya",
@@ -51,10 +51,16 @@
             }
         ],
         "related": [{
-            "name": "",
-            "romaji": "",
-            "description": ""
-        }]
+                "name": "にへー",
+                "romaji": "Nihee~",
+                "description": "Perv smile"
+            },
+            {
+                "name": "にこにこ",
+                "romaji": "Niko-Niko",
+                "description": "Smile from ear to ear"
+            }
+        ]
     },
     "es": {
         "category": "humor",
@@ -65,7 +71,8 @@
         "description": "1. Gran sonrisa.",
         "equivalent": "",
         "meaning": [
-            "Sonreír; amplia sonrisa"
+            "Sonreír; amplia sonrisa",
+            "Sonrisa siniestra"
         ],
         "usage": [{
                 "type": "Adverbio",
@@ -97,9 +104,13 @@
             }
         ],
         "related": [{
-            "name": "",
-            "romaji": "",
-            "description": ""
+            "name": "にへー",
+            "romaji": "Nihee~",
+            "description": "Sonrisa perv"
+        }, {
+            "name": "にこにこ",
+            "romaji": "Niko-Niko",
+            "description": "Sonrisa de oreja a oreja"
         }]
     }
 }

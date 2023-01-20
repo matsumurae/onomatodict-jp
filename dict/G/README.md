@@ -1,3 +1,27 @@
 # G
 
-- Gyunyu / ギュニュッ
+- [G](#g)
+  - [Gyunyu / ギュニュッ](#gyunyu--ギュニュッ)
+    - [English](#english)
+    - [Spanish](#spanish)
+
+## Gyunyu / ギュニュッ
+
+![gyunyu](https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/jc6P0JsnKYOAtiVWIPpRWu0Zvyq2/c_1575431674429?height=600&auto=webp)
+
+### English
+
+> Adds weight and strength to the movement. Give more strength (emphasis).
+> Sound effect to give more strength to the movement
+
+- **Type:** Giongo (擬音語)
+- **Category:** Drink.
+- **Equivalent:** Glu-glu.
+
+### Spanish
+
+> Sound when drinking milk.
+
+- **Tipo:** Giongo (擬音語)
+- **Categoría:** Beber.
+- **Equivalencia:** Glu-glu.

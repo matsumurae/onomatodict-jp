@@ -1,7 +1,7 @@
 {
     "type": [
-        "",
-        ""
+        "gitaigo",
+        "擬態語"
     ],
     "name": "にへー",
     "romaji": "Nihee~",
@@ -22,17 +22,22 @@
             "Pervert smile"
         ],
         "examples": [{
-                "usage": "pervert smile",
-                "sentence": "「にへー」と笑う彼女は大層幸せそうで、付け入る余地などなさそうです",
-                "source": "https://news.livedoor.com/article/detail/19689989/",
-                "meaning": "She seems to be smiling **(with a perv one)** and there is no room for taking advantage of it."
-            }
-        ],
+            "usage": "pervert smile",
+            "sentence": "「にへー」と笑う彼女は大層幸せそうで、付け入る余地などなさそうです",
+            "source": "https://news.livedoor.com/article/detail/19689989/",
+            "meaning": "She seems to be smiling **(with a perv one)** and there is no room for taking advantage of it."
+        }],
         "related": [{
-            "name": "ニヤニヤ",
-            "romaji": "Niya-Niya",
-            "description": "Big smile"
-        }]
+                "name": "ニヤニヤ",
+                "romaji": "Niya-Niya",
+                "description": "Big smile"
+            },
+            {
+                "name": "にこにこ",
+                "romaji": "Niko-Niko",
+                "description": "Smile from ear to ear"
+            }
+        ]
     },
     "es": {
         "category": "humor",
@@ -46,16 +51,19 @@
             "Sonrisa pervertida"
         ],
         "examples": [{
-                "usage": "sonrisa perv",
-                "sentence": "「にへー」と笑う彼女は大層幸せそうで、付け入る余地などなさそうです",
-                "source": "https://news.livedoor.com/article/detail/19689989/",
-                "meaning": "Parece estar sonriendo **(con una sonrisa perv)** y no hay lugar para aprovecharlo"
-            }
-        ],
+            "usage": "sonrisa perv",
+            "sentence": "「にへー」と笑う彼女は大層幸せそうで、付け入る余地などなさそうです",
+            "source": "https://news.livedoor.com/article/detail/19689989/",
+            "meaning": "Parece estar sonriendo **(con una sonrisa perv)** y no hay lugar para aprovecharlo"
+        }],
         "related": [{
             "name": "ニヤニヤ",
             "romaji": "Niya-Niya",
             "description": "Sonrisa de lado a lado"
+        }, {
+            "name": "にこにこ",
+            "romaji": "Niko-Niko",
+            "description": "Sonrisa de oreja a oreja"
         }]
     }
 }

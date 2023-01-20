@@ -53,10 +53,16 @@
             }
         ],
         "related": [{
-            "name": "にへー",
-            "romaji": "Nihee~",
-            "description": "Perv smile"
-        }]
+                "name": "にへー",
+                "romaji": "Nihee~",
+                "description": "Perv smile"
+            },
+            {
+                "name": "にやにや",
+                "romaji": "Niya-Niya",
+                "description": "Grin smile"
+            }
+        ]
     },
     "es": {
         "category": "humor",
@@ -101,9 +107,15 @@
             }
         ],
         "related": [{
-            "name": "にへー",
-            "romaji": "Nihee~",
-            "description": "Sonrisa pervertida"
-        }]
+                "name": "にへー",
+                "romaji": "Nihee~",
+                "description": "Sonrisa pervertida"
+            },
+            {
+                "name": "にやにや",
+                "romaji": "Niya-Niya",
+                "description": "Sonrisa siniestra"
+            }
+        ]
     }
 }

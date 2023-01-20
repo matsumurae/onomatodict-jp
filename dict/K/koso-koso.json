@@ -1,0 +1,139 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "こそこそ",
+    "romaji": "Koso-Koso",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://thumb.ac-illust.com/26/262484d602846f0d33e436290d876f7e_t.jpeg",
+    "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=こそこそ",
+    "en": {
+        "category": "speak",
+        "description": "1. To act in an inconspicuous manner. Doing things in a hidden way, out of sight of others. \n 2. Move stealthily. \n 3. Rubbing of light objects against each other, or the sound of such rubbing.",
+        "equivalent": "1. Sneaking. \n 2. Rubbing.",
+        "meaning": [
+            "sneaking; secretly",
+            "rubbing",
+            "to move stealthily"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）行動する",
+                "meaning": "~ act suspiciously."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）携帯を見っている",
+                "meaning": "~ secretly look at one's phone."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）出ていく",
+                "meaning": "~ sneak out (of a place)."
+            }
+        ],
+        "examples": [
+            {
+                "usage": "move stealthily",
+                "sentence": "**こそこそ**と出ていく",
+                "source": "",
+                "meaning": "To go out and away stealthily."
+            },
+            {
+                "usage": "sneaking",
+                "sentence": "遅刻してしまったので**こそこそ**と教室に入る",
+                "source": "https://goiryoku.com/onomatopoeia/koso/",
+                "meaning": "He is late and **sneaks** into the classroom."
+            },
+            {
+                "usage": "rubbing",
+                "sentence": "こそこそと落ち葉が触れ合う音がする",
+                "source": "https://goiryoku.com/onomatopoeia/koso/",
+                "meaning": "I hear the sound of fallen leaves touching each other."
+            }
+        ],
+        "related": [{
+            "name": "ヒソヒソ",
+            "romaji": "Hiso-Hiso",
+            "description": "Whisper"
+        }]
+    },
+    "es": {
+        "category": "hablar",
+        "description": "1. Actuar de manera discreta. Hacer las cosas de forma oculta, fuera de la vista de los demás. \n 2. Moverse sigilosamente / furtivamente. \n 3. Frotamiento de objetos ligeros entre sí, o el sonido de dicho roce",
+        "equivalent": "1. Escabullirse. \n 2. Frotarse.",
+        "meaning": [
+            "furtivamente; escabullirse",
+            "frotarse",
+            "moverse sigilosamente"
+        ],
+        "usage": [{
+            "type": "Adverbio",
+            "tag": "adv",
+            "rules": [
+                "Usa la partícula と"
+            ],
+            "sentence": "〜（と）行動する",
+            "significado": "~ actuar de manera sospechosa."
+        },
+        {
+            "type": "Adverbio",
+            "tag": "adv",
+            "rules": [
+                "Usa la partícula と"
+            ],
+            "sentence": "〜（と）携帯を見っている",
+            "meaning": "~ mirar en secreto el teléfono (propio)."
+        },
+        {
+            "type": "Adverbio",
+            "tag": "adv",
+            "rules": [
+                "Usa la partícula と"
+            ],
+            "sentence": "〜（と）出ていく",
+            "meaning": "~ escabullirse (de un lugar)."
+        }
+    ],
+        "examples": [
+            {
+                "usage": "moverse sigilosamente",
+                "sentence": "**こそこそ**と出ていく",
+                "source": "",
+                "meaning": "Salir y alejarse sigilosamente."
+            },
+            {
+                "usage": "furtivamente",
+                "sentence": "遅刻してしまったので**こそこそ**と教室に入る",
+                "source": "https://goiryoku.com/onomatopoeia/koso/",
+                "meaning": "Llega tarde y **se cuela** en el salón de clases"
+            },
+            {
+                "usage": "frotarse",
+                "sentence": "こそこそと落ち葉が触れ合う音がする",
+                "source": "https://goiryoku.com/onomatopoeia/koso/",
+                "meaning": "Escucho el sonido de las hojas caídas rozándose."
+            }
+        ],
+        "related": [{
+            "name": "ヒソヒソ",
+            "romaji": "Hiso-Hiso",
+            "description": "Susurrar"
+        }]
+    }
+}

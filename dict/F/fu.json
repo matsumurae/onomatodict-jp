@@ -1,30 +1,92 @@
 {
     "type": [
-        "english name",
-        "japanese name"
+        "giongo",
+        "擬音語"
     ],
     "name": "フッ",
     "romaji": "Fu",
-    "altWriting": "",
+    "altWriting": "ふー",
     "gif": "",
     "video": "",
-    "image": "blob:https://comic.pixiv.net/2132d50a-702a-4d16-9499-678b1ccca4d1",
+    "image": "https://i.pinimg.com/564x/3d/75/14/3d75140b8d4805b287061f230378b3a7.jpg",
     "sound": "",
     "en": {
-        "category": "smoke",
+        "category": "sigh",
         "tags": [],
-        "description": "1. Like a 'phew'. \n 2. Exhale sound (smoking).",
-        "equivalent": "1. Phew; hah \n 2. Fff…",
+        "description": "1. Sigh. \n 2. Exhale sound (smoking).",
+        "equivalent": "1. Sigh \n 2. Fff…",
         "meaning": [
-            "phew",
-            "exhale (smoke)"
+            "puff; huff; sigh; faint",
+            "exhale (like smoke)"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜と匙の中の物を吹く",
+                "meaning": "~ blow one's spoon."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜と息をつく",
+                "meaning": "~ breathe a sigh (of relief)."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜と煙を吹く",
+                "meaning": "~ blow a puff of smoke."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜と気が遠くなった",
+                "meaning": "~ feel faint/woozy."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "猫が〜と毛を逆立った",
+                "meaning": "the cat ~ hissed as its hairs stood on end."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "彼の影が〜と幻のように現れた",
+                "meaning": "his shape appeared ~ out of nowhere like an apparition."
+            }
         ],
         "examples": [{
-            "usage": "phew",
-            "sentence": "ふっ、禁断の魔術とやらは、俺には通用しないぜ！",
-            "source": "https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83",
-            "meaning": "Hah, your 'forbidden magics' aren't going to work with me!"
-        }],
+                "usage": "phew",
+                "sentence": "**ふっ**、禁断の魔術とやらは、俺には通用しないぜ！",
+                "source": "https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83",
+                "meaning": "**Hah**, your 'forbidden magics' aren't going to work with me!"
+            },
+            {
+                "usage": "exhale",
+                "sentence": "**ふぅ**、と大きく息を吐き出した",
+                "source": "https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83",
+                "meaning": "**Phew**, he exhaled loudly."
+            }
+        ],
         "related": [{
             "name": "すぅー",
             "romaji": "Suu",
@@ -32,19 +94,79 @@
         }]
     },
     "es": {
-        "category": "fumar",
+        "category": "suspiro",
         "tags": [],
-        "description": "1. Como 'Uff'. \n 2. Sonido al exhalar (fumando).",
+        "description": "1. Suspiro. \n 2. Sonido al exhalar (fumando).",
         "equivalent": "1. Uff. \n 2. Fuu…",
         "meaning": [
-            "uff",
+            "puff; soplo; suspiro; desmayo",
             "exhalar (fumar)"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜と匙の中の物を吹く",
+                "meaning": "~ soplar la cuchara."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜と息をつく",
+                "meaning": "~ dar un suspiro (de alivio)."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜と煙を吹く",
+                "meaning": "~ soplar una bocanada de humo."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜と気が遠くなった",
+                "meaning": "~ sentirse mareado/mareado."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "猫が〜と毛を逆立った",
+                "meaning": "el gato ~ siseó mientras sus pelos se erizaban."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "彼の影が〜と幻のように現れた",
+                "meaning": "su forma apareció ~ de la nada como una aparición."
+            }
         ],
         "examples": [{
             "usage": "Uff",
             "sentence": "ふっ、禁断の魔術とやらは、俺には通用しないぜ！",
             "source": "https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83",
             "meaning": "Hah, your 'forbidden magics' aren't going to work with me!"
+        }, {
+            "usage": "exhalar",
+            "sentence": "**ふぅ**、と大きく息を吐き出した",
+            "source": "https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83",
+            "meaning": "**Uf**, exhaló con fuerza."
         }],
         "related": [{
             "name": "すぅー",
