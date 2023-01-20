@@ -1,0 +1,55 @@
+{
+    "type": [
+        "english name",
+        "japanese name"
+    ],
+    "name": "フッ",
+    "romaji": "Fu",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "blob:https://comic.pixiv.net/2132d50a-702a-4d16-9499-678b1ccca4d1",
+    "sound": "",
+    "en": {
+        "category": "smoke",
+        "tags": [],
+        "description": "1. Like a 'phew'. \n 2. Exhale sound (smoking).",
+        "equivalent": "1. Phew; hah \n 2. Fff…",
+        "meaning": [
+            "phew",
+            "exhale (smoke)"
+        ],
+        "examples": [{
+            "usage": "phew",
+            "sentence": "ふっ、禁断の魔術とやらは、俺には通用しないぜ！",
+            "source": "https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83",
+            "meaning": "Hah, your 'forbidden magics' aren't going to work with me!"
+        }],
+        "related": [{
+            "name": "すぅー",
+            "romaji": "Suu",
+            "description": "Inhale"
+        }]
+    },
+    "es": {
+        "category": "fumar",
+        "tags": [],
+        "description": "1. Como 'Uff'. \n 2. Sonido al exhalar (fumando).",
+        "equivalent": "1. Uff. \n 2. Fuu…",
+        "meaning": [
+            "uff",
+            "exhalar (fumar)"
+        ],
+        "examples": [{
+            "usage": "Uff",
+            "sentence": "ふっ、禁断の魔術とやらは、俺には通用しないぜ！",
+            "source": "https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83",
+            "meaning": "Hah, your 'forbidden magics' aren't going to work with me!"
+        }],
+        "related": [{
+            "name": "すぅー",
+            "romaji": "Suu",
+            "description": "Inhalar"
+        }]
+    }
+}

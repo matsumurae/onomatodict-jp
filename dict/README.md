@@ -4,6 +4,10 @@
 
 - Doo / ドオ (No sound)
 
+## F
+
+- Fu / フッ (No sound)
+
 ## G
 
 - Gyunyu / ギュニュッ
@@ -26,6 +30,7 @@
 ## S
 
 - Subaboo / スバブー (No sound)
+- Suu / すぅー (No sound)
 
 ## Z
 

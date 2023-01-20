@@ -1,0 +1,29 @@
+{
+    "type": [
+        "",
+        ""
+    ],
+    "name": "すぅー",
+    "romaji": "Suu",
+    "altWriting": "すー or スー",
+    "gif": "",
+    "video": "",
+    "image": "blob:https://comic.pixiv.net/abc3f5d6-5697-45a5-baeb-cb85b69ae152",
+    "sound": "",
+    "en": {
+        "category": "smoke",
+        "description": "1. Inhale sound (used for smoke).",
+        "equivalent": "1. Inhale.",
+        "meaning": [
+            "inhale"
+        ]
+    },
+    "es": {
+        "category": "fumar",
+        "description": "1. Sonido al inhalar (usado para fumar).",
+        "equivalent": "1. Inhalar.",
+        "meaning": [
+            "inhalar"
+        ]
+    }
+}
