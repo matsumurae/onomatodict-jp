@@ -33,7 +33,7 @@
 
 ## Subaboo / スバブー
 
-![subaboo](https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/jc6P0JsnKYOAtiVWIPpRWu0Zvyq2/c_1575431726449?height=600&auto=webp)
+![subaboo](https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/3kuB6AFCIEdZLKZdf6bMlO7osAg1/c_1566484590018?height=600&auto=webp)
 
 ### English
 
