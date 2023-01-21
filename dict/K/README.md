@@ -43,7 +43,7 @@ Listen the audio [here](http://assets.languagepod101.com/dictionary/japanese/aud
 To go out and away stealthily.
 
 遅刻してしまったのでこそこそと教室に入る
-He is late and **sneaks** into the classroom.
+He is late and sneaks into the classroom.
 
 こそこそと落ち葉が触れ合う音がする
 I hear the sound of fallen leaves touching each other.
