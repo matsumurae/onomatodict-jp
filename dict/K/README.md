@@ -10,7 +10,8 @@
 
 ## Koso-Koso / こそこそ
 
-![koso-koso](https://thumb.ac-illust.com/26/262484d602846f0d33e436290d876f7e_t.jpeg)
+![koso-koso](https://pbs.twimg.com/media/Cj2Fz4VWkAAlya3.jpg)
+![koso-koso](https://pbs.twimg.com/media/DWH8uTlUQAA-S4B.jpg)
 
 Listen the audio [here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=こそこそ)
 
