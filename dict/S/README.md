@@ -1,6 +1,6 @@
-# Z
+# S
 
-- [Z](#z)
+- [S](#s)
   - [Sa / さっ](#sa--さっ)
     - [English](#english)
     - [Spanish](#spanish)
