@@ -13,13 +13,11 @@
   - [Doo / ドオ](#doo--ドオ)
     - [English](#english-3)
     - [Spanish](#spanish-3)
-  - [Doki-Doki / ドキドキ](#doki-doki--ドキドキ-1)
-    - [English](#english-4)
-    - [Spanish](#spanish-4)
 
 ## Doki-Doki / ドキドキ
 
 ![doki-doki](https://1.bp.blogspot.com/-9MUlrWFUpqs/Wn0zakGO9qI/AAAAAAAABP0/bacnw1KeRGEMBLco0joUrecPS55JBP8gQCLcBGAs/s320/dokidoki.jpg)
+![doki-doki](https://magmix.jp/wp-content/uploads/2021/02/210211-purena-04.jpg)
 
 ### English
 
@@ -212,74 +210,3 @@ Se sorprendió por la repentina noticia.
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
 - **Equivalente:** Sin equivalente exacto.
-
-## Doki-Doki / ドキドキ
-
-![doki-doki](https://1.bp.blogspot.com/-9MUlrWFUpqs/Wn0zakGO9qI/AAAAAAAABP0/bacnw1KeRGEMBLco0joUrecPS55JBP8gQCLcBGAs/s320/dokidoki.jpg)
-![doki-doki](https://magmix.jp/wp-content/uploads/2021/02/210211-purena-04.jpg)
-
-### English
-
-> 1. Fast heart beating. Could be due to exercise, fear, anxiety, surprise…
-> 2. Feeling when you see or are near the person you like.
-
-- **Type:** Gijougo (擬情語)
-- **Category:** Feeling.
-- **Equivalent:** heartbeat; excited; nervous; have butterflies in stomach.
-
-**Usage**
-```
-心臓が〜（と）打つ
-My heart is ~ pounding; have one's heart in one's mouth.
-
-〜する
-~ be excited; have butterflies in one's stomach.
-```
-
-**Examples**
-```
-走りすぎてまだ胸がドキドキしてるよ
-My heart is still pounding because I ran so fast.
-
-緊張で胸がドキドキする
-I'm excited and my heart is pounding.
-
-明日は合格発表日か。ドキドキするなぁ
-Tomorrow is the day of the acceptance announcement. I'm so nervous.
-
-彼と話すと、いつも胸がドキドキする
-Whenever I talk to him, my heart always beats fast.
-```
-
-### Spanish
-
-> 1. Latidos rápidos del corazón. Podría deberse al ejercicio, miedo, ansiedad, sorpresa...
-> 2. Sentir cuando ves o estás cerca de la persona que te gusta.
-
-- **Tipo:** Gijougo (擬情語)
-- **Categoría:** Sentimiento.
-- **Equivalente:** latido del corazón; excitado; nervioso; tener mariposas en el estomago.
-
-**Uso**
-```
-心臓が〜（と）打つ
-Mi corazón está ~ latiendo con fuerza; tener el corazón en la boca.
-
-〜する
-~ estar emocionado; tener mariposas en el estomago.
-```
-
-**Ejemplos**
-```
-走りすぎてまだ胸がドキドキしてるよ
-Mi corazón todavía late con fuerza porque corrí muy rápido.
-
-緊張で胸がドキドキする
-Estoy emocionado y mi corazón late con fuerza.
-
-明日は合格発表日か。ドキドキするなぁ
-Mañana es el día del anuncio de aceptación. Estoy tan nervioso.
-
-彼と話すと、いつも胸がドキドキする
-Cada vez que hablo con él, mi corazón siempre late rápido.
-```
