@@ -1,88 +1,65 @@
-# ¡ESTE PROYECTO ESTÁ AÚN EN DESARROLLO!
-
 # Onomatodict JP
+
+**¡ESTE PROYECTO ESTÁ AÚN EN DESARROLLO!**
 
 > Este es un diccionario japonés de palabras onomatopéyicas. Aprende el significado, usos y ejemplos de la vida real.
 
 If you want to read the English version, go to `README.md`.
 
+- [Onomatodict JP](#onomatodict-jp)
+  - [Por qué Onomatodict](#por-qué-onomatodict)
+    - [Por qué otro diccionario](#por-qué-otro-diccionario)
+    - [Qué encontrarás aquí](#qué-encontrarás-aquí)
+    - [Idiomas disponibles](#idiomas-disponibles)
+  - [Fuentes de información](#fuentes-de-información)
+    - [Onomatopeya](#onomatopeya)
+      - [Español](#español)
+      - [Inglés](#inglés)
+      - [Japonés](#japonés)
+    - [Diccionarios](#diccionarios)
+    - [Ejemplos](#ejemplos)
+  - [Contribuir a Onomatodict](#contribuir-a-onomatodict)
+
 ## Por qué Onomatodict
 
 El japonés tiene la onomatopeya como núcleo de su lenguaje. ¡Hay palabras onomatopéyicas por todas partes! Describiendo sonidos, cosas, sentimientos… ¡Todo! Estas palabras están arraigadas en el idioma y es realmente **realmente** difícil conocerlas si no eres japonés.
 
-Tienes dos traducciones: `en` y `es`. Pero como se trata de un proyecto abierto, ¡podría traducirse a todos los idiomas! Si quieres traducirlo a cualquier otro idioma solo tienes que abrir un ticket (para solicitarlo) o enviar un PR (si quieres colaborar traduciendo).
+### Por qué otro diccionario
 
-## ¿Cómo escoger la categoría correcta?
+Sé que hay muchos recursos (libros, sitios web, etc.) pero he tenido problemas para encontrar lo que quería la mayoría del tiempo (no solo onomatopeyas). ¡Sobretodo en español! Mis mayores problemas son:
 
-Si es algo tangible, es posible que esté en la categoría `giongo` o su subcategoría. Si no, estára en la categoría `gitaigo` o alguna de sus subcategorías.
+1. Necesito buscar hasta el infinito para encontrarlo…
+2. Si lo encuentro, probablemente tendré que mirar diferentes lugares para entenderlo y...
+3. Probablemente, no tienen un ejemplo visual, que te ayudaría a entenderlo **incluso sin una explicación**.
 
-Para que te hagas una idea:
+Una explicación visual de las palabras y la gramática es realmente útil. Al menos para mí, me va mejor una conversación en lugar de leer una explicación gramatical (además, lo odio). Se podría decir que soy una persona que aprende visualmente (por eso soy mejor recordando series y canciones que libros). Esa es la razón por la que empecé este proyecto. Eso y que… En español hay muy pocos recursos, así que quiero aportar mi granito.
 
-1. `giongo` para **efectos de sonido**.
-   1. `giseigo` para **onomatopeyas humanas (jajaja) y animales (pio pio)**.
-2. `gitaigo` para **expresiones faciales, emociones, texturas o formas de acción**.
-   1. `giyougo` para **describir el lenguaje corporal**.
-   2. `gijougo` para **emociones y sentimientos**.
+### Qué encontrarás aquí
 
-## Clasificación de onomatopeyas
+En `ONOMATO-CLASS-ES.md` encontrarás las diferentes clasificaciones de onomatopeyas que existen, con su significado y un ejemplo visual de cada uno. He intentado explicar lo mejor posible cada categoría de una forma sencilla y que sea fácil de entender para que todo el mundo pueda entender realmente lo que significa.
 
-Todas las palabras japonesas para cualquier categoría tienen dos kanji en común: 擬 al principio, que significa "imitar" y 語 al final, que significa "lenguaje". Como puede ver, todos ellos son "imitar el lenguaje de ~".
+Sobre el dicionario, lo encontrarás en la carpeta `/dict/`. Ahí, encontrarás un `README.MD` con todas las onomatopeyas disponibles hasta el momento, ordenadas por orden alfabético.
 
-Existen dos categorías: `giongo` y `gitaigo`. Dentro de `giongo`, encontrarás la subcategoría `giseigo`. En `gitaigo`, encontrarás las subcategorías `gijougo` y `giyougo`.
+#### ¿Cómo usar el diccionario?
 
-- Cuando se combinan con する sin と en medio, funciona como parte del verbo する o como adverbio.
-- Cuando se combina con un verbo que no sea する, es probable que sea un adverbio.
+Vamos a decir que quieres ir a la `N`. Solo tienes que ir a la carpeta `/dict/` y elegir la letra `N` una vez dentro. Allí, encontrarás ordenado de nuevo cada palabra disponible alfabéticamente. Por cada palabra, encontrarás los siguientes datos:
 
-### Naturaleza u objetos inanimados / Giongo / 擬音語
+- **Imagen descriptiva:** Intento sacarlas de mangas pero a veces no es fácil…
+- **Video:** si hay alguna explicación en YT.
+- **Audio:** si hay un audio disponible para la palabra.
+- **Significado:** Significado o significados reales de la palabra.
+- **Tipo:** Categorización (como se describe en `ONOMATO-CLASS-ES.md`).
+- **Categoría:** Se utiliza para categorizar datos JSON. NO TIENE NINGUNA UTILIDAD.
+- **Equivalencia:** Palabra equivalente. A veces no hay una equivalencia directa y es más como una palabra o una lista de palabras que lo describen.
+- **Uso:** reglas gramaticales para ver cómo se usa comúnmente. Esta no es una regla obligatoria, es más una guía. Las palabras usadas aquí no son la única forma de usarlas.
+- **Ejemplos:** ejemplos de palabras reales para ver cómo se usa.
 
-> `giongo` podría traducirse como "imitar el lenguaje del sonido" (音 significa sonido). Describe cualquier palabra que suene como lo que está describiendo.
-
-![giongo](http://blog.gengo.com/wp-content/uploads/2016/06/zaa-zaa.png)
-
-Esta categoría engloba palabras que describen sonidos (cosas no vivas). Cualquier sonido que no salga de la boca de una persona o de un animal va aquí. Cosas como el sonido de un trueno o un poco de lluvia estarán aquí. En manga, son los conocidos **efectos de sonido**.
-
-#### Humano o animal / Giseigo / 擬声語
-
-> `giseigo` podría traducirse como "imitar el lenguaje de la voz" (声 significa voz). Imita sonidos animales y/o humanos.
-
-![giseigo](https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/tNaKgqdekbOj9WGGfdo51zGKa1G3/c_1601820562559?auto=webp&format=jpg&width=680)
-
-Esta subcategoría de `giongo` engloba sonidos que imitan palabras de la vida real (humanas o animales). Cosas como "jajaja" o "muuu (vaca)" son buenos ejemplos.
-
-### Condiciones y estados de ánimo / Gitaigo / 擬態語
-
-**Sin equivalente en inglés**.
-
-> `gitaigo` podría traducirse como "imitar el lenguaje de la condición" (態 significa condición). Esto es más abstracto y se usa para describir emociones o expresiones faciales, texturas o formas de acción.
-
-![gitaigo](http://blog.gengo.com/wp-content/uploads/2016/06/gusya-gusya.png)
-
-Esta categoría serán sonidos para condiciones o estados (humanos o no). Cosas como "un brillo en sus ojos" o "un montón de luz de sol brillando" va aquí. No pretende parecerse a los sonidos porque la acción, el movimiento o el estado no emite sonido. **Muy usado en manga.**
-
-#### Movimiento y acción / Giyougo / 擬容語 (ぎようご)
-
-**Sin equivalente en inglés**.
-
-> `giyougo` podría traducirse como "imitar el lenguaje de la forma" (容 significa forma). Esto es tangible pero no describe un sonido o acción, ya que se usa para describir el lenguaje corporal y cosas por el estilo.
-
-![giyougo](https://pbs.twimg.com/media/FE3aS_FakAIjZ0L.jpg)
-
-Esta subcategoría de `gitaigo` es para el movimiento (caminar o viajar de un lugar a otro). Cosas como "estar medio dormido y cabeceando" o "no tener la fuerza de voluntad para hacer algo" van aquí. **Muy usado en manga.**
-
-#### Sentimientos / Gijougo / 擬情語 (ぎじょうご)
-
-**Sin equivalente en inglés**.
-
-> `gijougo` podría traducirse como "imitar el lenguaje de la emoción" (情 significa emoción). Es algo abstracto ya que no define algo tangible, si no sentimientos y emociones.
-
-![gijougo](https://img-cdn.jg.jugem.jp/445/15130/20060307_141520.jpg)
-
-En esta subcategoría de `gitaigo` puedes encontrar emociones. Cosas como "dolor palpitante y molido" o "Emocionado por la anticipación, el placer o la felicidad" van aquí. **Muy usado en manga.** 
-
-## Idiomas disponibles
+### Idiomas disponibles
 
 - Inglés
 - Español
+
+Es un proyecto abierto así que se puede traducir a cualquiera. Si quieres traducirlo en otro dioma, solo tienes que abrir un ticket (para pedirlo) o enviar un PR (si quieres enviar tu traducción).
 
 ## Fuentes de información
 ### Onomatopeya

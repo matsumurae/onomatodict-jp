@@ -1,88 +1,66 @@
-# THIS PROJECT IS STILL UNDER CONSTRUCTION!
-
 # Onomatodict JP
+
+**THIS PROJECT IS STILL UNDER CONSTRUCTION!**
 
 > This is a Japanese onomatopoeic words dictionary. Learn the meaning, usages and real-life examples. 
 
 Si quieres leer la versión en español, ve a `README-ES.md`.
 
-## Why Onomatodict
+- [Onomatodict JP](#onomatodict-jp)
+  - [About Onomatodict](#about-onomatodict)
+    - [Why another dictionary](#why-another-dictionary)
+    - [What you'll find](#what-youll-find)
+      - [How to use the dictionary?](#how-to-use-the-dictionary)
+    - [Available languages](#available-languages)
+  - [Info source](#info-source)
+    - [Onomatopoeia](#onomatopoeia)
+      - [Spanish](#spanish)
+      - [English](#english)
+      - [Japanese](#japanese)
+    - [Dictionary](#dictionary)
+    - [Examples](#examples)
+  - [Contributing to Onomatodict](#contributing-to-onomatodict)
+
+## About Onomatodict
 
 Japanese has onomatopoeia as the core of it's language. There's onomatopoeic words everywhere! Describing sounds, things, feelings… Everything! These words are rooted on the language and it's really **really** hard to get know them if you're not Japanese.
 
-You have two translations: `en` and `es`. But as this is an open project, this could be translated to every language! If you want to translate it into any other language, you just have to open a ticket (to request it) or send a PR (if you want to collaborate by translating).
+### Why another dictionary
 
-## How to choose the right category?
+I know there's a lot of resources out there (books, websites, etc) but I had problems with things I need to look for (not only onomatopoeia). My biggest complains are:
 
-If it's something tangible, it might be in the `giongo` category or its subcategory. If not, it'll be in the `gitaigo` category or one of its subcategories.
+1. Need to look deeply to find…
+2. If you find it, you'll probably need to look at diff resources to understand it and…
+3. Probably, they don't have a visual example so you'll get a catch **even without explanation**.
 
-To give you an idea:
+Having a visual explanation for words / grammar it's really really useful. At least for me, I get better if I see a conversation rather than reading a grammar point (plus I hate this). I'm a visual learner. That's the reason why I started why I started this onomatopoeia project.
 
-1. `giongo` for **sound effects**.
-    1. `giseigo` for **human (hahaha) and animal (pio pio) onomatopoeias**.
-2. `gitaigo` for **facial expressions, emotions, textures or manner of action**.
-    1. `giyougo` to **describe body language**.
-    2. `gijougo` for **emotions and feelings**.
+### What you'll find
 
-## Onomatopoeia classification
+In `ONOMATO-CLASS.md` you'll get to know the different onomatopoeia classifications, meaning of each category and a visual example of it. I tried my best to explain each category in a simple and understandable way so everyone can get the real meaning.
 
-All of the Japanese words for any category have two kanji in common: 擬 at the beginning, meaning "imitate" and 語 at the end, which means "language". As you can see, all of them are "imitate ~ language".
+Speaking of the dictionary, you'll find it in the `/dict/` folder. There, you'll find a `README.md` with the available onomatopoeias in this dictionary, categorized alphabetically.
 
-There's two categories: `giongo` and `gitaigo`. Inside `giongo`, you'll find `giseigo` subcat. In `gitaigo`, you'll find `gijougo` and `giyougo`.
+#### How to use the dictionary?
 
-- When combined with する without the と in between, it functions as part of the verb する or as an adverb.
-- When combined with a verb other than する, it is likely to be an adverb.
+Let's say you go to the `N` letter, where you'll find every available onomatopoeia arranged alphabetically. You'll find the next info for each word:
 
-### Nature or non-living / Giongo / 擬音語
+- **Describing image:** I try to get them from manga but sometimes it's not easy.
+- **Video:** if there's any explanation on YT.
+- **Audio:** if there's an available audio for the word.
+- **Meaning:** Real meaning or meanings of the word.
+- **Type:** As described in `ONOMATO-CLASS.md`.
+- **Category:** Used to categorize JSON data. MEANINGLESS HERE.
+- **Equivalence:** Word equivalence. Sometimes there's no direct equivalence and it's more like a word or list of words that could be used for.
+- **Usage:** grammar rules about how it's commonly used. This is not a mandatory rule, it's more a guideline. The words used here are not the only way to use them.
+- **Examples:** real-word examples to see how the onomatopoeia is used.
 
-> `giongo` translated as "imitate sound language" (音 means sound). It can describe any word that sounds like what it is describing.
-
-![giongo](http://blog.gengo.com/wp-content/uploads/2016/06/zaa-zaa.png)
-
-This category will have words that are describing sounds (non-living things). Any sound that doesn't come from a person's or animal's mouth goes here. Things like the sound of a thunder or a little rain will be here. In manga this is called **sound effects**.
-
-#### Human-living or animal / Giseigo / 擬声語
-
-> `giseigo` translated as "imitate voice language" (声 means voice). Imitates animal and/or human sounds.
-
-![giseigo](https://alu-web-herokuapp-com.global.ssl.fastly.net/cropped_images/tNaKgqdekbOj9WGGfdo51zGKa1G3/c_1601820562559?auto=webp&format=jpg&width=680)
-
-This `giongo` subcategory will have sounds that imitate real-life words (human or animal). Things like "hahaha" or "muuu (cow)" are good examples.
-
-### Conditions and moods / Gitaigo / 擬態語
-
-**No equivalent in English**.
-
-> `gitaigo` translated as "imitate condition language" (態 means condition). This is more abstract and used to describe emotions or facial expressions, textures or manner of action.
-
-![gitaigo](http://blog.gengo.com/wp-content/uploads/2016/06/gusya-gusya.png)
-
-This category will be sounds for conditions or states (human or not). Things like "a sparkle in her eyes" or "lots of sunlight shining" goes here. This is not meant to resemble sounds because action, motion or state makes no sound. **This is commonly used in manga.**
-
-#### Movement and action / Giyougo / 擬容語 (ぎようご)
-
-**No equivalent in English**.
-
-> `giyougo` translated as "imitate shape language" (容 means shape). This is a tangible but doesn't describe a sound or action, as it's used to describe body language and things like that.
-
-![giyougo](https://pbs.twimg.com/media/FE3aS_FakAIjZ0L.jpg)
-
-This `gitaigo` subcategory is for movement (walking or traveling from one place to another). Things like "being half asleep and nodding off" or "not having the willpower to do something" come here. **This is commonly used in manga.**
-
-#### Feelings / Gijougo / 擬情語 (ぎじょうご)
-
-**No equivalent in English**.
-
-> `gijougo` translated as "imitate emotion language" (情 means emotion). This is something abstract since it doesn't define something tangible, but rather feelings and emotions.
-
-![gijougo](https://img-cdn.jg.jugem.jp/445/15130/20060307_141520.jpg)
-
-In this `gitaigo` subcategory you can find emotions. Things like "throbbing, grinding pain" or "happy, joyfully glad and full of hope" come here. **This is commonly used in manga.**
-
-## Available languages
+### Available languages
 
 - English
 - Spanish
+
+But as this is an open project, this could be translated to every language! If you want to translate it into any other language, you just have to open a ticket (to request it) or send a PR (if you want to collaborate by translating).
 
 ## Info source
 ### Onomatopoeia
