@@ -1,0 +1,85 @@
+{
+    "type": [
+        "Gijougo",
+        "擬情語"
+    ],
+    "name": "ドキッ",
+    "romaji": "Doki",
+    "altWriting": "",
+    "gif": "https://media.giphy.com/media/T3Vvyi6SHJtXW/giphy.gif",
+    "video": "",
+    "image": "https://googirl.jp/img/17/07/1707135top.jpg",
+    "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ドキ",
+    "en": {
+        "category": "feeling",
+        "description": "1. Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity. \n 2. Feeling shocked or startled.",
+        "equivalent": "1. thump (heartbeat) \n 2. Shock.",
+        "meaning": [
+            "thump",
+            "to jump (fear)"
+        ],
+        "usage": [{
+            "type": "Suru verb",
+            "tag": "suru",
+            "rules": [
+                "Use of the と particle"
+            ],
+            "sentence": "〜（と）する",
+            "meaning": "~ to jump."
+        }],
+        "examples": [{
+                "usage": "to jump",
+                "sentence": "暗闇から出てきた猫にどきっとした",
+                "source": "https://goiryoku.com/onomatopoeia/dokiltu/",
+                "meaning": "I was startled by a cat that came out of the darkness."
+            },
+            {
+                "usage": "to jump",
+                "sentence": "後ろから驚かされてどきっとした",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "I was startled from behind and stood up."
+            }
+        ],
+        "related": [{
+            "name": "ドキドキ",
+            "romaji": "Doki-Doki",
+            "description": "Fast heartbeat"
+        }]
+    },
+    "es": {
+        "category": "sentimiento",
+        "description": "1. Latidos cardíacos intensos debido a emoción, sorpresa, miedo, ansiedad u otra actividad emocional.\n 2. Sentirse conmocionado o sobresaltado.",
+        "equivalente": "1. golpe (latido del corazón) \n 2. Saltar de un susto.",
+        "sentido": [
+            "latido",
+            "saltar (miedo)"
+        ],
+        "usage": [{
+            "type": "Verbo suru",
+            "tag": "suru",
+            "rules": [
+                "Usa la partícula と"
+            ],
+            "sentence": "〜（と）する",
+            "meaning": "~ saltar"
+        }],
+        "examples": [{
+                "usage": "saltar",
+                "sentence": "暗闇から出てきた猫にどきっとした",
+                "source": "https://goiryoku.com/onomatopoeia/dokiltu/",
+                "meaning": "Me sorprendió un gato que salió de la oscuridad."
+            },
+            {
+                "usage": "saltar",
+                "sentence": "後ろから驚かされてどきっとした",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "Me sobresaltó por detrás y me puse de pie."
+            }
+        ],
+        "related": [{
+            "name": "ドキドキ",
+            "romaji": "Doki-Doki",
+            "description": "Latido rápido"
+        }]
+    }
+}

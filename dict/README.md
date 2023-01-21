@@ -4,6 +4,8 @@
 
 - Doo / ドオ (No sound)
 - Doki-Doki / ドキドキ
+- Doki / ドキッ (No sound)
+- Dokin / どきん (No sound)
 
 ## F
 

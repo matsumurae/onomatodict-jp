@@ -1,0 +1,95 @@
+{
+    "type": [
+        "Gijougo",
+        "擬情語"
+    ],
+    "name": "どきん",
+    "romaji": "Dokin",
+    "altWriting": "",
+    "gif": "https://media.giphy.com/media/T3Vvyi6SHJtXW/giphy.gif",
+    "video": "",
+    "image": "https://googirl.jp/img/17/07/1707135top.jpg",
+    "sound": "",
+    "en": {
+        "category": "feeling",
+        "description": "1. Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity.",
+        "equivalent": "thump-thump",
+        "meaning": [
+            "heartbeat",
+            "thump"
+        ],
+        "usage": [{
+            "type": "Suru verb",
+            "tag": "suru",
+            "rules": [
+                "Use of the と particle"
+            ],
+            "sentence": "〜（と）する",
+            "meaning": "~ to have butterflies in stomach; to jump."
+        }],
+        "examples": [{
+                "usage": "to jump",
+                "sentence": "好きな人を前にすると胸がどきんとする",
+                "source": "https://goiryoku.com/onomatopoeia/dokinn-2/",
+                "meaning": "My heart throbs in front of the person I love."
+            },
+            {
+                "usage": "to have butterflies in stomach",
+                "sentence": "急な知らせに彼はどきんとした",
+                "source": "https://goiryoku.com/onomatopoeia/dokinn-2/",
+                "meaning": "He was startled by the sudden news."
+            }
+        ],
+        "related": [{
+                "name": "ドキドキ",
+                "romaji": "Doki-Doki",
+                "description": "Fast heartbeat"
+            },
+            {
+                "name": "ドキッ",
+                "romaji": "Doki",
+                "description": "To jump (fear)"
+            }
+        ]
+    },
+    "es": {
+        "category": "sentimiento",
+        "description": "1. Latidos cardíacos intensos debido a excitación, sorpresa, miedo, ansiedad u otra actividad emocional.",
+        "equivalent": "pum-pum",
+        "meaning": [
+            "latido del corazón",
+            "golpear"
+        ],
+        "usage": [{
+            "type": "Verbo suru",
+            "tag": "suru",
+            "rules": [
+                "Usa la partícula と"
+            ],
+            "sentence": "〜（と）する",
+            "meaning": "~ tener mariposas en el estómago; saltar (de susto)"
+        }],
+        "examples": [{
+                "usage": "saltar (de susto)",
+                "sentence": "好きな人を前にすると胸がどきんとする",
+                "source": "https://goiryoku.com/onomatopoeia/dokinn-2/",
+                "meaning": "Mi corazón late frente a la persona que amo."
+            },
+            {
+                "usage": "tener mariposas en el estómago",
+                "sentence": "急な知らせに彼はどきんとした",
+                "source": "https://goiryoku.com/onomatopoeia/dokinn-2/",
+                "meaning": "Se sorprendió por la repentina noticia."
+            }
+        ],
+        "related": [{
+            "name": "ドキドキ",
+            "romaji": "Doki-Doki",
+            "description": "Latido rápido"
+        }, {
+            "name": "ドキッ",
+            "romaji": "Doki",
+            "description": "Saltar (de un susto)"
+        }]
+    }
+}
