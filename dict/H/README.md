@@ -40,7 +40,7 @@ My friend is quietly preparing (to leave) for a new business venture.
 
 ### Spanish
 
-> 1. Susurrar. Hablar en voz baja para que los demás no puedan escucharlos.
+> 1. Susurrar. Hablar en voz baja para que los demás no puedan escucharlos. (No significa que estén hablando a espaldas de los que están cerca)
 > 2. Hacer algo en secreto para que los demás no se den cuenta.
 
 - **Tipo:** Gitaigo (擬態語)
