@@ -7,7 +7,7 @@
 
 ## Hiso-Hiso / ヒソヒソ
 
-![hiso-hiso](https://static.amanaimages.com/imgroom/rf_preview640/07800/07800068216.jpg)
+![hiso-hiso](https://nihongonoe.com/wp-content/uploads/2017/10/%E3%81%93%E3%81%9D%E3%81%93%E3%81%9D%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9D.png)
 
 Listen the audio [here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ヒソヒソ)
 
