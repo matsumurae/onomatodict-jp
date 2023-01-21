@@ -19,6 +19,7 @@
 ## K
 
 - Koso-Koso / こそこそ
+- Kuru / くるっ (No sound)
 
 ## N
 

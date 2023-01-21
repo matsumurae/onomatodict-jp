@@ -4,6 +4,9 @@
   - [Koso-Koso / こそこそ](#koso-koso--こそこそ)
     - [English](#english)
     - [Spanish](#spanish)
+  - [Kuru / くるっ](#kuru--くるっ)
+    - [English](#english-1)
+    - [Spanish](#spanish-1)
 
 ## Koso-Koso / こそこそ
 
@@ -77,4 +80,60 @@ Llega tarde y **se cuela** en el salón de clases
 
 こそこそと落ち葉が触れ合う音がする
 Escucho el sonido de las hojas caídas rozándose.
+```
+
+## Kuru / くるっ
+
+![kuru](https://ei-raku.com/wp-content/uploads/2018/04/tadoku-gion-image2.jpg)
+
+### English
+
+> 1. Turning or spinning in an instant.
+> 2. Turning around, a circular turn.
+> 3. Lightness of the surroundings.
+> 4. Round and charming (eyes, face…).
+
+- **Type:** Giyougo (擬容語)
+- **Category:** movement.
+- **Equivalent:** turn around; turn quickly; full turn;light environment; round and lovely.
+
+**Usage**
+```
+〜（と）ひっくり返す
+~ turn around fastly.
+```
+
+**Examples**
+```
+くるっとひっくり返す
+Turn around in an instant.
+
+くるっと回ってみると、スカートの裾がふわりと広がった。
+When I turned around, the hem of my skirt spread out gently.
+```
+
+### Spanish
+
+> 1. Girarse o darse la vuelta en un instante.
+> 2. Haciendo un giro completo (360 grados).
+> 3. Ligereza del entorno.
+> 4. Redondo y encantador (ojos, cara…).
+
+- **Tipo:** Giyougo (擬容語)
+- **Categoría:** movimiento.
+- **Equivalencia:** Darse la vuelta; girarse rápidamente; giro completo; entorno ligero; redondo y encantador.
+
+**Uso**
+```
+〜（と）ひっくり返す
+~ darse la vuelta rápidamente.
+```
+
+**Ejemplos**
+```
+くるっとひっくり返す
+Darse la vuelta en un instante.
+
+くるっと回ってみると、スカートの裾がふわりと広がった。
+Cuando me di la vuelta, el dobladillo de mi falda se abrió suavemente.
 ```

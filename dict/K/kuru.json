@@ -1,0 +1,83 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "くるっ",
+    "romaji": "Kuru",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://ei-raku.com/wp-content/uploads/2018/04/tadoku-gion-image2.jpg",
+    "sound": "",
+    "en": {
+        "category": "movement",
+        "description": "1. Turning or spinning in an instant. \n 2. Turning around, a circular turn. \n 3. Lightness of the surroundings. \n 4. Round and charming (eyes, face…).",
+        "equivalent": "",
+        "meaning": [
+            "turn around; turn quickly",
+            "full turn",
+            "light environment",
+            "round and lovely"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）ひっくり返す",
+            "significado": "~ turn around fastly."
+            }
+        ],
+        "examples": [
+            {
+                "usage": "turn quickly",
+                "sentence": "くるっとひっくり返す",
+                "source": "http://sura-sura.com/archives/1759.html",
+                "meaning": "Turn around in an instant."
+            },
+            {
+                "usage": "turn around",
+                "sentence": "くるっと回ってみると、スカートの裾がふわりと広がった。",
+                "source": "https://ncode.syosetu.com/n4940de/36/",
+                "meaning": "When I turned around, the hem of my skirt spread out gently."
+            }
+        ]
+    },
+    "es": {
+        "category": "movimiento",
+        "description": "1. Girarse o darse la vuelta en un instante. \n 2. Haciendo un giro completo (360 grados). \n 3. Ligereza del entorno. \n 4. Redondo y encantador (ojos, cara…).",
+        "equivalent": "",
+        "meaning": [
+            "Darse la vuelta; girarse rápidamente",
+            "giro completo",
+            "entorno ligero",
+            "redondo y encantador"
+        ],
+        "usage": [{
+            "type": "Adverbio",
+            "tag": "adv",
+            "rules": [
+                "Usa la partícula と"
+            ],
+            "sentence": "〜（と）ひっくり返す",
+            "significado": "~ darse la vuelta rápidamente."
+        }
+    ],
+        "examples": [
+            {
+                "usage": "girarse rápidamente",
+                "sentence": "くるっとひっくり返す",
+                "source": "http://sura-sura.com/archives/1759.html",
+                "meaning": "Darse la vuelta en un instante."
+            },
+            {
+                "usage": "darse la vuelta",
+                "sentence": "くるっと回ってみると、スカートの裾がふわりと広がった。",
+                "source": "https://ncode.syosetu.com/n4940de/36/",
+                "meaning": "Cuando me di la vuelta, el dobladillo de mi falda se abrió suavemente."
+            }
+        ]
+    }
+}

@@ -112,6 +112,7 @@ En esta subcategoría de `gitaigo` puedes encontrar emociones. Cosas como "dolor
 - [八重桜みらい日本語教室 (YT)](https://www.youtube.com/playlist?list=PLn9F-N23spFn3-zRRTsmgRFW55fTha9q4)
 - [擬音語・擬態語―50音順](https://www.rondely.com/zakkaya/dic5/gt5.htm)
 - [Eiraku](https://ei-raku.com/2018/04/tadoku-gion/)
+- [Sura-sura](http://sura-sura.com/)
 
 ### Diccionarios
 - [Jisho](https://jisho.org/)
