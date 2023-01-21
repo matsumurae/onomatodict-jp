@@ -19,6 +19,8 @@
 ![doki-doki](https://1.bp.blogspot.com/-9MUlrWFUpqs/Wn0zakGO9qI/AAAAAAAABP0/bacnw1KeRGEMBLco0joUrecPS55JBP8gQCLcBGAs/s320/dokidoki.jpg)
 ![doki-doki](https://magmix.jp/wp-content/uploads/2021/02/210211-purena-04.jpg)
 
+[Video here](https://www.youtube.com/watch?v=qXoqOvJ9pBE&t=282). [Sound here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ドキドキ).
+
 ### English
 
 > 1. Fast heart beating. Could be due to exercise, fear, anxiety, surprise…
