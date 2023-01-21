@@ -47,6 +47,7 @@ Vamos a decir que quieres ir a la `N`. Solo tienes que ir a la carpeta `/dict/` 
 - **Imagen descriptiva:** Intento sacarlas de mangas pero a veces no es fácil…
 - **Video:** si hay alguna explicación en YT.
 - **Audio:** si hay un audio disponible para la palabra.
+- **Related:** onomatopeyas relacionadas.
 - **Significado:** Significado o significados reales de la palabra.
 - **Tipo:** Categorización (como se describe en `ONOMATO-CLASS-ES.md`).
 - **Categoría:** Se utiliza para categorizar datos JSON. NO TIENE NINGUNA UTILIDAD.

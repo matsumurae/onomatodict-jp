@@ -21,6 +21,10 @@
 
 [Video here](https://www.youtube.com/watch?v=qXoqOvJ9pBE&t=282). [Sound here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ドキドキ).
 
+**Related**
+- Dokin / どきん
+- Doki / ドキッ
+
 ### English
 
 > 1. Fast heart beating. Could be due to exercise, fear, anxiety, surprise…
@@ -92,6 +96,10 @@ Cada vez que hablo con él, mi corazón siempre late rápido.
 ![doki](https://googirl.jp/img/17/07/1707135top.jpg)
 ![doki](https://media.giphy.com/media/T3Vvyi6SHJtXW/giphy.gif)
 
+**Related**
+- Dokin / どきん
+- Doki-Doki / ドキドキ
+
 ### English
 
 > 1. Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity.
@@ -144,6 +152,10 @@ Me sobresaltó por detrás y me puse de pie.
 
 ![dokin](https://googirl.jp/img/17/07/1707135top.jpg)
 ![dokin](https://media.giphy.com/media/T3Vvyi6SHJtXW/giphy.gif)
+
+**Related**
+- Doki / ドキッ
+- Doki-Doki / ドキドキ
 
 ### English
 

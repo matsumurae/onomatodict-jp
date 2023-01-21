@@ -9,6 +9,9 @@
 
 ![Fuu](https://i.pinimg.com/564x/3d/75/14/3d75140b8d4805b287061f230378b3a7.jpg)
 
+**Related**
+- Suu / すぅー
+
 ### English
 
 > 1. Sigh.

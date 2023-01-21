@@ -59,6 +59,17 @@
                 "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
                 "meaning": "Whenever I talk to him, my heart always beats fast."
             }
+        ],
+        "related": [{
+                "name": "どきん",
+                "romaji": "Dokin",
+                "description": "Thumb-thumb"
+            },
+            {
+                "name": "ドキッ",
+                "romaji": "Doki",
+                "description": "To jump (fear)"
+            }
         ]
     },
     "es": {
@@ -109,6 +120,17 @@
                 "sentence": "彼と話すと、いつも胸がドキドキする",
                 "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
                 "meaning": "Cada vez que hablo con él, mi corazón siempre late rápido."
+            }
+        ],
+        "related": [{
+                "name": "どきん",
+                "romaji": "Dokin",
+                "description": "Pum-Pum"
+            },
+            {
+                "name": "ドキッ",
+                "romaji": "Doki",
+                "description": "Saltar (de miedo)"
             }
         ]
     }

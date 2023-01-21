@@ -16,7 +16,12 @@
         "equivalent": "1. Inhale.",
         "meaning": [
             "inhale"
-        ]
+        ],
+        "related": [{
+            "name": "フッ",
+            "romaji": "Fuu",
+            "description": "Exhale"
+        }]
     },
     "es": {
         "category": "suspiro",
@@ -24,6 +29,11 @@
         "equivalent": "1. Inhalar.",
         "meaning": [
             "inhalar"
-        ]
+        ],
+        "related": [{
+            "name": "フッ",
+            "romaji": "Fuu",
+            "description": "Exhalar"
+        }]
     }
 }

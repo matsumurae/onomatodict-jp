@@ -48,6 +48,7 @@ Let's say you go to the `N` letter, where you'll find every available onomatopoe
 - **Describing image:** I try to get them from manga but sometimes it's not easy.
 - **Video:** if there's any explanation on YT.
 - **Audio:** if there's an available audio for the word.
+- **Related:** related onomatopoeias.
 - **Meaning:** Real meaning or meanings of the word.
 - **Type:** As described in `ONOMATO-CLASS.md`.
 - **Category:** Used to categorize JSON data. MEANINGLESS HERE.

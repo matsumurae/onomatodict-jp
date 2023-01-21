@@ -55,6 +55,9 @@
 
 ![suu](https://i.pinimg.com/564x/39/dc/24/39dc2441d5f87938431e368bac07408d.jpg)
 
+**Related**
+- Fuu / フッ
+
 ### English
 
 > Inhale sound (used for smoke).

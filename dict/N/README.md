@@ -32,6 +32,9 @@
 
 Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=なみなみ)
 
+**Related**
+- Tappiri / タッピリ
+
 ### English
 
 > 1. The act of filling a container with liquid to the point of overflowing.
@@ -102,6 +105,10 @@ Pasó por problemas poco comunes antes de convertirse en presidente.
 Video [here](https://www.youtube.com/watch?v=Za430fjW2mE)
 Sound [here](https://www.youtube.com/watch?v=Za430fjW2mEhttps://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ニコニコ)
 
+**Related**
+- Nihee / にへー
+- Niya-Niya / にやにや
+
 ### English
 
 > Happy, bright smile on a face
@@ -158,6 +165,10 @@ Los niños han estado de buen humor desde por la mañana.
 
 ![nihee](https://image.news.livedoor.com/newsimage/stf/b/7/b7741_1106_fb5ec26646e12f6aeca08f7ff951a73e.jpg)
 
+**Related**
+- Niya-Niya / にやにや
+- Nico-Nico / にこにこ
+
 ### English
 
 > Pervert smile (when you think of someone you like)
@@ -192,6 +203,10 @@ Parece estar sonriendo (con una sonrisa perv) y no hay lugar para aprovecharlo
 
 Video [here](https://www.youtube.com/watch?v=Za430fjW2mE)
 Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ニヤニヤ)
+
+**Related**
+- Nihee / にへー
+- Nico-Nico / にこにこ
 
 ### English
 
@@ -248,6 +263,11 @@ Ella **sonríe** cuando piensa en ganar la lotería.
 ## Nume-Nume / ヌメヌメ
 
 ![nume-nume](https://i-ogp.pximg.net/c/540x540_70/img-master/img/2014/01/04/20/22/53/40754348_p0_square1200.jpg)
+
+**Related**
+- Nuru-Nuru / ヌルヌル
+- Nura-Nura / ぬらぬら
+- Nurutto / ぬるっと
 
 ### English
 
@@ -333,6 +353,11 @@ Sus labios estaban **húmedos** y relucientes.
 
 Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ぬらぬら)
 
+**Related**
+- Nuru-Nuru / ヌルヌル
+- Nume-Nume / ヌメヌメ
+- Nurutto / ぬるっと
+
 ### English
 
 > 1. Surface covered with mucus or oil that is slippery when touched or grasped.
@@ -412,6 +437,11 @@ La piel está brillante y fundida.
 Video [here](https://www.youtube.com/watch?v=IW3GwdgGv5g)
 Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ぬるぬる)
 
+**Related**
+- Nura-Nura / ぬらぬら
+- Nume-Nume / ヌメヌメ
+- Nurutto / ぬるっと
+
 ### English
 
 > 1. Appearance of an object's surface becoming slippery due to mucus, etc.
@@ -488,6 +518,11 @@ El pc gaming mueve las pantallas de los juegos suavemente.
 ## Nurutto / ぬるっと
 
 ![nurutto](https://tsurinews.jp/data/wp-content/uploads/2019/12/df6258f8e69aca2e90b465a809d190a4_s.jpg)
+
+**Related**
+- Nura-Nura / ぬらぬら
+- Nume-Nume / ヌメヌメ
+- Nuru-Nuru / ヌルヌル
 
 ### English
 

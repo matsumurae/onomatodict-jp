@@ -44,6 +44,10 @@
             "name": "ドキドキ",
             "romaji": "Doki-Doki",
             "description": "Fast heartbeat"
+        }, {
+            "name": "どきん",
+            "romaji": "Dokin",
+            "description": "Thumb-thumb"
         }]
     },
     "es": {
@@ -80,6 +84,10 @@
             "name": "ドキドキ",
             "romaji": "Doki-Doki",
             "description": "Latido rápido"
+        }, {
+            "name": "どきん",
+            "romaji": "Dokin",
+            "description": "Pum-Pum"
         }]
     }
 }

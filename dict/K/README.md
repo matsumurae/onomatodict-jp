@@ -15,6 +15,9 @@
 
 Listen the audio [here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=こそこそ)
 
+**Related**
+- Hiso-Hiso / ヒソヒソ
+
 ### English
 
 > 1. To act in an inconspicuous manner. Doing things in a hidden way, out of sight of others.
