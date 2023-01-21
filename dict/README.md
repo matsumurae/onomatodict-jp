@@ -3,6 +3,7 @@
 ## D
 
 - Doo / ドオ (No sound)
+- Doki-Doki / ドキドキ
 
 ## F
 

@@ -1,0 +1,115 @@
+{
+    "type": [
+        "Gijougo",
+        "擬情語"
+    ],
+    "name": "ドキドキ",
+    "romaji": "Doki-Doki",
+    "altWriting": "",
+    "gif": "",
+    "video": "https://www.youtube.com/watch?v=qXoqOvJ9pBE&t=282",
+    "image": "https://1.bp.blogspot.com/-9MUlrWFUpqs/Wn0zakGO9qI/AAAAAAAABP0/bacnw1KeRGEMBLco0joUrecPS55JBP8gQCLcBGAs/s320/dokidoki.jpg",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ドキドキ",
+    "en": {
+        "category": "feeling",
+        "description": "1. Fast heart beating. Could be due to exercise, fear, anxiety, surprise… \n 2. Feeling when you see or are near the person you like.",
+        "equivalent": "1. heartbeat \n 2. Be in love (butterflies in stomach).",
+        "meaning": [
+            "heartbeat",
+            "excited; nervous",
+            "have butterflies in stomach"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "心臓が〜（と）打つ",
+                "meaning": "My heart is ~ pounding; have one's heart in one's mouth."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ be excited; have butterflies in one's stomach."
+            }
+        ],
+        "examples": [{
+                "usage": "fast heart beating",
+                "sentence": "走りすぎてまだ胸がドキドキしてるよ",
+                "source": "https://goiryoku.com/onomatopoeia/dokidoki/",
+                "meaning": "My heart is still pounding because I ran so fast."
+            },
+            {
+                "usage": "excited",
+                "sentence": "緊張で胸がドキドキする",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "I'm excited and my heart is pounding."
+            },
+            {
+                "usage": "nervous",
+                "sentence": "明日は合格発表日か。ドキドキするなぁ",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "Tomorrow is the day of the acceptance announcement. I'm so nervous."
+            },
+            {
+                "usage": "butterflies in stomach",
+                "sentence": "彼と話すと、いつも胸がドキドキする",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "Whenever I talk to him, my heart always beats fast."
+            }
+        ]
+    },
+    "es": {
+        "category": "sentimiento",
+        "description": "1. Latidos rápidos del corazón. Podría deberse al ejercicio, miedo, ansiedad, sorpresa... \n 2. Sentir cuando ves o estás cerca de la persona que te gusta.",
+        "equivalent": "1. Latido del corazón \n 2. Estar enamorado (mariposas en el estómago).",
+        "meaning": [
+            "latido del corazón",
+            "excitado; nervioso",
+            "tener mariposas en el estomago"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "心臓が〜（と）打つ",
+                "meaning": "Mi corazón está ~ latiendo con fuerza; tener el corazón en la boca."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ estar emocionado; tener mariposas en el estomago."
+            }
+        ],
+        "examples": [{
+                "usage": "latido rápido",
+                "sentence": "走りすぎてまだ胸がドキドキしてるよ",
+                "source": "https://goiryoku.com/onomatopoeia/dokidoki/",
+                "meaning": "Mi corazón todavía late con fuerza porque corrí muy rápido."
+            },
+            {
+                "usage": "excitado",
+                "sentence": "緊張で胸がドキドキする",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "Estoy emocionado y mi corazón late con fuerza."
+            },
+            {
+                "usage": "nervioso",
+                "sentence": "明日は合格発表日か。ドキドキするなぁ",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "Mañana es el día del anuncio de aceptación. Estoy tan nervioso."
+            },
+            {
+                "usage": "mariposas en el estómago",
+                "sentence": "彼と話すと、いつも胸がドキドキする",
+                "source": "https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/",
+                "meaning": "Cada vez que hablo con él, mi corazón siempre late rápido."
+            }
+        ]
+    }
+}
