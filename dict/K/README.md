@@ -85,7 +85,7 @@ Escucho el sonido de las hojas caídas rozándose.
 
 ## Kuru / くるっ
 
-![kuru](https://ei-raku.com/wp-content/uploads/2018/04/tadoku-gion-image2.jpg)
+![kuru](https://s1.mbbcdnv3.xyz/file/img-mbuddy/manga/yotsubato/vol-1-chapter-1-moving-with-yotsuba/20.jpg)
 
 ### English
 
