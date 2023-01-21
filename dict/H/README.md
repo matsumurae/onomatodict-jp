@@ -10,7 +10,7 @@
 
 ## Hara-Hara / ハラハラ
 
-![hiso-hiso](https://3.bp.blogspot.com/-FrC2klXUAJ8/WoJrZNGIpPI/AAAAAAAABRw/b4S-SmED8zEZ9NUEivHgm9Foa9mpcIrOwCLcBGAs/s1600/hara.jpg)
+![hara-hara](https://3.bp.blogspot.com/-FrC2klXUAJ8/WoJrZNGIpPI/AAAAAAAABRw/b4S-SmED8zEZ9NUEivHgm9Foa9mpcIrOwCLcBGAs/s1600/hara.jpg)
 
 [Sound here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=はらはら). [Video here](https://www.youtube.com/watch?v=Nk8hdJuvGUc).
 

@@ -17,6 +17,7 @@
 
 ## H
 
+- Hara-Hara / ハラハラ
 - Hiso-Hiso / ヒソヒソ
 
 ## K
