@@ -4,7 +4,7 @@
 
 > This is a Japanese onomatopoeic words dictionary. Learn the meaning, usages and real-life examples. 
 
-## Available languages
+## Available languages
 
 This are the languages that you can read on the Wiki's project:
 
