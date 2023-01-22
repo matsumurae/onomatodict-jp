@@ -1,0 +1,29 @@
+{
+    "type": [
+        "Gijougo",
+        "擬情語"
+    ],
+    "name": "びくっ",
+    "romaji": "Biku",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://pbs.twimg.com/media/E7k1EfWUYAEARmn.jpg",
+    "sound": "",
+    "en": {
+        "category": "feeling",
+        "description": "1. Feeling shocked or startled.",
+        "equivalent": "jolt; flinch; shudder; tremble; surprised; startled",
+        "meaning": [
+            "to jump (fear)"
+        ]
+    },
+    "es": {
+        "category": "sentimiento",
+        "description": "1. Sentirse sorprendido o sorprendido.",
+        "equivalent": "sacudida; retroceder; estremecimiento; temblar; sorprendido",
+        "meaning": [
+            "saltar (miedo)"
+        ]
+    }
+}

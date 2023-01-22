@@ -1,0 +1,71 @@
+{
+    "type": [
+        "giongo",
+        "擬音語"
+    ],
+    "name": "ジッ",
+    "romaji": "Ji",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://i.pinimg.com/564x/3d/75/14/3d75140b8d4805b287061f230378b3a7.jpg",
+    "sound": "",
+    "en": {
+        "category": "fire",
+        "description": "1. Fire effect. \n 2. Chirping of insects. \n 3. Noise of alarm, buzzers or other alarms. \n 4. Being quiet without moving one's body. \n 5. Staring at something without averting one's eyes. \n 6. Concentrating, looking and thinking carefully.",
+        "equivalent": "lites; flame; staring at",
+        "meaning": [
+            "fire",
+            "alarm",
+            "staring; be quiet without moving"
+        ],
+        "examples": [{
+                "usage": "stare",
+                "sentence": "じーっと見つめる",
+                "source": "http://sura-sura.com/archives/2432.html",
+                "meaning": "Stare at me."
+            },
+            {
+                "usage": "stare",
+                "sentence": "突然の辞令に掲示板をじっと見つめる",
+                "source": "https://goiryoku.com/onomatopoeia/ziltu/",
+                "meaning": "She stared at the bulletin board in sudden resignation."
+            },
+            {
+                "usage": "be quiet without moving",
+                "sentence": "動くな！手をあげてじっとしてろ！",
+                "source": "https://goiryoku.com/onomatopoeia/ziltu/",
+                "meaning": "Don't move! Keep your hands up and hold still!"
+            }
+        ]
+    },
+    "es": {
+        "category": "fuego",
+        "description": "1. Efecto de fuego. \n 2. No moverse un solo paso del lugar y permanecer quieto. \n 3. Estar concentrado, mirar y pensar con atención. \n 4. Estar quieto sin mover el cuerpo. \n 5. Mirar fijamente algo sin desviar la mirada. \n 6. Concentrarse, mirar y pensar detenidamente.",
+        "equivalent": "luz; fuego; mirar fijamente",
+        "meaning": [
+            "fuego",
+            "alarma",
+            "mirar fijamente; quedarse quieto"
+        ],
+        "examples": [{
+                "usage": "mirar fijamente",
+                "sentence": "じーっと見つめる",
+                "source": "http://sura-sura.com/archives/2432.html",
+                "meaning": "Mírame."
+            },
+            {
+                "usage": "mirar fijamente",
+                "sentence": "突然の辞令に掲示板をじっと見つめる",
+                "source": "https://goiryoku.com/onomatopoeia/ziltu/",
+                "meaning": "Miró el tablón de anuncios con repentina resignación."
+            },
+            {
+                "usage": "quedarse quieto",
+                "sentence": "動くな！手をあげてじっとしてろ！",
+                "source": "https://goiryoku.com/onomatopoeia/ziltu/",
+                "meaning": "¡No te muevas! ¡Mantén tus manos arriba y quédate quieto!"
+            }
+        ]
+    }
+}

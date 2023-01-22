@@ -19,6 +19,7 @@
 
 - **Type:** Giongo (擬音語)
 - **Category:** Sigh.
+- **Onomatopoeia:** pant; haa; ha; sigh; blow; breath.
 - **Equivalent:** Sigh.
 
 **Usage**
@@ -60,6 +61,7 @@ Phew, he exhaled loudly.
 
 - **Tipo:** Giongo (擬音語)
 - **Categoría:** Suspiro.
+- **Onomatopeya:** jadeo; haa; ha; suspiro; soplo; aliento.
 - **Equivalencia:** Suspiro.
 
 **Uso**

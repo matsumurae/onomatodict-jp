@@ -32,6 +32,7 @@
 
 - **Type:** Gijougo (擬情語)
 - **Category:** Feeling.
+- **Onomatopoeia:** BA-DUMP BA-DUMP.
 - **Equivalent:** heartbeat; excited; nervous; have butterflies in stomach.
 
 **Usage**
@@ -65,6 +66,7 @@ Whenever I talk to him, my heart always beats fast.
 
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
+- **Onomatopeya:** BA-DUMP BA-DUMP.
 - **Equivalente:** latido del corazón; excitado; nervioso; tener mariposas en el estomago.
 
 **Uso**
@@ -107,6 +109,7 @@ Cada vez que hablo con él, mi corazón siempre late rápido.
 
 - **Type:** Gijougo (擬情語)
 - **Category:** Feeling.
+- **Onomatopoeia:** BA-DUMP.
 - **Equivalent:** thump; to jump (fear).
 
 **Usage**
@@ -131,6 +134,7 @@ I was startled from behind and stood up.
 
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
+- **Onomatopeya:** BA-DUMP.
 - **Equivalente:** latido; saltar (de susto).
 
 **Uso**
@@ -163,6 +167,7 @@ Me sobresaltó por detrás y me puse de pie.
 
 - **Type:** Gijougo (擬情語)
 - **Category:** Feeling.
+- **Onomatopoeia:** BA-DUMP.
 - **Equivalent:** thump-thump.
 
 **Usage**
@@ -186,7 +191,7 @@ He was startled by the sudden news.
 
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
-- **Equivalente:** pum-pum.
+- **Onomatopoeia:** pum-pum.
 
 **Uso**
 ```

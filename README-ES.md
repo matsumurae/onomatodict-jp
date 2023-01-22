@@ -42,6 +42,7 @@ Vamos a decir que quieres ir a la `N` y escoges `nico-nico`. Allí, encontrarás
 - **Significado:** Significado o significados reales de la palabra.
 - **Tipo:** Categorización ([descrito en la wiki](https://github.com/matsumurae/onomatodict-jp/wiki/Clasificaci%C3%B3n-onomatopeyas))
 - **Categoría:** Se utiliza para categorizar datos JSON. NO TIENE NINGUNA UTILIDAD.
+- **Onomatopeya:** Onomatopeya equivalente.
 - **Equivalencia:** Palabra equivalente. A veces no hay una equivalencia directa y es más como una palabra o una lista de palabras que lo describen.
 - **Uso:** reglas gramaticales para ver cómo se usa comúnmente. Esta no es una regla obligatoria, es más una guía. Las palabras usadas aquí no son la única forma de usarlas.
 - **Ejemplos:** ejemplos de palabras reales para ver cómo se usa.

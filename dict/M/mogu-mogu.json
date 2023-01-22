@@ -1,0 +1,139 @@
+{
+    "type": [
+        "Giyougo",
+        "擬容語"
+    ],
+    "name": "モグモグ",
+    "romaji": "Mogu-Mogu",
+    "altWriting": "もぐもぐ",
+    "gif": "https://media.giphy.com/media/qLw4x1K59L0iI/giphy.gif",
+    "video": "",
+    "image": "https://pbs.twimg.com/media/E7k1EfWUYAEARmn.jpg",
+    "sound": "",
+    "en": {
+        "category": "action",
+        "description": "1. Chewing without fully opening the mouth. \n 2. Mumbling without mouth open full.",
+        "equivalent": "munch munch",
+        "meaning": [
+            "chewing (food)",
+            "mumbling; chewing one's words",
+            "squirming; wriggling"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "〜食べる",
+                "meaning": "~ munch (one's food)."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "生〜（と）草を食う",
+                "meaning": "~ the cow chews (the) grass."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）口ごもる",
+                "meaning": "~ mumble; falter."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "袂の中を〜（と）探る",
+                "meaning": "~ search (the pocket in) one sleeve for something."
+            }
+        ],
+        "examples": [{
+                "usage": "chewing (food)",
+                "sentence": "もぐもぐしながら話さないで！行儀が悪いよ！",
+                "source": "https://onomatoproject.com/terms/mogumogu.html",
+                "meaning": "Don't speak while eating! It's bad manners."
+            },
+            {
+                "usage": "mumbling",
+                "sentence": "もぐもぐ言ってると聞き取れないから、はっきり言いなさい。",
+                "source": "https://nihongonosensei.net/?p=14083",
+                "meaning": "I can't hear you if you're mumbling, so speak up."
+            },
+            {
+                "usage": "squirming",
+                "sentence": "ほっぺを膨らましてもぐもぐしているのが可愛くてたまらない。",
+                "source": "https://nihongonosensei.net/?p=14083",
+                "meaning": "It's so cute to see their cheeks puffed out and squirming."
+            }
+        ]
+    },
+    "es": {
+        "category": "acción",
+        "description": "1. Masticar sin abrir completamente la boca. \n 2. Murmurar sin tener la boca abierta completamente.",
+        "equivalent": "masticar masticar",
+        "meaning": [
+            "masticar (comida)",
+            "murmurando; comerse tus propias palabras",
+            "retorciéndose"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "〜食べる",
+                "meaning": "~ masticar (la comida propia)."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "生〜（と）草を食う",
+                "meaning": "~ la vaca mastica (la) hierba."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）口ごもる",
+                "meaning": "~ murmurar."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "袂の中を〜（と）探る",
+                "meaning": "~ buscar (en el bolsillo) una manga por algo."
+            }
+        ],
+        "examples": [{
+                "usage": "masticar (comida)",
+                "sentence": "もぐもぐしながら話さないで！行儀が悪いよ！",
+                "source": "https://onomatoproject.com/terms/mogumogu.html",
+                "meaning": "¡No hables mientras comes! Son malos modales."
+            },
+            {
+                "usage": "murmurar",
+                "sentence": "もぐもぐ言ってると聞き取れないから、はっきり言いなさい。",
+                "source": "https://nihongonosensei.net/?p=14083",
+                "meaning": "No puedo oírte si estás murmurando, así que habla."
+            },
+            {
+                "usage": "retorcerse",
+                "sentence": "ほっぺを膨らましてもぐもぐしているのが可愛くてたまらない。",
+                "source": "https://nihongonosensei.net/?p=14083",
+                "meaning": "Es tan mono ver sus mejillas hinchadas y retorciéndose."
+            }
+        ]
+    }
+}

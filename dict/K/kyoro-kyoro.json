@@ -1,0 +1,87 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "キョロキョロ",
+    "romaji": "Kyoro-Kyoro",
+    "altWriting": "きょろきょろ",
+    "gif": "",
+    "video": "",
+    "image": "https://pbs.twimg.com/media/E7k1EfWUYAEARmn.jpg",
+    "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php&kana=きょろきょろ",
+    "en": {
+        "category": "movement",
+        "description": "1. To be restless and constantly looking around.",
+        "equivalent": "glance glance",
+        "meaning": [
+            "restlessly; nervously"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）辺りを見回す",
+                "significado": "~ look around restlessly."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する（な）",
+                "significado": "~ let one's eyes wonder; be innatentive; (with な) pay atention!"
+            }
+        ],
+        "examples": [{
+                "usage": "look around",
+                "sentence": "こら！授業中だぞ！きょろきょろするな！",
+                "source": "https://goiryoku.com/onomatopoeia/kyorokyoro/",
+                "meaning": "Hey! Hey! We're in the middle of a lesson! Don't look around!"
+            },
+            {
+                "usage": "look around",
+                "sentence": "あんまりきょろきょろしてたら旅行客だと思われちゃうよ！",
+                "source": "https://goiryoku.com/onomatopoeia/kyorokyoro/",
+                "meaning": "If you look around too much, they'll think you're a tourist!"
+            }
+        ]
+    },
+    "es": {
+        "category": "movimiento",
+        "description": "1. Estar inquieto y mirar constantemente a su alrededor.",
+        "equivalent": "mirada mirada",
+        "meaning": [
+            "inquietamente; nerviosamente"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）辺りを見回す",
+                "significado": "~ mirar alrededor inquieto."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する（な）",
+                "significado": "~ dejar vagar la mirada; estar desatento; (con な) ¡presta atención!"
+            }
+        ],
+        "examples": [{
+                "usage": "mirar alrededor",
+                "sentence": "こら！授業中だぞ！きょろきょろするな！",
+                "source": "https://goiryoku.com/onomatopoeia/kyorokyoro/",
+                "meaning": "¡Oye! ¡Oye! ¡Estamos en medio de una lección! ¡No mires a tu alrededor!"
+            },
+            {
+                "usage": "mirar alrededor",
+                "sentence": "あんまりきょろきょろしてたら旅行客だと思われちゃうよ！",
+                "source": "https://goiryoku.com/onomatopoeia/kyorokyoro/",
+                "meaning": "Si miras demasiado a tu alrededor, ¡pensarán que eres un turista!"
+            }
+        ]
+    }
+}

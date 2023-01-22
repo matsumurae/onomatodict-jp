@@ -13,7 +13,7 @@
     "en": {
         "category": "feeling",
         "description": "1. Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity. \n 2. Feeling shocked or startled.",
-        "equivalent": "1. thump (heartbeat) \n 2. Shock.",
+        "equivalent": "BA-DUMP",
         "meaning": [
             "thump",
             "to jump (fear)"
@@ -53,8 +53,8 @@
     "es": {
         "category": "sentimiento",
         "description": "1. Latidos cardíacos intensos debido a emoción, sorpresa, miedo, ansiedad u otra actividad emocional.\n 2. Sentirse conmocionado o sobresaltado.",
-        "equivalente": "1. golpe (latido del corazón) \n 2. Saltar de un susto.",
-        "sentido": [
+        "equivalence": "BA-DUMP",
+        "meaning": [
             "latido",
             "saltar (miedo)"
         ],

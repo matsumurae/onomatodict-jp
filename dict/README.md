@@ -1,5 +1,9 @@
 # Alphabetical order
 
+## B
+
+- Biku / びくっ (No sound)
+
 ## D
 
 - Doo / ドオ (No sound)
@@ -20,10 +24,20 @@
 - Hara-Hara / ハラハラ
 - Hiso-Hiso / ヒソヒソ
 
+## J
+
+- Ji / ジッ
+
 ## K
 
 - Koso-Koso / こそこそ
 - Kuru / くるっ (No sound)
+- Kyoro-Kyoro / キョロキョロ
+
+## M
+
+- Mogu-Mogu / モグモグ
+- Munya-Munya / むにゃむにゃ
 
 ## N
 

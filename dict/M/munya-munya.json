@@ -1,0 +1,111 @@
+{
+    "type": [
+        "Giyougo",
+        "擬容語"
+    ],
+    "name": "むにゃむにゃ",
+    "romaji": "Munya-Munya",
+    "altWriting": "ムニャムニャ",
+    "gif": "",
+    "video": "",
+    "image": "https://nihon5-bunka.net/wp-content/uploads/2019/07/munyamunya-300x200.jpg",
+    "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=むにゃむにゃ",
+    "en": {
+        "category": "action",
+        "description": "1. Person speaking while is sleeping in a way that it's difficult to hear what's being said.",
+        "equivalent": "numble numble (asleep)",
+        "meaning": [
+            "mumbling; murmuring"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）言う",
+                "meaning": "~ mumble; mutter."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）言葉を濁す",
+                "meaning": "~ mumble a vague answer."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）寝言を言う",
+                "meaning": "~ mumble in one's sleep."
+            }
+        ],
+        "examples": [{
+                "usage": "mumble while sleep",
+                "sentence": "むにゃむにゃと寝言を言っている子ども",
+                "source": "https://goiryoku.com/onomatopoeia/munyamunya/",
+                "meaning": "A child talking in his sleep."
+            },
+            {
+                "usage": "mumble",
+                "sentence": "追及するとむにゃむにゃと言葉を濁す彼",
+                "source": "https://goiryoku.com/onomatopoeia/munyamunya/",
+                "meaning": "When you press him, he mumbles his words."
+            }
+        ]
+    },
+    "es": {
+        "category": "acción",
+        "description": "1. Persona que habla mientras duerme de forma que es difícil escuchar lo que se dice.",
+        "equivalent": "murmurar murmurar (dormido)",
+        "meaning": [
+            "murmurando"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）言う",
+                "meaning": "~ mascullar; murmurar."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）言葉を濁す",
+                "meaning": "~ murmurar una respuesta vaga."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）寝言を言う",
+                "meaning": "~ murmurar mientras sueñas."
+            }
+        ],
+        "examples": [{
+                "usage": "murmurar mientras duerme",
+                "sentence": "むにゃむにゃと寝言を言っている子ども",
+                "source": "https://goiryoku.com/onomatopoeia/munyamunya/",
+                "meaning": "Un niño hablando en sueños."
+            },
+            {
+                "usage": "murmurar",
+                "sentence": "追及するとむにゃむにゃと言葉を濁す彼",
+                "source": "https://goiryoku.com/onomatopoeia/munyamunya/",
+                "meaning": "Cuando lo presionas, murmura las palabras."
+            }
+        ]
+    }
+}

@@ -7,6 +7,9 @@
   - [Kuru / くるっ](#kuru--くるっ)
     - [English](#english-1)
     - [Spanish](#spanish-1)
+  - [Kyoro-Kyoro / キョロキョロ](#kyoro-kyoro--キョロキョロ)
+    - [English](#english-2)
+    - [Spanish](#spanish-2)
 
 ## Koso-Koso / こそこそ
 
@@ -26,6 +29,7 @@ Listen the audio [here](http://assets.languagepod101.com/dictionary/japanese/aud
 
 - **Type:** Giyougo (擬容語)
 - **Category:** Speak.
+- **Onomatopoeia:** "escapes; secretly; secretly escapes; creep creep; sneaks away".
 - **Equivalent:** Sneaking; Rubbing; To move stealthily.
 
 **Usage**
@@ -60,6 +64,7 @@ I hear the sound of fallen leaves touching each other.
 
 - **Tipo:** Giyougo (擬容語)
 - **Categoría:** Hablar.
+- **Onomatopeya:** "escapa; secretamente; escapa secretamente; arrastrarse arrastrarse; se escabulle".
 - **Equivalencia:** Escabullirse; Frotarse; Moverse sigilosamente.
 
 **Uso**
@@ -68,7 +73,7 @@ I hear the sound of fallen leaves touching each other.
 ~ actuar de manera sospechosa.
 
 〜（と）携帯を見っている
-~ mirar en secreto el teléfono (propio).
+~ mirar en secreto el teléfono (de otro).
 
 〜（と）出ていく
 ~ escabullirse (de un lugar).
@@ -99,6 +104,7 @@ Escucho el sonido de las hojas caídas rozándose.
 
 - **Type:** Giyougo (擬容語)
 - **Category:** movement.
+- **Onomatopoeia:** SPIN.
 - **Equivalent:** turn around; turn quickly; full turn;light environment; round and lovely.
 
 **Usage**
@@ -125,6 +131,7 @@ When I turned around, the hem of my skirt spread out gently.
 
 - **Tipo:** Giyougo (擬容語)
 - **Categoría:** movimiento.
+- **Onomatopeya:** girarse.
 - **Equivalencia:** Darse la vuelta; girarse rápidamente; giro completo; entorno ligero; redondo y encantador.
 
 **Uso**
@@ -140,4 +147,62 @@ Darse la vuelta en un instante.
 
 くるっと回ってみると、スカートの裾がふわりと広がった。
 Cuando me di la vuelta, el dobladillo de mi falda se abrió suavemente.
+```
+
+## Kyoro-Kyoro / キョロキョロ
+
+![kyoro-kyoro](https://pbs.twimg.com/media/E7k1EfWUYAEARmn.jpg)
+
+### English
+
+> 1. To be restless and constantly looking around.
+
+- **Type:** Giyougo (擬容語)
+- **Category:** movement.
+- **Onomatopoeia:** "glance glance".
+- **Equivalent:** restlessly; nervously.
+
+**Usage**
+```
+〜（と）辺りを見回す
+~ look around restlessly.
+
+〜する（な）
+~ let one's eyes wonder; be innatentive; (with な) pay atention!
+```
+
+**Examples**
+```
+こら！授業中だぞ！きょろきょろするな！
+Hey! Hey! We're in the middle of a lesson! Don't look around!
+
+あんまりきょろきょろしてたら旅行客だと思われちゃうよ！
+If you look around too much, they'll think you're a tourist!
+```
+
+### Spanish
+
+> 1. Estar inquieto y mirar constantemente a su alrededor.
+
+- **Tipo:** Giyougo (擬容語)
+- **Categoría:** movimiento.
+- **Onomatopeya:** "mirada mirada".
+- **Equivalencia:** inquietamente; nerviosamente.
+
+**Uso**
+```
+〜（と）辺りを見回す
+~ mirar alrededor inquieto.
+
+〜する（な）
+~ dejar vagar la mirada; estar desatento; (con な) ¡presta atención!
+```
+
+**Ejemplos**
+```
+こら！授業中だぞ！きょろきょろするな！
+¡Oye! ¡Oye! ¡Estamos en medio de una lección! ¡No mires a tu alrededor!
+
+あんまりきょろきょろしてたら旅行客だと思われちゃうよ！
+Si miras demasiado a tu alrededor, ¡pensarán que eres un turista!
 ```
