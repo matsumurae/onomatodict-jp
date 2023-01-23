@@ -1,12 +1,106 @@
 # M
 
 - [M](#m)
-  - [Mogu-Mogu / モグモグ](#mogu-mogu--モグモグ)
+  - [Mochi-Mochi / もちもち](#mochi-mochi--もちもち)
     - [English](#english)
     - [Spanish](#spanish)
-  - [Munya-Munya / むにゃむにゃ](#munya-munya--むにゃむにゃ)
+  - [Mogu-Mogu / モグモグ](#mogu-mogu--モグモグ)
     - [English](#english-1)
     - [Spanish](#spanish-1)
+  - [Mote-Mote / モテモテ](#mote-mote--モテモテ)
+    - [English](#english-2)
+    - [Spanish](#spanish-2)
+  - [Munya-Munya / むにゃむにゃ](#munya-munya--むにゃむにゃ)
+    - [English](#english-3)
+    - [Spanish](#spanish-3)
+
+## Mochi-Mochi / もちもち
+
+![mochi-mochi](https://image.itmedia.co.jp/nl/articles/1703/29/taro_170327mochimochi01.jpg)
+
+[Video here](https://zoro.to/watch/freshly-baked-japan-586?ep=11423). [Audio here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もちもち).
+
+**Related**
+
+- Mochi / もちっ
+- Mocchiri / もっちり
+- Puni-Puni / ぷにぷに
+
+### English
+
+> 1. Soft and sticky food.
+> 2. Freshly and taut appearance of human body.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** Status.
+- **Onomatopoeia:** —.
+- **Equivalence:** chewy; doughy; plump; puffy; freshly; taut.
+- **Source:** https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/
+
+**Usage**
+```
+〜（と）したうどん
+~ doughy udon.
+
+〜（と）した食感
+~ a chewy texture.
+
+〜（と）した肢体
+~ plump limbs.
+
+〜（と）した肌
+~ puffy skin.
+```
+
+**Examples**
+```
+もちもち触感が新しいグミ
+It's a gummy with a new chewy texture.
+
+もちもちのお肌に憧れるなー
+I yearn after taut skin!
+
+もちもちのほっぺたをびよーんと伸ばす
+Stretch out one's plump cheeks.
+```
+
+### Spanish
+
+> 1. Comida blanda y pegajosa.
+> 2. Aspecto fresco y tenso del cuerpo humano.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** Estado.
+- **Onomatopoeia:** —.
+- **Equivalence:** masticable; pastoso; regordeta; hinchada; fresco; tenso.
+- **Source:** https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/
+
+**Uso**
+```
+〜（と）したうどん
+~ udon pastoso
+
+〜（と）した食感
+~ una textura masticable.
+
+〜（と）した肢体
+~ extremidades regordetas.
+
+〜（と）した肌
+~ piel hinchada.
+```
+
+**Ejemplos**
+```
+もちもち触感が新しいグミ
+Es una gominola con una nueva textura masticable.
+
+もちもちのお肌に憧れるなー
+¡Extraño mi piel tensa!
+
+もちもちのほっぺたをびよーんと伸ばす
+Estire las mejillas regordetas.
+```
 
 ## Mogu-Mogu / モグモグ
 
@@ -22,8 +116,8 @@
 > 1. Chewing without fully opening the mouth.
 > 2. Mumbling without mouth open full.
 
-- **Type:** Giyougo (擬容語).
-- **Category:** Action.
+- **Type:** Gitaigo (擬態語).
+- **Category:** Estado.
 - **Onomatopoeia:** munch munch.
 - **Equivalence:** chewing (food); mumbling; chewing one's words; squirming; wriggling.
 - **Source:**
@@ -97,9 +191,53 @@ No puedo oírte si estás murmurando, así que habla.
 Es tan mono ver sus mejillas hinchadas y retorciéndose.
 ```
 
+## Mote-Mote / モテモテ
+
+![mote-mote](https://image.itmedia.co.jp/nl/articles/1907/03/kutsu_190701lottery02.jpg)
+
+### English
+
+> 1. Be popular with the opposite sex.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** State.
+- **Onomatopoeia:** -
+- **Equivalence:** popular; sexy; well-liked; irresistible.
+- **Source:** https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/
+
+**Examples**
+```
+彼はクラスのみんなからモテモテだ
+He's popular with everyone in his class.
+
+彼は海外に行った時、現地の女性からモテモテだったらしい
+Apparently he was irresistible to local women when he went abroad.
+```
+
+### Spanish
+
+> 1. Ser popular con el sexo opuesto.
+
+- **Tipo:** Gitaigo (擬態語).
+- **Categoría:** Estado.
+- **Onomatopeya:** -
+- **Equivalencia:** popular; exitoso; favorecido; irresistible.
+- **Fuente:** https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/
+
+**Ejemplos**
+```
+彼はクラスのみんなからモテモテだ
+Es popular entre todos los de su clase.
+
+彼は海外に行った時、現地の女性からモテモテだったらしい
+Al parecer, era irresistible para las mujeres locales cuando se iba al extranjero.
+```
+
 ## Munya-Munya / むにゃむにゃ
 
 ![munya-munya](https://nihon5-bunka.net/wp-content/uploads/2019/07/munyamunya-300x200.jpg)
+
+[Video here](https://zoro.to/watch/polar-bear-cafe-607?ep=11721). [Audio here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=モテモテ).
 
 **Related**
 
@@ -111,7 +249,7 @@ Es tan mono ver sus mejillas hinchadas y retorciéndose.
 
 - **Type:** Giyougo (擬容語).
 - **Category:** Action.
-- **Onomatopoeia:** ble numble (asleep).
+- **Onomatopoeia:** numble numble (asleep).
 - **Equivalence:** mumbling; murmuring.
 - **Source:** https://goiryoku.com/onomatopoeia/munyamunya/
 

@@ -36,7 +36,9 @@
 
 ## M
 
+- Mochi-Mochi / もちもち
 - Mogu-Mogu / モグモグ
+- Mote-Mote / モテモテ
 - Munya-Munya / むにゃむにゃ
 
 ## N

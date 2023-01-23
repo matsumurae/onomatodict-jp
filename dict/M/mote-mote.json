@@ -1,0 +1,55 @@
+{
+    "type": [
+        "gitaigo",
+        "擬態語"
+    ],
+    "name": "モテモテ",
+    "romaji": "Mote-Mote",
+    "altWriting": "",
+    "gif": "",
+    "video": "https://zoro.to/watch/polar-bear-cafe-607?ep=11721",
+    "image": "https://image.itmedia.co.jp/nl/articles/1907/03/kutsu_190701lottery02.jpg",
+    "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=モテモテ",
+    "en": {
+        "category": "state",
+        "description": "1. Be popular with the opposite sex.",
+        "equivalent": "",
+        "meaning": [
+            "popular; sexy; well-liked; irresistible"
+        ],
+        "examples": [{
+                "usage": "popular",
+                "sentence": "彼はクラスのみんなからモテモテだ",
+                "source": "https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/",
+                "meaning": "He's popular with everyone in his class."
+            },
+            {
+                "usage": "irresistible",
+                "sentence": "彼は海外に行った時、現地の女性からモテモテだったらしい",
+                "source": "https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/",
+                "meaning": "Apparently he was irresistible to local women when he went abroad."
+            }
+        ]
+    },
+    "es": {
+        "category": "estado",
+        "description": "1. Ser popular con el sexo opuesto.",
+        "equivalent": "",
+        "meaning": [
+            "popular; exitoso; favorecido; irresistible"
+        ],
+        "examples": [{
+                "usage": "popular",
+                "sentence": "彼はクラスのみんなからモテモテだ",
+                "source": "https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/",
+                "meaning": "Es popular entre todos los de su clase."
+            },
+            {
+                "usage": "irresistible",
+                "sentence": "彼は海外に行った時、現地の女性からモテモテだったらしい",
+                "source": "https://nihongokyoshi-net.com/2021/06/20/onomatopoeia-motemote/",
+                "meaning": "Al parecer, era irresistible para las mujeres locales cuando se iba al extranjero."
+            }
+        ]
+    }
+}
