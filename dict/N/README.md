@@ -44,6 +44,7 @@ Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
 - **Equivalent:** Light bulb went on in my head or "ding-ding".
+- **Source:** https://goiryoku.com/onomatopoeia/naminami/
 
 **Usage**
 ```
@@ -75,6 +76,7 @@ He went through uncommon troubles before he became president.
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
 - **Equivalencia:** Se me encendió una bombilla en la cabeza.
+- **Fuente:** https://goiryoku.com/onomatopoeia/naminami/
 
 **Usage**
 ```
@@ -116,6 +118,7 @@ Sound [here](https://www.youtube.com/watch?v=Za430fjW2mEhttps://assets.languagep
 - **Type:** Gitaigo (擬態語)
 - **Category:** Mood.
 - **Equivalent:** Smile from ear to ear.
+- **Source:** https://goiryoku.com/onomatopoeia/niko/
 
 **Usage**
 ```
@@ -142,6 +145,7 @@ Children who have been in a good mood since morning
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Humor.
 - **Equivalencia:** Sonrisa de oreja a oreja.
+- **Fuente:** https://goiryoku.com/onomatopoeia/niko/
 
 **Uso**
 ```
@@ -176,6 +180,7 @@ Los niños han estado de buen humor desde por la mañana.
 - **Type:** Gitaigo (擬態語)
 - **Category:** Status.
 - **Equivalent:** No equivalent.
+- **Source:** https://news.livedoor.com/article/detail/19689989/
 
 **Examples**
 ```
@@ -190,6 +195,7 @@ She seems to be smiling (with a perv one) and there is no room for taking advant
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Estado.
 - **Equivalencia:** Sin equivalencia.
+- **Fuente:** https://news.livedoor.com/article/detail/19689989/
 
 **Ejemplos**
 ```
@@ -215,6 +221,7 @@ Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?
 - **Type:** Gitaigo (擬態語)
 - **Category:** Status.
 - **Equivalent:** No equivalence.
+- **Source:** https://goiryoku.com/onomatopoeia/niya/
 
 **Usage**
 ```
@@ -241,6 +248,7 @@ She grins when she thinks about winning the lottery.
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Estado.
 - **Equivalencia:** Sin equivalente.
+- **Fuente:** https://goiryoku.com/onomatopoeia/niya/
 
 **Uso**
 ```
@@ -277,6 +285,9 @@ Ella **sonríe** cuando piensa en ganar la lotería.
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
 - **Equivalent:** Wet; slimy; smooth; slippery.
+- **Sources:**
+  - https://ncode.syosetu.com/n2674cv/1/
+  - https://ncode.syosetu.com/n6774eh/284/
 
 **Usage**
 ```
@@ -316,6 +327,9 @@ I thought it was smooth!
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
 - **Equivalencia:** Húmedo; Suave; viscoso; rebaladizo.
+- **Fuentes:**
+  - https://ncode.syosetu.com/n2674cv/1/
+  - https://ncode.syosetu.com/n6774eh/284/
 
 **Uso**
 ```
@@ -366,6 +380,10 @@ Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
 - **Equivalent:** Wet; slimy; slowmo.
+- **Source:** 
+  - https://ncode.syosetu.com/n5184cm/88/
+  - https://ncode.syosetu.com/n4027dp/56/
+  - https://ncode.syosetu.com/n0432fz/31/
 
 **Usage**
 ```
@@ -402,6 +420,10 @@ The skin is glistening and molten.
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
 - **Equivalencia:** Mojado; viscoso; cámara lenta.
+- **Fuente:** 
+  - https://ncode.syosetu.com/n5184cm/88/
+  - https://ncode.syosetu.com/n4027dp/56/
+  - https://ncode.syosetu.com/n0432fz/31/
 
 **Uso**
 ```
@@ -450,6 +472,10 @@ Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
 - **Equivalent:** Wet; slimy; smooth.
+- **Source:**
+  - https://ncode.syosetu.com/n4405cp/707/
+  - https://ncode.syosetu.com/n3125cg/230/
+  - https://goiryoku.com/onomatopoeia/nurunuru/
 
 **Usage**
 ```
@@ -486,7 +512,10 @@ Gaming PC move game screens smoothly.
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
 - **Equivalencia:** Mojado; viscoso; fluido.
-
+- **Fuente:**
+  - https://ncode.syosetu.com/n4405cp/707/
+  - https://ncode.syosetu.com/n3125cg/230/
+  - https://goiryoku.com/onomatopoeia/nurunuru/
 
 **Uso**
 ```
@@ -533,6 +562,7 @@ El pc gaming mueve las pantallas de los juegos suavemente.
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
 - **Equivalent:** Light bulb went on in my head or "ding-ding".
+- **Source:** https://goiryoku.com/onomatopoeia/nurultu/
 
 **Examples**
 ```
@@ -555,6 +585,7 @@ The hot water in this onsen slippery.
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
 - **Equivalencia:** Se me encendió una bombilla en la cabeza.
+- **Fuente:** https://goiryoku.com/onomatopoeia/nurultu/
 
 **Ejemplos**
 ```

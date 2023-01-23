@@ -26,6 +26,9 @@
 - **Category:** Action.
 - **Onomatopoeia:** munch munch.
 - **Equivalence:** chewing (food); mumbling; chewing one's words; squirming; wriggling.
+- **Source:**
+  - https://onomatoproject.com/terms/mogumogu.html
+  - https://nihongonosensei.net/?p=14083
 
 **Usage**
 ```
@@ -63,6 +66,9 @@ It's so cute to see their cheeks puffed out and squirming.
 - **Categoría:** Acción.
 - **Onomatopeya:** masticar masticar.
 - **Equivalente:** masticar (comida); murmurando; comerse tus propias palabras; retorciéndose.
+- **Fuente:**
+  - https://onomatoproject.com/terms/mogumogu.html
+  - https://nihongonosensei.net/?p=14083
 
 **Uso**
 ```
@@ -107,6 +113,7 @@ Es tan mono ver sus mejillas hinchadas y retorciéndose.
 - **Category:** Action.
 - **Onomatopoeia:** ble numble (asleep).
 - **Equivalence:** mumbling; murmuring.
+- **Source:** https://goiryoku.com/onomatopoeia/munyamunya/
 
 **Usage**
 ```
@@ -137,6 +144,7 @@ When you press him, he mumbles his words.
 - **Categoría:** Acción.
 - **Onomatopeya:** murmurar murmurar (dormido).
 - **Equivalente:** murmurar.
+- **Fuente:** https://goiryoku.com/onomatopoeia/munyamunya/
 
 **Uso**
 ```

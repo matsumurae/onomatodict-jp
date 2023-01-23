@@ -21,6 +21,9 @@
 - **Category:** Fire.
 - **Onomatopoeia:** fire; alarm; staring; be quiet without moving.
 - **Equivalent:** lites; flame; staring at.
+- **Sources:**
+  - http://sura-sura.com/archives/2432.html
+  - https://goiryoku.com/onomatopoeia/ziltu/
 
 **Examples**
 ```
@@ -46,6 +49,9 @@ Don't move! Keep your hands up and hold still!
 - **Categoría:** Fuego.
 - **Onomatopeya:** fuego; alarma; mirar fijamente; quedarse quieto.
 - **Equivalente:** luz; fuego; mirar fijamente.
+- **Fuente:**
+  - http://sura-sura.com/archives/2432.html
+  - https://goiryoku.com/onomatopoeia/ziltu/
 
 **Ejemplos**
 ```

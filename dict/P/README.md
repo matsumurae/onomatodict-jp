@@ -19,6 +19,7 @@ Video [here](https://www.youtube.com/watch?v=cL6DfTodMCI)
 - **Type:** Giyougo (擬容語)
 - **Category:** Status.
 - **Equivalent:** Light bulb went on in my head or "ding-ding".
+- **Source:** https://alu.jp/article/AJphA19vXxoI4183uULB
 
 ### Spanish
 
@@ -28,3 +29,4 @@ Video [here](https://www.youtube.com/watch?v=cL6DfTodMCI)
 - **Tipo:** Giyougo (擬容語)
 - **Categoría:** Estado.
 - **Equivalencia:** Se me encendió una bombilla en la cabeza.
+- **Fuente:** https://alu.jp/article/AJphA19vXxoI4183uULB

@@ -42,6 +42,7 @@
 - **Type:** Giseigo (擬声語)
 - **Category:** Drink.
 - **Equivalent:** Spoosh.
+- **Source:** https://alu.jp/article/AJphA19vXxoI4183uULB
 
 ### Spanish
 
@@ -50,6 +51,7 @@
 - **Tipo:** Giseigo (擬声語)
 - **Categoría:** Beber.
 - **Equivalencia:** –.
+- **Fuente:** https://alu.jp/article/AJphA19vXxoI4183uULB
 
 ## Suu / すぅー
 

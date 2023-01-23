@@ -21,6 +21,7 @@
 - **Category:** Sigh.
 - **Onomatopoeia:** pant; haa; ha; sigh; blow; breath.
 - **Equivalent:** Sigh.
+- **Source:** https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83
 
 **Usage**
 
@@ -63,6 +64,7 @@ Phew, he exhaled loudly.
 - **Categoría:** Suspiro.
 - **Onomatopeya:** jadeo; haa; ha; suspiro; soplo; aliento.
 - **Equivalencia:** Suspiro.
+- **Fuente:** https://www.nihongomaster.com/japanese/dictionary/word/148463/futsu-%E3%83%95%E3%83%83
 
 **Uso**
 

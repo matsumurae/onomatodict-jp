@@ -19,6 +19,7 @@ Listen the audio [here](https://assets.languagepod101.com/dictionary/japanese/au
 - **Type:** Giyougo (擬容語)
 - **Category:** Clothes.
 - **Equivalent:** No exact equivalent.
+- **Source:** https://alu.jp/article/AJphA19vXxoI4183uULB
 
 ### Spanish
 
@@ -28,3 +29,4 @@ Listen the audio [here](https://assets.languagepod101.com/dictionary/japanese/au
 - **Tipo:** Giyougo (擬容語)
 - **Categoría:** Ropa.
 - **Equivalencia:** Sin equivalente exacto.
+- **Fuente:** https://alu.jp/article/AJphA19vXxoI4183uULB

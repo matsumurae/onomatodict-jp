@@ -44,6 +44,7 @@ Let's say you go to the `N` letter and choose `nico-nico`. You'll find the next 
 - **Category:** Used to categorize JSON data. MEANINGLESS HERE.
 - **Onomatopoeia:** Equivalence onomatopoeia.
 - **Equivalence:** Word equivalence. Sometimes there's no direct equivalence and it's more like a word or list of words that could be used for.
+- **Sources:** Info source.
 - **Usage:** grammar rules about how it's commonly used. This is not a mandatory rule, it's more a guideline. The words used here are not the only way to use them.
 - **Examples:** real-word examples to see how the onomatopoeia is used.
 

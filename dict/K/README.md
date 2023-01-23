@@ -31,6 +31,7 @@ Listen the audio [here](http://assets.languagepod101.com/dictionary/japanese/aud
 - **Category:** Speak.
 - **Onomatopoeia:** "escapes; secretly; secretly escapes; creep creep; sneaks away".
 - **Equivalent:** Sneaking; Rubbing; To move stealthily.
+- **Sources:** https://goiryoku.com/onomatopoeia/koso/
 
 **Usage**
 ```
@@ -66,6 +67,7 @@ I hear the sound of fallen leaves touching each other.
 - **Categoría:** Hablar.
 - **Onomatopeya:** "escapa; secretamente; escapa secretamente; arrastrarse arrastrarse; se escabulle".
 - **Equivalencia:** Escabullirse; Frotarse; Moverse sigilosamente.
+- **Fuente:** https://goiryoku.com/onomatopoeia/koso/
 
 **Uso**
 ```
@@ -106,6 +108,9 @@ Escucho el sonido de las hojas caídas rozándose.
 - **Category:** movement.
 - **Onomatopoeia:** SPIN.
 - **Equivalent:** turn around; turn quickly; full turn;light environment; round and lovely.
+- **Source:** 
+  - http://sura-sura.com/archives/1759.html
+  - https://ncode.syosetu.com/n4940de/36/
 
 **Usage**
 ```
@@ -133,6 +138,9 @@ When I turned around, the hem of my skirt spread out gently.
 - **Categoría:** movimiento.
 - **Onomatopeya:** girarse.
 - **Equivalencia:** Darse la vuelta; girarse rápidamente; giro completo; entorno ligero; redondo y encantador.
+- **Fuente:** 
+  - http://sura-sura.com/archives/1759.html
+  - https://ncode.syosetu.com/n4940de/36/
 
 **Uso**
 ```
@@ -161,6 +169,7 @@ Cuando me di la vuelta, el dobladillo de mi falda se abrió suavemente.
 - **Category:** movement.
 - **Onomatopoeia:** "glance glance".
 - **Equivalent:** restlessly; nervously.
+- **Source:** https://goiryoku.com/onomatopoeia/kyorokyoro/
 
 **Usage**
 ```
@@ -188,6 +197,7 @@ If you look around too much, they'll think you're a tourist!
 - **Categoría:** movimiento.
 - **Onomatopeya:** "mirada mirada".
 - **Equivalencia:** inquietamente; nerviosamente.
+- **Fuente:** https://goiryoku.com/onomatopoeia/kyorokyoro/
 
 **Uso**
 ```

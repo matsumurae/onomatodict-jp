@@ -22,6 +22,9 @@
 - **Type:** Gijougo (擬情語)
 - **Category:** Feeling.
 - **Equivalent:** fluttering; nervous.
+- **Source:** 
+  - https://nihongokyoshi-net.com/2021/04/21/onomatopoeiaa-harahara/
+  - https://nihon5-bunka.net/onomatopoeia-harahara/
 
 **Usage**
 ```
@@ -55,6 +58,9 @@ Petals are falling down.
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
 - **Equivalencia:** agitado; nervioso.
+- **Fuente:** 
+  - https://nihongokyoshi-net.com/2021/04/21/onomatopoeiaa-harahara/
+  - https://nihon5-bunka.net/onomatopoeia-harahara/
 
 **Uso**
 ```
@@ -97,6 +103,9 @@ Listen the audio [here](http://assets.languagepod101.com/dictionary/japanese/aud
 - **Type:** Gitaigo (擬態語)
 - **Category:** Speak.
 - **Equivalent:** Whisper.
+- **Source:** 
+  - https://www.facebook.com/nihongonote2/photos/japanese-onomatopoeia%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9Dhisohisowhisper-%E3%81%82%E3%81%AE%E4%BA%8C%E4%BA%BA%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E6%8E%88%E6%A5%AD%E4%B8%AD%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9D%E8%A9%B1%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%9D%E3%81%93%E3%81%9Dkosokososecret/424696344948206/
+  - https://nihon5-bunka.net/onomatopoeia-hisohiso/
 
 **Usage**
 ```
@@ -124,6 +133,9 @@ My friend is quietly preparing (to leave) for a new business venture.
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Hablar.
 - **Equivalencia:** Susurro.
+- **Fuente:** 
+  - https://www.facebook.com/nihongonote2/photos/japanese-onomatopoeia%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9Dhisohisowhisper-%E3%81%82%E3%81%AE%E4%BA%8C%E4%BA%BA%E3%81%AF%E3%81%84%E3%81%A4%E3%82%82%E6%8E%88%E6%A5%AD%E4%B8%AD%E3%81%B2%E3%81%9D%E3%81%B2%E3%81%9D%E8%A9%B1%E3%81%97%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%93%E3%81%9D%E3%81%93%E3%81%9Dkosokososecret/424696344948206/
+  - https://nihon5-bunka.net/onomatopoeia-hisohiso/
 
 **Uso**
 ```

@@ -17,6 +17,7 @@
 - **Type:** Giongo (擬音語)
 - **Category:** Drink.
 - **Equivalent:** Glu-glu.
+- **Source:** https://alu.jp/article/AJphA19vXxoI4183uULB
 
 ### Spanish
 
@@ -25,3 +26,4 @@
 - **Tipo:** Giongo (擬音語)
 - **Categoría:** Beber.
 - **Equivalencia:** Glu-glu.
+- **Fuente:** https://alu.jp/article/AJphA19vXxoI4183uULB

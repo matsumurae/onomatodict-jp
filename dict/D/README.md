@@ -34,6 +34,9 @@
 - **Category:** Feeling.
 - **Onomatopoeia:** BA-DUMP BA-DUMP.
 - **Equivalent:** heartbeat; excited; nervous; have butterflies in stomach.
+- **Source:**
+  - https://goiryoku.com/onomatopoeia/dokidoki/
+  - https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/.
 
 **Usage**
 ```
@@ -68,6 +71,9 @@ Whenever I talk to him, my heart always beats fast.
 - **Categoría:** Sentimiento.
 - **Onomatopeya:** BA-DUMP BA-DUMP.
 - **Equivalente:** latido del corazón; excitado; nervioso; tener mariposas en el estomago.
+- **Fuente:**
+  - https://goiryoku.com/onomatopoeia/dokidoki/
+  - https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/
 
 **Uso**
 ```
@@ -111,6 +117,9 @@ Cada vez que hablo con él, mi corazón siempre late rápido.
 - **Category:** Feeling.
 - **Onomatopoeia:** BA-DUMP.
 - **Equivalent:** thump; to jump (fear).
+- **Source:** 
+  - https://goiryoku.com/onomatopoeia/dokiltu/
+  - https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/
 
 **Usage**
 ```
@@ -136,6 +145,9 @@ I was startled from behind and stood up.
 - **Categoría:** Sentimiento.
 - **Onomatopeya:** BA-DUMP.
 - **Equivalente:** latido; saltar (de susto).
+- **Fuente:** 
+  - https://goiryoku.com/onomatopoeia/dokiltu/
+  - https://nihongokyoshi-net.com/2020/10/15/onomatopoeia-dokidoki/
 
 **Uso**
 ```
@@ -169,6 +181,7 @@ Me sobresaltó por detrás y me puse de pie.
 - **Category:** Feeling.
 - **Onomatopoeia:** BA-DUMP.
 - **Equivalent:** thump-thump.
+- **Source:** https://goiryoku.com/onomatopoeia/dokinn-2/
 
 **Usage**
 ```
@@ -192,6 +205,7 @@ He was startled by the sudden news.
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
 - **Onomatopoeia:** pum-pum.
+- **Fuente:** https://goiryoku.com/onomatopoeia/dokinn-2/
 
 **Uso**
 ```
@@ -220,6 +234,7 @@ Se sorprendió por la repentina noticia.
 - **Type:** Gijougo (擬情語)
 - **Category:** Feeling.
 - **Equivalent:** No exact equivalent.
+- **Source:** https://alu.jp/article/AJphA19vXxoI4183uULB
 
 ### Spanish
 
@@ -229,3 +244,4 @@ Se sorprendió por la repentina noticia.
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
 - **Equivalente:** Sin equivalente exacto.
+- **Fuente:** https://alu.jp/article/AJphA19vXxoI4183uULB
