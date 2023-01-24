@@ -5,6 +5,12 @@
   - [Condiciones y estados de ánimo / Gitaigo / 擬態語](#condiciones-y-estados-de-ánimo--gitaigo--擬態語)
     - [Movimiento y acción / Giyougo / 擬容語 (ぎようご)](#movimiento-y-acción--giyougo--擬容語-ぎようご)
     - [Sentimientos / Gijougo / 擬情語 (ぎじょうご)](#sentimientos--gijougo--擬情語-ぎじょうご)
+- [Sintáxis de las onomatopeyas](#sintáxis-de-las-onomatopeyas)
+  - [Clasificación de los adverbios japoneses](#clasificación-de-los-adverbios-japoneses)
+    - [Onomatopeyas de modo](#onomatopeyas-de-modo)
+    - [Onomatopeyas de resultado](#onomatopeyas-de-resultado)
+    - [Onomatopeyas de grado (+ de cantidad)](#onomatopeyas-de-grado--de-cantidad)
+    - [Onomatopeyas de frecuencia](#onomatopeyas-de-frecuencia)
 
 # ¿Cómo escoger la categoría correcta?
 
@@ -76,3 +82,81 @@ Esta subcategoría de `gitaigo` es para el movimiento (caminar o viajar de un lu
 ![gijougo](https://img-cdn.jg.jugem.jp/445/15130/20060307_141520.jpg)
 
 En esta subcategoría de `gitaigo` puedes encontrar emociones. **Usado solo para humanos**. Cosas como "dolor palpitante y molido" o "Emocionado por la anticipación, el placer o la felicidad" van aquí.
+
+# Sintáxis de las onomatopeyas
+
+| Función                 | Ejemplo                | Traducción              |
+|-------------------------|------------------------|-------------------------|
+| Modificación verbal     | 疲れてふらふら(と)歩く | caminar con agotamiento |
+| Modificación nominal    | 疲れてふらふらの人     | alguien agotado         |
+| Predicado copulativo    | 疲れてふらふらだ       | estar agotado           |
+| Complemento predicativo | 疲れてふらふらになる   | terminar agotado        |
+
+## Clasificación de los adverbios japoneses
+
+Existen siete categorías:
+
+1. **Adverbio de modo:** ゆっくり (lentamente), ぐっすり (profundamente / usado para dormir), じっと (fijamente), いやいや (de mala gana), びしびし (estrictamente).
+2. **Adverbio de grado:** とても (muy), もっと (más).
+3. **Adverbio de cantidad:** たくさん (mucho), ほとんど (casi).
+4. **Adverbio de frecuencia:** いつも (siempre), 時々 (a veces), 大抵 (casi siempre).
+5. **Adverbio de tiempo:** 今日 (hoy), 明日 (mañana), すぐ (enseguida).
+6. **Adverbio de aspecto:** もう (ya), とうとう (finalmente), 直ちに (inmediatamente).
+7. **Adverbio oracional:** ぜひ (sin falta), おそらく (probablemente), 多分 (quizá), きっと (seguro), 当然 (naturalmente).
+
+Si hablamos de las onomatopeyas, podemos encontrar **cuatro categorías**: de modo, de resultado, de grado (incluye también los de cantidad) y de frecuencia.
+
+### Onomatopeyas de modo
+
+> Explica en qué manera se desarrolla la acción descrita por el verbo.
+
+En japonés, casi todas las onomatopeyas pueden funcionar como adverbios de modo. Algunas necesitan la partícula と para funcionar como adverbio.
+
+```
+あの人は美人なのに、どうしてあんなにじゃらじゃらと着飾るのかしら
+Con lo guapa que es, no entiendo por qué se viste de manera tan estridente.
+
+身軽な三郎は、通りかかった私を驚かそうと、いきなり松の木の枝からぴょ んと飛び下がり、地面にすくっと立って見せた
+Saburo, ágil como es él y en un intento por asustarme a mi paso por allí, de repente bajó de un salto de la rama de un pino y se plantó en el suelo, justo delante de mí.
+```
+
+### Onomatopeyas de resultado
+
+> Indican un estado que es consecuencia de la acción del verbo al que acompañan. No se refieren a sonidos, si no a estados.
+
+```
+僕は子供たちを遊園地に連れて行ってくたくたに疲れた
+Llevé a los niños al parque de atracciones y acabé hecho polvo.
+
+弟は夕立に遭ったらしくびしょびしょに濡れて帰宅した
+Mi hermano volvió a casa empapado tras verse sorprendido por un chaparrón.
+
+久方ぶりに大掃除をして床をぴかぴかに磨いた
+Llevaba tiempo sin hacer limpieza general y dejé el suelo reluciente.
+```
+
+### Onomatopeyas de grado (+ de cantidad)
+
+En esta cantidad hay muchos menos que en los dos anteriores. 
+
+```
+肉中心の食事をしている人は、同時に野菜もたっぷりとらなければならな い
+Quienes basan su alimentación en la carne deberían al mismo tiempo tomar también verdura en abundancia.
+
+田舎の両親から大きな荷物が届いたので、開けてみると、ミカンがどっさり 入っていた
+Abrí el enorme paquete que mis padres me enviaron desde el pueblo y me lo encontré repleto de naranjas.
+```
+
+### Onomatopeyas de frecuencia
+
+Esta categoría es la más reducida de las cuatro.
+
+> Indican que la acción en cuestión se sucede una y otra vez.
+
+```
+帰宅時間が近づくと、社員は壁にかかっている時計にちょいちょい目をや る
+Conforme se acerca la hora de volver a casa, los empleados no dejan de mirar una y otra vez el reloj que cuelga de la pared.
+
+わからないことがあったら、遠慮せずにどしどし質問してください
+Si hay algo que no entiendan, no tengan reparo en formular todas las preguntas que quieran.
+```
