@@ -37,7 +37,7 @@ Let's say you go to the `N` letter and choose `nico-nico`. You'll find the next 
 
 - **Describing image:** I try to get them from manga but sometimes it's not easy.
 - **Video:** if there's any explanation on YT.
-  - It's possible to have a **Anime field** where you'll see the onomatopoeia in a realistic uasge.
+  - It's possible to have a **Anime field** where you'll see the onomatopoeia in a realistic usage.
 - **Audio:** if there's an available audio for the word.
 - **Related:** related onomatopoeias.
 - **Meaning:** Real meaning or meanings of the word.
