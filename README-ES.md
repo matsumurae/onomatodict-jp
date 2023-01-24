@@ -37,6 +37,7 @@ Vamos a decir que quieres ir a la `N` y escoges `nico-nico`. Allí, encontrarás
 
 - **Imagen descriptiva:** Intento sacarlas de mangas pero a veces no es fácil…
 - **Video:** si hay alguna explicación en YT.
+  - Es posible que encuentres un campo llamado **Anime** donde podrás ver la onomatopeya usada en un ejemplo real.
 - **Audio:** si hay un audio disponible para la palabra.
 - **Relacionado:** onomatopeyas relacionadas.
 - **Significado:** Significado o significados reales de la palabra.
