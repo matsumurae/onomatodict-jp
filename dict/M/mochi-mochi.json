@@ -7,7 +7,8 @@
     "romaji": "Mochi-Mochi",
     "altWriting": "もちもち",
     "gif": "",
-    "video": "https://zoro.to/watch/freshly-baked-japan-586?ep=11423",
+    "anime": "https://zoro.to/watch/freshly-baked-japan-586?ep=11423",
+    "video": "",
     "image": "https://image.itmedia.co.jp/nl/articles/1703/29/taro_170327mochimochi01.jpg",
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もちもち",
     "en": {
@@ -86,6 +87,16 @@
                 "romaji": "Mocchiri",
                 "description": "Same meaning"
             },
+            {
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Chubby"
+			},
+			{
+				"name": "むちっ",
+				"romaji": "Muchi",
+				"description": "Chubby"
+			},
             {
                 "name": "ぷにぷに",
                 "romaji": "Puni-Puni",
@@ -168,6 +179,16 @@
                 "romaji": "Mocchiri",
                 "description": "Mismo significado"
             },
+            {
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Regordete"
+			},
+			{
+				"name": "むちっ",
+				"romaji": "Muchi",
+				"description": "Regordete"
+			},
             {
                 "name": "ぷにぷに",
                 "romaji": "Puni-Puni",

@@ -1,30 +1,101 @@
 # M
 
 - [M](#m)
-  - [Mochi-Mochi / もちもち](#mochi-mochi--もちもち)
+  - [Mocchiri / もっちり](#mocchiri--もっちり)
     - [English](#english)
     - [Spanish](#spanish)
-  - [Mogu-Mogu / モグモグ](#mogu-mogu--モグモグ)
+  - [Mochi-Mochi / もちもち](#mochi-mochi--もちもち)
     - [English](#english-1)
     - [Spanish](#spanish-1)
-  - [Mote-Mote / モテモテ](#mote-mote--モテモテ)
+  - [Mochi / もちっ](#mochi--もちっ)
     - [English](#english-2)
     - [Spanish](#spanish-2)
-  - [Munya-Munya / むにゃむにゃ](#munya-munya--むにゃむにゃ)
+  - [Mogu-Mogu / モグモグ](#mogu-mogu--モグモグ)
     - [English](#english-3)
     - [Spanish](#spanish-3)
+  - [Mote-Mote / モテモテ](#mote-mote--モテモテ)
+    - [English](#english-4)
+    - [Spanish](#spanish-4)
+  - [Muchi-Muchi / むちむち](#muchi-muchi--むちむち)
+    - [English](#english-5)
+    - [Spanish](#spanish-5)
+  - [Muchi / むちっ](#muchi--むちっ)
+    - [English](#english-6)
+    - [Spanish](#spanish-6)
+  - [Munya-Munya / むにゃむにゃ](#munya-munya--むにゃむにゃ)
+    - [English](#english-7)
+    - [Spanish](#spanish-7)
+
+## Mocchiri / もっちり
+
+![mocchiri](https://nihon5-bunka.net/wp-content/uploads/2019/07/944718-300x300.jpg)
+
+**Related**
+
+- Mochi-Mochi / もちもち
+- Mochi / もちっ
+- Mocchiri / もっちり
+- Puni-Puni / ぷにぷに
+- Muchi-Muchi / むちむち
+- Muchi / むちっ
+
+### English
+
+> 1. The texture has elasticity and stickiness, and appears soft.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** Status.
+- **Onomatopoeia:** —.
+- **Equivalence:** chewy; chewy; fluffy.
+- **Source:** https://goiryoku.com/onomatopoeia/moltutiri/
+
+**Examples**
+```
+もっちり食感がウリのアイスクリーム
+The texture of the ice cream is very chunky.
+
+もっちりとしたベーグルを朝食に食べたいな
+I'd love to have a chewy bagel for breakfast.
+
+もっちりふわふわの高級食パンが人気
+High-quality fluffy bread is popular.
+```
+
+### Spanish
+
+> 1. La textura tiene elasticidad y pegajosidad, y parece suave.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** Estado.
+- **Onomatopoeia:** —.
+- **Equivalence:** masticable; esponjoso; suave.
+- **Source:** https://goiryoku.com/onomatopoeia/moltutiri/
+
+**Ejemplos**
+```
+もっちり食感がウリのアイスクリーム
+La textura del helado es muy suave.
+
+もっちりとしたベーグルを朝食に食べたいな
+Me encantaría tener un bagel masticable para el desayuno.
+
+もっちりふわふわの高級食パンが人気
+El pan esponjoso de alta calidad es popular.
+```
 
 ## Mochi-Mochi / もちもち
 
 ![mochi-mochi](https://image.itmedia.co.jp/nl/articles/1703/29/taro_170327mochimochi01.jpg)
 
-[Video here](https://zoro.to/watch/freshly-baked-japan-586?ep=11423). [Audio here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もちもち).
+[Anime Yakitate!! Japan: minute 17:43](https://zoro.to/watch/freshly-baked-japan-586?ep=11423). [Audio here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もちもち).
 
 **Related**
 
 - Mochi / もちっ
 - Mocchiri / もっちり
 - Puni-Puni / ぷにぷに
+- Muchi-Muchi / むちむち
+- Muchi / むちっ
 
 ### English
 
@@ -102,10 +173,80 @@ Es una gominola con una nueva textura masticable.
 Estire las mejillas regordetas.
 ```
 
+## Mochi / もちっ
+
+![mochi](https://cdn.mofmo.jp/v3/640/imeditor_storage/1/article/20201218103338-ren6q.jpg)
+
+**Related**
+
+- Mochi-Mochi / もちもち
+- Mocchiri / もっちり
+- Puni-Puni / ぷにぷに
+- Muchi-Muchi / むちむち
+- Muchi / むちっ
+
+### English
+
+> 1. Elastic and sticky texture, soft.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** Status.
+- **Onomatopoeia:** —.
+- **Equivalence:** soft; chewy; elastic; sticky; glutinous.
+- **Source:** https://goiryoku.com/onomatopoeia/motiltu/
+
+**Usage**
+```
+〜（と）したうどん
+~ glutinous udon.
+```
+
+**Examples**
+```
+お正月はもちっとした和菓子が食べたいな
+I want to eat sticky Japanese sweets for New Year's.
+
+もちっとした触り心地の赤ちゃんのほっぺ
+The baby's cheeks are soft to the touch.
+
+もちっとして食べ応えのあるパン
+Chewy bread.
+```
+
+### Spanish
+
+> 1. Textura elástica y pegajosa, suave.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** Estado.
+- **Onomatopoeia:** —.
+- **Equivalence:** suave; masticable; elástico; pegajoso; glutinoso.
+- **Source:** https://goiryoku.com/onomatopoeia/motiltu/
+
+**Usage**
+```
+〜（と）したうどん
+~ udon glutinoso.
+```
+
+**Examples**
+```
+お正月はもちっとした和菓子が食べたいな
+Quiero comer dulces japoneses pegajosos para Año Nuevo.
+
+もちっとした触り心地の赤ちゃんのほっぺ
+Las mejillas del bebé son suaves al tacto.
+
+もちっとして食べ応えのあるパン
+Pan masticable.
+```
+
 ## Mogu-Mogu / モグモグ
 
 ![mogu-mogu](https://pbs.twimg.com/media/E7k1EfWUYAEARmn.jpg)
 ![mogu-mogu](https://media.giphy.com/media/qLw4x1K59L0iI/giphy.gif)
+
+Audio [here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もぐもぐ)
 
 **Related**
 
@@ -195,6 +336,8 @@ Es tan mono ver sus mejillas hinchadas y retorciéndose.
 
 ![mote-mote](https://image.itmedia.co.jp/nl/articles/1907/03/kutsu_190701lottery02.jpg)
 
+[Anime Shirokuma cafe: minute 12:48](https://zoro.to/watch/polar-bear-cafe-607?ep=11721). [Audio here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=モテモテ).
+
 ### English
 
 > 1. Be popular with the opposite sex.
@@ -233,11 +376,115 @@ Es popular entre todos los de su clase.
 Al parecer, era irresistible para las mujeres locales cuando se iba al extranjero.
 ```
 
+## Muchi-Muchi / むちむち
+
+![muchi-muchi](https://www.wws-channel.com/wp-content/uploads/2022/08/RN01-1-1.jpg)
+
+**Related**
+
+- Mochi-Mochi / もちもち
+- Mochi / もちっ
+- Mocchiri / もっちり
+- Puni-Puni / ぷにぷに
+- Muchi / むちっ
+
+### English
+
+> 1. Freshly and chubby appearance of human body.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** State.
+- **Onomatopoeia:** -
+- **Equivalence:** chubby; fat.
+- **Source:** https://goiryoku.com/onomatopoeia/mutimuti/
+
+**Examples**
+```
+赤ちゃんのむちむちした腕が大好き！
+Love the baby's chubby arms!
+
+二の腕がむちむちしてきたな、ダイエットしないと！
+My arms are getting fat, I need to lose some weight!
+```
+
+### Spanish
+
+> 1. Aspecto fresco y regordete del cuerpo humano.
+
+- **Tipo:** Gitaigo (擬態語).
+- **Categoría:** Estado.
+- **Onomatopeya:** -
+- **Equivalente:** regordete; gordo.
+- **Fuente:** https://goiryoku.com/onomatopoeia/mutimuti/
+
+**Ejemplos**
+```
+赤ちゃんのむちむちした腕が大好き！
+¡Me encantan los brazos regordetes del bebé!
+
+二の腕がむちむちしてきたな、ダイエットしないと！
+¡Mis brazos se están poniendo gordos, necesito perder algo de peso!
+```
+
+## Muchi / むちっ
+
+![muchi](https://www.wws-channel.com/wp-content/uploads/2022/08/RN01-1-1.jpg)
+
+**Related**
+
+- Mochi-Mochi / もちもち
+- Mochi / もちっ
+- Mocchiri / もっちり
+- Puni-Puni / ぷにぷに
+- Muchi-Muchi / むちむち
+
+### English
+
+> 1. Freshly and chubby appearance of human body.
+
+- **Type:** Gitaigo (擬態語).
+- **Category:** State.
+- **Onomatopoeia:** -
+- **Equivalence:** chubby; fat.
+- **Source:** https://goiryoku.com/onomatopoeia/mutiltu/
+
+**Examples**
+```
+むちっと太った可愛らしい赤ちゃん
+A cute baby with a chubby and fat body.
+
+がりがりより、むちっとした体形の女の子が好き
+I like girls with chubby body shape rather than skinny.
+
+むちっとしたシルエットが可愛いぬいぐるみ
+Cute stuffed animals with chubby silhouettes.
+```
+
+### Spanish
+
+> 1. Aspecto fresco y regordete del cuerpo humano.
+
+- **Tipo:** Gitaigo (擬態語).
+- **Categoría:** Estado.
+- **Onomatopeya:** -
+- **Equivalente:** regordete; gordo.
+- **Fuente:** https://goiryoku.com/onomatopoeia/mutiltu/
+
+**Ejemplos**
+```
+むちっと太った可愛らしい赤ちゃん
+Un bebe mono con un cuerpo regordete y redondo.
+
+がりがりより、むちっとした体形の女の子が好き
+Me gustan las chicas rellenitas en vez de las delgadas.
+
+むちっとしたシルエットが可愛いぬいぐるみ
+Monos peluches con siluetas regordetas.
+```
+
 ## Munya-Munya / むにゃむにゃ
 
 ![munya-munya](https://nihon5-bunka.net/wp-content/uploads/2019/07/munyamunya-300x200.jpg)
-
-[Video here](https://zoro.to/watch/polar-bear-cafe-607?ep=11721). [Audio here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=モテモテ).
 
 **Related**
 

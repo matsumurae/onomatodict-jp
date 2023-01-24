@@ -4,6 +4,9 @@
   - [Pikon / ピコーン](#pikon--ピコーン)
     - [English](#english)
     - [Spanish](#spanish)
+  - [Puni-Puni / ぷにぷに](#puni-puni--ぷにぷに)
+    - [English](#english-1)
+    - [Spanish](#spanish-1)
 
 ## Pikon / ピコーン
 
@@ -30,3 +33,51 @@ Video [here](https://www.youtube.com/watch?v=cL6DfTodMCI)
 - **Categoría:** Estado.
 - **Equivalencia:** Se me encendió una bombilla en la cabeza.
 - **Fuente:** https://alu.jp/article/AJphA19vXxoI4183uULB
+
+## Puni-Puni / ぷにぷに
+
+![puni-puni](https://i-ogp.pximg.net/c/540x540_70/img-master/img/2010/02/02/00/47/21/8526192_p0_square1200.jpg)
+
+Audio [here](http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぷにぷに)
+
+### English
+
+> Moderately elastic, yet soft and supple.
+
+- **Type:** Gitaigo (擬態語)
+- **Category:** Status.
+- **Equivalent:** -
+- **Source:** http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB
+
+**Examples**
+```
+ぷにぷにとした食感のグミ
+jelly with a squishy texture
+
+猫の肉球はぷにぷにして気持ちいい
+The cat's paws are soft and comfortable.
+
+ぷにぷにのほっぺた
+puffy cheeks
+```
+
+### Spanish
+
+> Moderadamente elástico, pero suave y flexible.
+
+- **Tipo:** Gitaigo (擬態語)
+- **Categoría:** Estado.
+- **Equivalencia:** -
+- **Fuente:** http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB
+
+**Ejemplos**
+```
+ぷにぷにとした食感のグミ
+gelatina con textura blanda
+
+猫の肉球はぷにぷにして気持ちいい
+Las almohadillas del gato son suaves y cómodas.
+
+ぷにぷにのほっぺた
+mejillas hinchadadas
+```

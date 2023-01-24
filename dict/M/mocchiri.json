@@ -1,0 +1,134 @@
+{
+	"type": [
+		"gitaigo",
+		"擬態語"
+	],
+	"name": "もっちり",
+	"romaji": "Mocchiri",
+	"altWriting": "",
+	"gif": "",
+	"anime": "",
+	"video": "",
+	"image": "https://nihon5-bunka.net/wp-content/uploads/2019/07/944718-300x300.jpg",
+	"sound": "",
+	"en": {
+		"category": "state",
+		"description": "1. The texture has elasticity and stickiness, and appears soft.",
+		"equivalent": "",
+		"meaning": [
+			"chunky; chewy",
+			"fluffy"
+		],
+		"examples": [{
+				"usage": "chunky",
+				"sentence": "もっちり食感がウリのアイスクリーム",
+				"source": "https://goiryoku.com/onomatopoeia/moltutiri/",
+				"meaning": "The texture of the ice cream is very chunky."
+			},
+			{
+				"usage": "chewy",
+				"sentence": "もっちりとしたベーグルを朝食に食べたいな",
+				"source": "https://goiryoku.com/onomatopoeia/moltutiri/",
+				"meaning": "I'd love to have a chewy bagel for breakfast."
+			},
+			{
+				"usage": "fluffy",
+				"sentence": "もっちりふわふわの高級食パンが人気",
+				"source": "https://goiryoku.com/onomatopoeia/moltutiri/",
+				"meaning": "High-quality fluffy bread is popular."
+			}
+		],
+		"related": [
+			{
+				"name": "もちっ",
+				"romaji": "Mochi",
+				"description": "Same meaning"
+			},
+			{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Same meaning"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Same meaning"
+			},
+			{
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Chubby"
+			},
+			{
+				"name": "むちっ",
+				"romaji": "Muchi",
+				"description": "Chubby"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elastic and soft"
+			}
+		]
+	},
+	"es": {
+		"category": "estado",
+		"description": "1. La textura tiene elasticidad y pegajosidad, y parece suave.",
+		"equivalent": "",
+		"meaning": [
+			"masticable",
+			"esponjoso; suave"
+		],
+		"examples": [{
+			"usage": "suave",
+			"sentence": "もっちり食感がウリのアイスクリーム",
+			"source": "https://goiryoku.com/onomatopoeia/moltutiri/",
+			"meaning": "La textura del helado es muy suave."
+		},
+		{
+			"usage": "masticable",
+			"sentence": "もっちりとしたベーグルを朝食に食べたいな",
+			"source": "https://goiryoku.com/onomatopoeia/moltutiri/",
+			"meaning": "Me encantaría tener un bagel masticable para el desayuno."
+		},
+		{
+			"usage": "esponjoso",
+			"sentence": "もっちりふわふわの高級食パンが人気",
+			"source": "https://goiryoku.com/onomatopoeia/moltutiri/",
+			"meaning": "El pan esponjoso de alta calidad es popular."
+		}
+	],
+		"related": [
+			{
+				"name": "もちっ",
+				"romaji": "Mochi",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Regordete"
+			},
+			{
+				"name": "むちっ",
+				"romaji": "Muchi",
+				"description": "Regordete"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elástico y suave"
+			}
+		]
+	}
+}

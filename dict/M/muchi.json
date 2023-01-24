@@ -1,0 +1,121 @@
+{
+	"type": [
+		"gitaigo",
+		"擬態語"
+	],
+	"name": "むちっ",
+	"romaji": "Muchi",
+	"altWriting": "",
+	"gif": "",
+	"anime": "",
+	"video": "",
+	"image": "https://www.wws-channel.com/wp-content/uploads/2022/08/RN01-1-1.jpg",
+	"sound": "",
+	"en": {
+		"category": "state",
+		"description": "1. Freshly and chubby appearance of human body.",
+		"equivalent": "",
+		"meaning": [
+			"chubby; fat"
+		],
+		"examples": [{
+				"usage": "chubby",
+				"sentence": "むちっと太った可愛らしい赤ちゃん",
+				"source": "https://goiryoku.com/onomatopoeia/mutiltu/",
+				"meaning": "A cute baby with a chubby and fat body."
+			},
+			{
+				"usage": "chubby",
+				"sentence": "がりがりより、むちっとした体形の女の子が好き",
+				"source": "https://goiryoku.com/onomatopoeia/mutiltu/",
+				"meaning": "I like girls with chubby body shape rather than skinny."
+			},
+			{
+				"usage": "chubby",
+				"sentence": "むちっとしたシルエットが可愛いぬいぐるみ",
+				"source": "https://goiryoku.com/onomatopoeia/mutiltu/",
+				"meaning": "Cute stuffed animals with chubby silhouettes."
+			}
+		],
+		"related": [
+			{
+				"name": "もちっ",
+				"romaji": "Mochi",
+				"description": "Elastic and sticky"
+			},
+			{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Elastic and sticky"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Elastic and sticky"
+			},
+			{
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Same meaning"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elastic and soft"
+			}
+		]
+	},
+	"es": {
+		"category": "estado",
+		"description": "1. Aspecto fresco y regordete del cuerpo humano.",
+		"equivalent": "",
+		"meaning": [
+			"regordete; gordo; rellenito"
+		],
+		"examples": [{
+				"usage": "regordete",
+				"sentence": "むちっと太った可愛らしい赤ちゃん",
+				"source": "https://goiryoku.com/onomatopoeia/mutiltu/",
+				"meaning": "Un bebé mono con un cuerpo regordete y redondo."
+			},
+			{
+				"usage": "rellenito",
+				"sentence": "がりがりより、むちっとした体形の女の子が好き",
+				"source": "https://goiryoku.com/onomatopoeia/mutiltu/",
+				"meaning": "Me gustan las chicas rellenitas en vez de las delgadas."
+			},
+			{
+				"usage": "chubby",
+				"sentence": "むちっとしたシルエットが可愛いぬいぐるみ",
+				"source": "https://goiryoku.com/onomatopoeia/mutiltu/",
+				"meaning": "Monos peluches con siluetas regordetas."
+			}
+		],
+		"related": [{
+				"name": "もちっ",
+				"romaji": "Mochi",
+				"description": "Elástico y pegajoso"
+			},
+			{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Elástico y pegajoso"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Elástico y pegajoso"
+			},
+			{
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elástico y suave"
+			}
+		]
+	}
+}

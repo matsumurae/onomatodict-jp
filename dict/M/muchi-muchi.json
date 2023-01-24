@@ -1,0 +1,99 @@
+{
+	"type": [
+		"gitaigo",
+		"擬態語"
+	],
+	"name": "むちむち",
+	"romaji": "Muchi-Muchi",
+	"altWriting": "",
+	"gif": "",
+	"anime": "",
+	"video": "",
+	"image": "https://www.wws-channel.com/wp-content/uploads/2022/08/RN01-1-1.jpg",
+	"sound": "",
+	"en": {
+		"category": "state",
+		"description": "1. Freshly and chubby appearance of human body.",
+		"equivalent": "",
+		"meaning": [
+			"chubby; fat"
+		],
+		"examples": [{
+				"usage": "chubby",
+				"sentence": "赤ちゃんのむちむちした腕が大好き！",
+				"source": "https://goiryoku.com/onomatopoeia/mutimuti/",
+				"meaning": "Love the baby's chubby arms!"
+			},
+			{
+				"usage": "chubby",
+				"sentence": "二の腕がむちむちしてきたな、ダイエットしないと！",
+				"source": "https://goiryoku.com/onomatopoeia/mutimuti/",
+				"meaning": "My arms are getting fat, I need to lose some weight!"
+			}
+		],
+		"related": [
+			{
+				"name": "もちっ",
+				"romaji": "Mochi",
+				"description": "Same meaning"
+			},
+			{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Same meaning"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Same meaning"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elastic and soft"
+			}
+		]
+	},
+	"es": {
+		"category": "estado",
+		"description": "1. Aspecto fresco y regordete del cuerpo humano.",
+		"equivalent": "",
+		"meaning": [
+			"regordete; gordo"
+		],
+		"examples": [{
+				"usage": "regordete",
+				"sentence": "赤ちゃんのむちむちした腕が大好き！",
+				"source": "https://goiryoku.com/onomatopoeia/mutimuti/",
+				"meaning": "¡Me encantan los brazos regordetes del bebé!"
+			},
+			{
+				"usage": "gordo",
+				"sentence": "二の腕がむちむちしてきたな、ダイエットしないと！",
+				"source": "https://goiryoku.com/onomatopoeia/mutimuti/",
+				"meaning": "¡Mis brazos se están poniendo gordos, necesito perder algo de peso!"
+			}
+		],
+		"related": [{
+				"name": "もちっ",
+				"romaji": "Mochi",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elástico y suave"
+			}
+		]
+	}
+}

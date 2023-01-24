@@ -55,6 +55,7 @@
 ## P
 
 - Pikon / ピコーン (No sound)
+- Puni-Puni / ぷにぷに
 
 ## S
 

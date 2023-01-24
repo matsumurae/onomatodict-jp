@@ -1,0 +1,72 @@
+{
+	"type": [
+		"Gitaigo",
+		"擬態語"
+	],
+	"name": "ぷにぷに",
+	"romaji": "Puni-Puni",
+	"altWriting": "",
+	"gif": "",
+	"video": "",
+	"image": "https://i-ogp.pximg.net/c/540x540_70/img-master/img/2010/02/02/00/47/21/8526192_p0_square1200.jpg",
+	"sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぷにぷに",
+	"en": {
+		"category": "state",
+		"description": "1. Moderately elastic, yet soft and supple.",
+		"equivalent": "",
+		"meaning": [
+			"chewy",
+			"squishy; soft",
+			"puffy"
+		],
+		"examples": [
+			{
+			"usage": "squishy",
+			"sentence": "ぷにぷにとした食感のグミ",
+			"source": "http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+			"meaning": "jelly with a squishy texture"
+		},
+			{
+			"usage": "soft",
+			"sentence": "猫の肉球はぷにぷにして気持ちいい",
+			"source": "http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+			"meaning": "The cat's paws are soft and comfortable."
+		},
+			{
+			"usage": "puffy",
+			"sentence": "ぷにぷにのほっぺた",
+			"source": "http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+			"meaning": "puffy cheeks"
+		}
+	]
+	},
+	"es": {
+		"category": "estado",
+		"description": "1. Moderadamente elástico, pero suave y flexible.",
+		"equivalent": "",
+		"meaning": [
+			"masticable",
+			"blando; suave",
+			"hinchado"
+		],
+		"examples": [
+			{
+			"usage": "blando",
+			"sentence": "ぷにぷにとした食感のグミ",
+			"source": "http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+			"meaning": "gelatina con textura blanda"
+		},
+			{
+			"usage": "suave",
+			"sentence": "猫の肉球はぷにぷにして気持ちいい",
+			"source": "http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+			"meaning": "Las almohadillas del gato son suaves y cómodas."
+		},
+			{
+			"usage": "hinchado",
+			"sentence": "ぷにぷにのほっぺた",
+			"source": "http://onomatome.blog.jp/words/%E3%81%B7%E3%81%AB%E3%81%B7%E3%81%AB",
+			"meaning": "mejillas hinchadadas"
+		}
+	}
+}

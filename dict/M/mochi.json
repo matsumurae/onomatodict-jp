@@ -1,0 +1,147 @@
+{
+	"type": [
+		"gitaigo",
+		"擬態語"
+	],
+	"name": "もちっ",
+	"romaji": "Mochi",
+	"altWriting": "",
+	"gif": "",
+	"anime": "",
+	"video": "",
+	"image": "https://cdn.mofmo.jp/v3/640/imeditor_storage/1/article/20201218103338-ren6q.jpg",
+	"sound": "",
+	"en": {
+		"category": "state",
+		"description": "1. Elastic and sticky texture, soft.",
+		"equivalent": "",
+		"meaning": [
+			"soft",
+			"chewy",
+			"elastic; sticky; glutinous"
+		],
+		"usage": [
+			{
+				"type": "Adverb",
+				"tag": "adv",
+				"rules": [
+					"Use of the と particle"
+				],
+				"sentence": "〜（と）したうどん",
+				"meaning": "~ glutinous udon."
+			}
+		],
+		"examples": [{
+				"usage": "sticky",
+				"sentence": "お正月はもちっとした和菓子が食べたいな",
+				"source": "https://goiryoku.com/onomatopoeia/motiltu/",
+				"meaning": "I want to eat sticky Japanese sweets for New Year's."
+			},
+			{
+				"usage": "soft",
+				"sentence": "もちっとした触り心地の赤ちゃんのほっぺ",
+				"source": "https://goiryoku.com/onomatopoeia/motiltu/",
+				"meaning": "The baby's cheeks are soft to the touch."
+			},
+			{
+				"usage": "chewy",
+				"sentence": "もちっとして食べ応えのあるパン",
+				"source": "https://goiryoku.com/onomatopoeia/motiltu/",
+				"meaning": "Chewy bread."
+			}
+		],
+		"related": [
+			{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Same meaning"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Same meaning"
+			},
+			{
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Chubby"
+			},
+			{
+				"name": "むちっ",
+				"romaji": "Muchi",
+				"description": "Chubby"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elastic and soft"
+			}
+		]
+	},
+	"es": {
+		"category": "estado",
+		"description": "1. Textura elástica y pegajosa, suave.",
+		"equivalent": "",
+		"meaning": [
+			"suave",
+			"masticable",
+			"elástico; pegajoso; glutinoso"
+		],
+		"usage": [
+			{
+				"type": "Adverb",
+				"tag": "adv",
+				"rules": [
+					"Usa la partícula と"
+				],
+				"sentence": "〜（と）したうどん",
+				"meaning": "~ udon glutinoso."
+			}
+		],
+		"examples": [{
+				"usage": "pegajoso",
+				"sentence": "お正月はもちっとした和菓子が食べたいな",
+				"source": "https://goiryoku.com/onomatopoeia/motiltu/",
+				"meaning": "Quiero comer dulces japoneses pegajosos para Año Nuevo."
+			},
+			{
+				"usage": "suave",
+				"sentence": "もちっとした触り心地の赤ちゃんのほっぺ",
+				"source": "https://goiryoku.com/onomatopoeia/motiltu/",
+				"meaning": "Las mejillas del bebé son suaves al tacto."
+			},
+			{
+				"usage": "masticable",
+				"sentence": "もちっとして食べ応えのあるパン",
+				"source": "https://goiryoku.com/onomatopoeia/motiltu/",
+				"meaning": "Pan masticable."
+			}
+		],
+		"related": [{
+				"name": "もちもち",
+				"romaji": "Mochi-Mochi",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "もっちり",
+				"romaji": "Mocchiri",
+				"description": "Mismo significado"
+			},
+			{
+				"name": "むちむち",
+				"romaji": "Muchi-Muchi",
+				"description": "Regordete"
+			},
+			{
+				"name": "むちっ",
+				"romaji": "Muchi",
+				"description": "Regordete"
+			},
+			{
+				"name": "ぷにぷに",
+				"romaji": "Puni-Puni",
+				"description": "Elástico y suave"
+			}
+		]
+	}
+}
