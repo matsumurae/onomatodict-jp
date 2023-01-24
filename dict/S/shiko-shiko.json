@@ -1,0 +1,168 @@
+{
+	"type": [
+		"gitaigo",
+		"擬態語"
+	],
+	"name": "シコシコ",
+	"romaji": "Shiko-Shiko",
+	"altWriting": "しこしこ",
+	"gif": "",
+	"video": "",
+	"image": "http://sura-sura.com/wp-content/uploads/2016/05/92060bed902e44448778776d11a59dc7.jpg",
+	"sound": "",
+	"en": {
+		"category": "status / action",
+		"description": "1. The feeling of being elastic and chewy when chewed. \n 2. To be persistently and vigorously active. \n 3. Indicates the continuation of a humble activity.",
+		"equivalent": "",
+		"meaning": [
+			"soft; firm",
+			"chewy; springy",
+			"steadily; be persistently",
+			"work hard"
+		],
+		"usage": [
+			{
+				"type": "Adverb",
+				"tag": "adv",
+				"rules": [
+					"Use of the と particle"
+				],
+				"sentence": "〜（と）作曲を書き続ける",
+				"meaning": "~ make steady progress on one's (musical) composition; work away at one's composition."
+			},
+			{
+				"type": "Adverb",
+				"tag": "adv",
+				"rules": [
+					"Use of the と particle"
+				],
+				"sentence": "〜（と）勉強する",
+				"meaning": "~ plug away at one's studies."
+			},
+			{
+				"type": "Adjective",
+				"tag": "adj",
+				"rules": [
+					"Use of the と particle"
+				],
+				"sentence": "〜（と）した歯触り",
+				"meaning": "~ be chewy; (have) a chewy consistency."
+			},
+			{
+				"type": "Suru verb",
+				"tag": "suru",
+				"sentence": "〜する",
+				"meaning": "~ masturbate; jerk off."
+			}
+		],
+		"examples": [{
+				"usage": "crunchy",
+				"sentence": "イカの刺身はシコシコしてて美味しい",
+				"source": "https://nihon5-bunka.net/onomatopoeia-shikoshiko/",
+				"meaning": "Squid sashimi is crunchy and delicious."
+			},
+			{
+				"usage": "firm",
+				"sentence": "しこしことした食感のうどん",
+				"source": "http://sura-sura.com/archives/2458.html",
+				"meaning": "Udon noodles with a firm texture."
+			},
+			{
+				"usage": "work hard",
+				"sentence": "夜な夜なしこしことプラモデルを作る",
+				"source": "http://sura-sura.com/archives/2458.html",
+				"meaning": "I work hard all night on my plastic models."
+			},
+			{
+				"usage": "work hard",
+				"sentence": "毎日にしこしこと励む",
+				"source": "http://sura-sura.com/archives/2458.html",
+				"meaning": "I work hard every day."
+			},
+			{
+				"usage": "steadily",
+				"sentence": "５年かけて、シコシコと日本各地のマンホールの写真を集めました",
+				"source": "https://nihon5-bunka.net/onomatopoeia-shikoshiko/",
+				"meaning": "I spent five years collecting pictures of manholes around Japan."
+			}
+		]
+	},
+	"es": {
+		"category": "estado / acción",
+		"description": "1. La sensación de ser elástico y masticable cuando se mastica. \n 2. Ser persistente y enérgicamente activo. \n 3. Indica la continuación de una actividad humilde.",
+		"equivalent": "",
+		"meaning": [
+			"suave; firme",
+			"masticable; elástico",
+			"continuación (de una actividad); ser persistente",
+			"trabajar duro"
+		],
+		"usage": [
+			{
+				"type": "Adverbio",
+				"tag": "adv",
+				"rules": [
+					"usa la partícula と"
+				],
+				"sentence": "〜（と）作曲を書き続ける",
+				"meaning": "~ progresar constantemente en la propia composición (musical); trabajar en la propia composición."
+			},
+			{
+				"type": "Adverbio",
+				"tag": "adv",
+				"rules": [
+					"usa la partícula と"
+				],
+				"sentence": "〜（と）勉強する",
+				"meaning": "~ desconectar de los estudios."
+			},
+			{
+				"type": "Adjetivo",
+				"tag": "adj",
+				"rules": [
+					"usa la partícula と"
+				],
+				"sentence": "〜（と）した歯触り",
+				"meaning": "~ ser masticable; (tener) una consistencia masticable."
+			},
+			{
+				"type": "Verbo suru",
+				"tag": "suru",
+				"sentence": "〜する",
+				"meaning": "~ masturbarse; hacerse una paja."
+			}
+		],
+		"examples": [
+			{
+				"usage": "crujiente",
+				"sentence": "イカの刺身はシコシコしてて美味しい",
+				"source": "https://nihon5-bunka.net/onomatopoeia-shikoshiko/",
+				"meaning": "El sashimi de calamar es crujiente y delicioso."
+			},
+			{
+				"usage": "firme",
+				"sentence": "しこしことした食感のうどん",
+				"source": "http://sura-sura.com/archives/2458.html",
+				"meaning": "Fideos udon de textura firme."
+			},
+			{
+				"usage": "trabajar duro",
+				"sentence": "夜な夜なしこしことプラモデルを作る",
+				"source": "http://sura-sura.com/archives/2458.html",
+				"meaning": "Trabajo duro toda la noche en mis modelos de plástico."
+			},
+			{
+				"usage": "trabajar duro",
+				"sentence": "毎日にしこしこと励む",
+				"source": "http://sura-sura.com/archives/2458.html",
+				"meaning": "Trabajo duro cada día."
+			},
+			{
+				"usage": "continuamente",
+				"sentence": "５年かけて、シコシコと日本各地のマンホールの写真を集めました",
+				"source": "https://nihon5-bunka.net/onomatopoeia-shikoshiko/",
+				"meaning": "Pasé cinco años coleccionando fotografías de alcantarillas en todo Japón."
+			}
+		]
+	}
+}

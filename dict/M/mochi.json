@@ -10,7 +10,7 @@
 	"anime": "",
 	"video": "",
 	"image": "https://cdn.mofmo.jp/v3/640/imeditor_storage/1/article/20201218103338-ren6q.jpg",
-	"sound": "",
+	"sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もちもち",
 	"en": {
 		"category": "state",
 		"description": "1. Elastic and sticky texture, soft.",
@@ -60,16 +60,6 @@
 				"name": "もっちり",
 				"romaji": "Mocchiri",
 				"description": "Same meaning"
-			},
-			{
-				"name": "むちむち",
-				"romaji": "Muchi-Muchi",
-				"description": "Chubby"
-			},
-			{
-				"name": "むちっ",
-				"romaji": "Muchi",
-				"description": "Chubby"
 			},
 			{
 				"name": "ぷにぷに",
@@ -126,16 +116,6 @@
 				"name": "もっちり",
 				"romaji": "Mocchiri",
 				"description": "Mismo significado"
-			},
-			{
-				"name": "むちむち",
-				"romaji": "Muchi-Muchi",
-				"description": "Regordete"
-			},
-			{
-				"name": "むちっ",
-				"romaji": "Muchi",
-				"description": "Regordete"
 			},
 			{
 				"name": "ぷにぷに",
