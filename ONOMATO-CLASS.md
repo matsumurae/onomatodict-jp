@@ -12,13 +12,17 @@ If it's something tangible, it might be in the `giongo` category or its subcateg
 
 To give you an idea:
 
-1. `giongo` for **sound effects**.
-    1. `giseigo` for **human (hahaha) and animal (pio pio) onomatopoeias**.
-2. `gitaigo` for **facial expressions, emotions, textures or manner of action**.
-    1. `giyougo` to **describe body language**.
-    2. `gijougo` for **emotions and feelings**.
+1. `giongo` includes everything that has a sound source (ie you can hear the sound).
+     1. `giongo` is the category for **sound effects**. Basically noise.
+     2. `giseigo` for **human (hahaha) and animal (pio pio) onomatopoeias**. In short, voices.
+2. `gitaigo` includes anything that comes from a soundless source (ie you won't hear any noise here).
+     1. `gitaigo` is the category for the **states and actions of inanimate beings**.
+     2. `giyougo` to **describe states and actions of animate beings**.
+     3. `gijougo` for **human emotions and feelings**.
 
 # Onomatopoeia classification
+
+![Clasificación](https://i.imgur.com/vcB6cMs.png)
 
 All of the Japanese words for any category have two kanji in common: 擬 at the beginning, meaning "imitate" and 語 at the end, which means "language". As you can see, all of them are "imitate ~ language".
 
@@ -33,7 +37,7 @@ There's two categories: `giongo` and `gitaigo`. Inside `giongo`, you'll find `gi
 
 ![giongo](http://blog.gengo.com/wp-content/uploads/2016/06/zaa-zaa.png)
 
-This category will have words that are describing sounds (non-living things). Any sound that doesn't come from a person's or animal's mouth goes here. Things like the sound of a thunder or a little rain will be here. In manga this is called **sound effects**.
+This category encompasses words that reproduce sounds from the outside world (non-living sounds). Any sound that doesn't come from a person's or animal's mouth goes here. Things like the sound of a thunder or a little rain will be here. In manga this is called **sound effects**.
 
 ### Human-living or animal / Giseigo / 擬声語
 
@@ -51,7 +55,7 @@ This `giongo` subcategory will have sounds that imitate real-life words (human o
 
 ![gitaigo](http://blog.gengo.com/wp-content/uploads/2016/06/gusya-gusya.png)
 
-This category will be sounds for conditions or states (human or not). Things like "a sparkle in her eyes" or "lots of sunlight shining" goes here. This is not meant to resemble sounds because action, motion or state makes no sound. **This is commonly used in manga.**
+This category will be sounds for conditions or states. **Used for inanimate objects**. Things like "something shiny" or "lots of bright sunlight" go here. It is not intended to resemble sounds because the action, movement, or state does not make sound.
 
 ### Movement and action / Giyougo / 擬容語 (ぎようご)
 
@@ -61,7 +65,7 @@ This category will be sounds for conditions or states (human or not). Things lik
 
 ![giyougo](https://pbs.twimg.com/media/FE3aS_FakAIjZ0L.jpg)
 
-This `gitaigo` subcategory is for movement (walking or traveling from one place to another). Things like "being half asleep and nodding off" or "not having the willpower to do something" come here. **This is commonly used in manga.**
+This `gitaigo` subcategory is for movement (walking or traveling from one place to another). **Used only for living things**. Things like "being half asleep and nodding off" or "not having the willpower to do something" come here.
 
 ### Feelings / Gijougo / 擬情語 (ぎじょうご)
 
@@ -71,4 +75,4 @@ This `gitaigo` subcategory is for movement (walking or traveling from one place 
 
 ![gijougo](https://img-cdn.jg.jugem.jp/445/15130/20060307_141520.jpg)
 
-In this `gitaigo` subcategory you can find emotions. Things like "throbbing, grinding pain" or "happy, joyfully glad and full of hope" come here. **This is commonly used in manga.**
+In this `gitaigo` subcategory you can find emotions. **Used only for humans**. Things like "throbbing, grinding pain" or "happy, joyfully glad and full of hope" come here.

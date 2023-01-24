@@ -12,13 +12,17 @@ Si es algo tangible, es posible que esté en la categoría `giongo` o su subcate
 
 Para que te hagas una idea:
 
-1. `giongo` para **efectos de sonido**.
-   1. `giseigo` para **onomatopeyas humanas (jajaja) y animales (pio pio)**.
-2. `gitaigo` para **expresiones faciales, emociones, texturas o formas de acción**.
-   1. `giyougo` para **describir el lenguaje corporal**.
-   2. `gijougo` para **emociones y sentimientos**.
+1. `giongo` incluye todo lo que tiene una fuente sonora (es decir, puedes escuchar el sonido).
+   1. `giongo` es la categoría para los **efectos de sonido**. Básicamente, ruidos.
+   2. `giseigo` para **onomatopeyas humanas (jajaja) y animales (pio pio)**. En resumen, voces.
+2. `gitaigo` incluye todo lo que proviene de una fuente insonora (es decir, no vas a escuchar ningún ruido aquí).
+   1. `gitaigo` es la categoría para los **estados y acciones de seres inanimados**.
+   2. `giyougo` para **describir estados y acciones de seres animados**.
+   3. `gijougo` para **emociones y sentimientos humanos**.
 
 # Clasificación de onomatopeyas
+
+![Clasificación](https://i.imgur.com/vcB6cMs.png)
 
 Todas las palabras japonesas para cualquier categoría tienen dos kanji en común: 擬 al principio, que significa "imitar" y 語 al final, que significa "lenguaje". Como puede ver, todos ellos son "imitar el lenguaje de ~".
 
@@ -33,7 +37,7 @@ Existen dos categorías: `giongo` y `gitaigo`. Dentro de `giongo`, encontrarás 
 
 ![giongo](http://blog.gengo.com/wp-content/uploads/2016/06/zaa-zaa.png)
 
-Esta categoría engloba palabras que describen sonidos (cosas no vivas). Cualquier sonido que no salga de la boca de una persona o de un animal va aquí. Cosas como el sonido de un trueno o un poco de lluvia estarán aquí. En manga, son los conocidos **efectos de sonido**.
+Esta categoría engloba palabras que reproducen sonidos del mundo exterior (sonidos de objetos inanimados). Cualquier sonido que no salga de la boca de una persona o de un animal va aquí. Cosas como el sonido de un trueno o un poco de lluvia estarán aquí. En manga, son los conocidos **efectos de sonido**.
 
 ### Humano o animal / Giseigo / 擬声語
 
@@ -51,7 +55,7 @@ Esta subcategoría de `giongo` engloba sonidos que imitan palabras de la vida re
 
 ![gitaigo](http://blog.gengo.com/wp-content/uploads/2016/06/gusya-gusya.png)
 
-Esta categoría serán sonidos para condiciones o estados (humanos o no). Cosas como "un brillo en sus ojos" o "un montón de luz de sol brillando" va aquí. No pretende parecerse a los sonidos porque la acción, el movimiento o el estado no emite sonido. **Muy usado en manga.**
+Esta categoría serán sonidos para condiciones o estados. **Usado para objetos inanimados**. Cosas como "algo que brilla" o "un montón de luz de sol brillante" va aquí. No pretende parecerse a los sonidos porque la acción, el movimiento o el estado no emite sonido.
 
 ### Movimiento y acción / Giyougo / 擬容語 (ぎようご)
 
@@ -61,7 +65,7 @@ Esta categoría serán sonidos para condiciones o estados (humanos o no). Cosas 
 
 ![giyougo](https://pbs.twimg.com/media/FE3aS_FakAIjZ0L.jpg)
 
-Esta subcategoría de `gitaigo` es para el movimiento (caminar o viajar de un lugar a otro). Cosas como "estar medio dormido y cabeceando" o "no tener la fuerza de voluntad para hacer algo" van aquí. **Muy usado en manga.**
+Esta subcategoría de `gitaigo` es para el movimiento (caminar o viajar de un lugar a otro). **Usado únicamente para seres animados**. Cosas como "estar medio dormido y cabeceando" o "no tener la fuerza de voluntad para hacer algo" van aquí.
 
 ### Sentimientos / Gijougo / 擬情語 (ぎじょうご)
 
@@ -71,4 +75,4 @@ Esta subcategoría de `gitaigo` es para el movimiento (caminar o viajar de un lu
 
 ![gijougo](https://img-cdn.jg.jugem.jp/445/15130/20060307_141520.jpg)
 
-En esta subcategoría de `gitaigo` puedes encontrar emociones. Cosas como "dolor palpitante y molido" o "Emocionado por la anticipación, el placer o la felicidad" van aquí. **Muy usado en manga.** 
+En esta subcategoría de `gitaigo` puedes encontrar emociones. **Usado solo para humanos**. Cosas como "dolor palpitante y molido" o "Emocionado por la anticipación, el placer o la felicidad" van aquí.
