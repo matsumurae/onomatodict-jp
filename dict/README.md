@@ -6,10 +6,10 @@
 
 ## D
 
-- Doo / ドオ (No sound)
 - Doki-Doki / ドキドキ
 - Doki / ドキッ (No sound)
 - Dokin / どきん (No sound)
+- Doo / ドオ (No sound)
 
 ## F
 
@@ -36,9 +36,13 @@
 
 ## M
 
+- Mocchiri / もっちり (No sound)
 - Mochi-Mochi / もちもち
+- Mochi / もちっ (No sound)
 - Mogu-Mogu / モグモグ
 - Mote-Mote / モテモテ
+- Muchi-Muchi / むちむち (No sound)
+- Muchi / むちっ (No sound)
 - Munya-Munya / むにゃむにゃ
 
 ## N
@@ -60,6 +64,7 @@
 ## S
 
 - Sa / さっ (No sound)
+- Shiko-Shiko / シコシコ (No sound)
 - Subaboo / スバブー (No sound)
 - Suu / すぅー (No sound)
 
