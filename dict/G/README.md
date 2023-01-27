@@ -11,7 +11,9 @@
 
 ## Gaku-Gaku / がくがく
 
-![gaku-gaku](https://blogimg.goo.ne.jp/user_image/7e/6b/125dd1485eb6e37641d5bd102c424d6f.png)
+![gaku-gaku](https://s1.mbbcdnv1.xyz/file/img-mbuddy/manga/one-piece/chapter-575-silent-anger/3.jpg)
+
+*One piece: chapter 575*
 
 Audio [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=がくがく).
 
@@ -102,7 +104,9 @@ Ah, hace frío. Estoy temblando. Tenemos que llegar al albergue.
 
 ## Gura-Gura / ぐらぐら
 
-![gura-gura](https://i.pinimg.com/564x/13/39/09/133909ab08437b959fa175044e7d703a.jpg)
+![gura-gura](https://s1.mbbcdnv5.xyz/file/img-mbuddy/manga/ajin/chapter-3-file-03-the-escape-and-the-threat/36.jpg)
+
+*Ajin: Chapter 3*
 
 Audio [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぐらぐら).
 
