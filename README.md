@@ -53,6 +53,10 @@ Let's say you go to the `N` letter and choose `nico-nico`. You'll find the next 
 
 Read more on `CONTRIBUTING.md`.
 
+## Changelog
+
+You can see the full changelog [here](https://github.com/matsumurae/onomatodict-jp/wiki/Changelog).
+
 ## License
 
 This project is licensed under [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).

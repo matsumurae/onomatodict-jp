@@ -53,6 +53,10 @@ Vamos a decir que quieres ir a la `N` y escoges `nico-nico`. Allí, encontrarás
 
 Lee más en `CONTRIBUTING.md`.
 
+## Registro de cambios
+
+Puedes ver el registro de cambios [aquí](https://github.com/matsumurae/onomatodict-jp/wiki/Registro-de-cambios).
+
 ## Licencia
 
 Este proyecto está licenciado bajo [CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/).
