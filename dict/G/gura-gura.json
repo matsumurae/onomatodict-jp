@@ -1,0 +1,247 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ぐらぐら",
+    "romaji": "Gura-Gura",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://i.pinimg.com/564x/13/39/09/133909ab08437b959fa175044e7d703a.jpg",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぐらぐら",
+    "en": {
+        "category": "status",
+        "description": [
+            "The state of things wavering and not being stable.",
+            "A sudden event that upsets you.",
+            "The state of something moving violently and unsteadily.",
+            "The state of boiling water."
+        ],
+        "equivalent": "shaky; wobbly; rattle rattle",
+        "meaning": [
+            "shaky; wobbly; giddy",
+            "loose"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "大地が〜（と）来た",
+                "meaning": "the earth shook."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "湯が〜（と）煮え立つ",
+                "meaning": "the water boils furiously."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）揺れる",
+                "meaning": "shake (vehemently)."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）沸く",
+                "meaning": "boil away."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）頭が廻る",
+                "meaning": "feel one's head spinning."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "それは血が〜（と）煮え滾った",
+                "meaning": "it made my blood boil."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ be unsteady; be reeling; feel (very) shaky; be indecisive; waver; be resolutive."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "歯が〜する",
+                "meaning": "~ have a loose tooth."
+            },
+            {
+                "type": "Naru verb",
+                "tag": "naru",
+                "sentence": "〜になる",
+                "meaning": "~ grow unsteady; come loose; feel (very) giddy; become wobbly; grow indecisive; start to waver; become irresolute."
+            }
+        ],
+        "examples": [{
+                "usage": "shaky",
+                "sentence": "地震でビルがグラグラと揺れている",
+                "source": "https://nihongokyoshi-net.com/2021/03/29/onomatopoeia-guragura/",
+                "meaning": "The building is shaking due to the earthquake."
+            },
+            {
+                "usage": "wobbly",
+                "sentence": "歯がグラグラして、今にも抜けそうだ。",
+                "source": "https://nihongokyoshi-net.com/2021/03/29/onomatopoeia-guragura/",
+                "meaning": "My tooth is wobbling and are about to fall out."
+            },
+            {
+                "usage": "loose",
+                "sentence": "社長の方針はぐらぐらでいまいち信用できない。",
+                "source": "https://goiryoku.com/onomatopoeia/guragura/",
+                "meaning": "The president's policy is too loose to be trusted."
+            }
+        ],
+        "related": [{
+                "name": "がくがく",
+                "romaji": "Gaku-Gaku",
+                "description": "Same meaning"
+            },
+            {
+                "name": "フラフラ",
+                "romaji": "Fura-Fura",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "estado",
+        "description": [
+            "El estado de cosas que vibrando e inestables.",
+            "Un evento repentino que te altera.",
+            "El estado de algo que se mueve de manera violenta e inestable.",
+            "El estado de ebullición agua."
+        ],
+        "equivalent": "tembloroso; tembleque; traqueteo",
+        "meaning": [
+            "tembloroso; tambaleante; vertiginoso",
+            "laxa"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "大地が〜（と）来た",
+                "meaning": "la tierra tembló."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "湯が〜（と）煮え立つ",
+                "meaning": "el agua hierve furiosamente."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）揺れる",
+                "meaning": "sacudir (con vehemencia)."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）沸く",
+                "meaning": "consumirse."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）頭が廻る",
+                "meaning": "sentir que la cabeza da vueltas."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "それは血が〜（と）煮え滾った",
+                "meaning": "me hizo hervir la sangre."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ ser inestable; estar tambaleándose; sentirse (muy) tembloroso; ser indeciso; vacilar; ser resolutivo."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "歯が〜する",
+                "meaning": "~ tener un diente flojo."
+            },
+            {
+                "type": "Verbo naru",
+                "tag": "naru",
+                "sentence": "〜になる",
+                "meaning": "~ crecer inestable; viene suelto; sentirse (muy) mareado; volverse tambaleante; volverse indeciso; empezar a vacilar; volverse irresoluto."
+            }
+        ],
+        "examples": [{
+                "usage": "temblando",
+                "sentence": "地震でビルがグラグラと揺れている",
+                "source": "https://nihongokyoshi-net.com/2021/03/29/onomatopoeia-guragura/",
+                "meaning": "El edificio está temblando debido al terremoto."
+            },
+            {
+                "usage": "tambalearse",
+                "sentence": "歯がグラグラして、今にも抜けそうだ。",
+                "source": "https://nihongokyoshi-net.com/2021/03/29/onomatopoeia-guragura/",
+                "meaning": "Mi diente se tambalea y está a punto de caerse."
+            },
+            {
+                "usage": "laxa",
+                "sentence": "社長の方針はぐらぐらでいまいち信用できない。",
+                "source": "https://goiryoku.com/onomatopoeia/guragura/",
+                "meaning": "La política del presidente es demasiado laxa para confiar."
+            }
+        ],
+        "related": [{
+            "name": "がくがく",
+            "romaji": "Gaku-Gaku",
+            "description": "Mismo significado"
+        },
+        {
+            "name": "フラフラ",
+            "romaji": "Fura-Fura",
+            "description": "Mismo significado"
+        }
+    ]
+    }
+}

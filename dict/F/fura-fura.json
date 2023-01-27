@@ -1,0 +1,225 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ふらふら",
+    "romaji": "Fura-Fura",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://i.ytimg.com/vi/AUqgwPhvy70/maxresdefault.jpg",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ふらふら",
+    "en": {
+        "category": "status",
+        "description": [
+            "Inability to stand up straight and a swaying of the body.",
+            "Inability to formulate an attitude, opinion, etc.",
+            "Actions without clear awareness or purpose.",
+            "State of foggy consciousness due to fatigue, illness, etc.",
+            "Lack of strength in the body due to fatigue or illness."
+        ],
+        "equivalent": "dizzy; stagger; wobbly; hangs about; meandering; flap flap",
+        "meaning": [
+            "unsteady (e.g.on one's feet); staggering; reeling; tottering; dizzy; wavering",
+            "wandering; without knowing what one is doing; having no goal in mind"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）立ち上げる",
+                "meaning": "stagger to one's feet."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）座り込む",
+                "meaning": "drop into a crouch."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）歩く",
+                "meaning": "walk unsteadily."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）庭に出る",
+                "meaning": "wander into the garden."
+            },
+            {
+                "type": "Naru verb",
+                "tag": "naru",
+                "sentence": "〜になる",
+                "meaning": "~ become unsteady on one's feet; grow faint."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ feel light-headed; feel giddy; be unsteady on one's feet; flap; sway; swing; hang loose; be undecided; be wishy-washy."
+            }
+        ],
+        "examples": [{
+                "usage": "wobbly",
+                "sentence": "高熱が出てふらふらするから寝るね",
+                "source": "https://goiryoku.com/onomatopoeia/hurahura/",
+                "meaning": "I'm going to bed because I have a high fever and I'm wobbly."
+            },
+            {
+                "usage": "dizzy",
+                "sentence": "あの子はいつもふらふらと出かけていく",
+                "source": "https://goiryoku.com/onomatopoeia/hurahura/",
+                "meaning": "That girl always goes out in a daze."
+            },
+            {
+                "usage": "dizzy",
+                "sentence": "徹夜で１日寝てないので、フラフラだ",
+                "source": "https://nihon5-bunka.net/onomatopoeia-furafura/",
+                "meaning": "I haven't slept all night, so I'm dizzy."
+            },
+            {
+                "usage": "lightheaded",
+                "sentence": "今日は忙しすぎて朝から何も食べてない。もうふらふらだよ。",
+                "source": "https://nihongokyoshi-net.com/2021/02/25/onomatopoeia-furafura/",
+                "meaning": "I've been so busy today that I haven't eaten anything since this morning. I feel lightheaded."
+            },
+            {
+                "usage": "wandering",
+                "sentence": "彼は大学を卒業しても、就職せずにふらふらしている",
+                "source": "https://nihongokyoshi-net.com/2021/02/25/onomatopoeia-furafura/",
+                "meaning": "He's graduated from college, but he's still wandering around without a job."
+            }
+        ],
+        "related": [{
+                "name": "がくがく",
+                "romaji": "Gaku-Gaku",
+                "description": "Same meaning"
+            },
+            {
+                "name": "フラフラ",
+                "romaji": "Fura-Fura",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "estado",
+        "description": [
+            "Incapacidad para pararse derecho y balanceo del cuerpo.",
+            "Incapacidad para formular una actitud, opinión, etc.",
+            "Acciones sin una clara conciencia o propósito.",
+            "Estado de conciencia nublada debido a fatiga, enfermedad, etc.",
+            "Falta de fuerza en el cuerpo debido a fatiga o enfermedad."
+        ],
+        "equivalent": "mareado; tambaleándose; tambaleándose; dando vueltas; serpenteando; flap flap",
+        "meaning": [
+            "inestable (por ejemplo, sobre los pies); tambaleándose; mareado; vacilante",
+            "vagando; sin saber lo que uno está haciendo; sin tener un objetivo en mente"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "〜（と）立ち上げる",
+                "meaning": "tambalearse para ponerse de pie."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "〜（と）座り込む",
+                "meaning": "ponerse en cuclillas."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "〜（と）歩く",
+                "meaning": "caminar inseguro."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Uso de la partícula と"
+                ],
+                "sentence": "〜（と）庭に出る",
+                "meaning": "pasear por el jardín."
+            },
+            {
+                "type": "Verbo naru",
+                "tag": "naru",
+                "sentence": "〜になる",
+                "meaning": "~ volverse inestable sobre los pies; desmayarse."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ sentirse mareado; sentirse mareado; ser inestable sobre los propios pies; solapa; influencia; ritmo; colgar suelto; estar indeciso; ser insípido."
+            }
+        ],
+        "examples": [{
+                "usage": "tambalearse",
+                "sentence": "高熱が出てふらふらするから寝るね",
+                "source": "https://goiryoku.com/onomatopoeia/hurahura/",
+                "meaning": "Me voy a la cama porque tengo mucha fiebre y estoy tambaleándome."
+            },
+            {
+                "usage": "aturdido",
+                "sentence": "あの子はいつもふらふらと出かけていく",
+                "source": "https://goiryoku.com/onomatopoeia/hurahura/",
+                "meaning": "Esa chica siempre sale aturdida."
+            },
+            {
+                "usage": "mareado",
+                "sentence": "徹夜で１日寝てないので、フラフラだ",
+                "source": "https://nihon5-bunka.net/onomatopoeia-furafura/",
+                "meaning": "No he dormido toda la noche, así que estoy mareado."
+            },
+            {
+                "usage": "mareado",
+                "sentence": "今日は忙しすぎて朝から何も食べてない。もうふらふらだよ。",
+                "source": "https://nihongokyoshi-net.com/2021/02/25/onomatopoeia-furafura/",
+                "meaning": "He estado tan ocupado hoy que no he comido nada desde esta mañana. Me siento mareado."
+            },
+            {
+                "usage": "vagando",
+                "sentence": "彼は大学を卒業しても、就職せずにふらふらしている",
+                "source": "https://nihongokyoshi-net.com/2021/02/25/onomatopoeia-furafura/",
+                "meaning": "Se graduó de la universidad, pero todavía anda vagando sin trabajo."
+            }
+        ],
+        "related": [{
+                "name": "がくがく",
+                "romaji": "Gaku-Gaku",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "フラフラ",
+                "romaji": "Fura-Fura",
+                "description": "Mismo significado"
+            }
+        ]
+    }
+}

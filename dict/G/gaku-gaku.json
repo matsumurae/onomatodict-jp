@@ -1,0 +1,153 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "がくがく",
+    "romaji": "Gaku-Gaku",
+    "altWriting": "ガクガク",
+    "gif": "",
+    "video": "",
+    "image": "https://blogimg.goo.ne.jp/user_image/7e/6b/125dd1485eb6e37641d5bd102c424d6f.png",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=がくがく",
+    "en": {
+        "category": "status",
+        "description": [
+            "Sound indicating that the body shakes or begins to tremble from fear or fatigue.",
+            "Appearance of an object that is not firmly fixed in place moving unsteadily.",
+            "The appearance of being unable to stop shaking because of cold, or shivering because of cold."
+        ],
+        "equivalent": "shiver; tremble; shake; wobble",
+        "meaning": [
+            "wobbly; loose; shaky"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "脚が〜（と）震える",
+                "meaning": "have one's knees give way."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ wobble; be loose."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "歯が〜する",
+                "meaning": "~ have a loose tooth."
+            }
+        ],
+        "examples": [{
+                "usage": "wobbly",
+                "sentence": "歩きすぎて足ががくがくする",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "My legs are wobbling from too much walking."
+            },
+            {
+                "usage": "shaking",
+                "sentence": "この部屋に入ってから、ガクガクと震えが止まらない",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "I can't stop wobbling and shaking since I entered this room."
+            },
+            {
+                "usage": "wobbly",
+                "sentence": "そんなガクガクしている椅子に登ったら危ないよ！",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "It's dangerous to climb on such a wobbly chair!"
+            },
+            {
+                "usage": "wobbly",
+                "sentence": "あぁ、寒い。ガクガクする。早く山小屋に避難しない",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "Ah, it's cold. I'm wobbling. We need to get to the lodge."
+            }
+        ],
+        "related": [{
+                "name": "ぐらぐら",
+                "romaji": "Gura-Gura",
+                "description": "Same meaning"
+            },
+            {
+                "name": "フラフラ",
+                "romaji": "Fura-Fura",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "estado",
+        "description": [
+            "Sonido que indica que el cuerpo tiembla o comienza a temblar por miedo o fatiga.",
+            "Apariencia de un objeto que no está firmemente fijado en su lugar y que se mueve inestablemente.",
+            "Apariencia de ser incapaz de deja de temblar por el frío, o tiritar por el frío."
+        ],
+        "equivalent": "temblor; temblar; temblar; tambalearse",
+        "meaning": [
+            "tambaleante; laxo; tembloroso"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "脚が〜（と）震える",
+                "meaning": "tener las rodillas cediendo."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ tambalearse; estar suelto."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "歯が〜する",
+                "meaning": "~ tener un diente flojo."
+            }
+        ],
+        "examples": [{
+                "usage": "tembloroso",
+                "sentence": "歩きすぎて足ががくがくする",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "Me tiemblan las piernas de tanto caminar."
+            },
+            {
+                "usage": "temblando",
+                "sentence": "この部屋に入ってから、ガクガクと震えが止まらない",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "No puedo dejar de tambalearme y temblar desde que entré en esta habitación."
+            },
+            {
+                "usage": "tambalearse",
+                "sentence": "そんなガクガクしている椅子に登ったら危ないよ！",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "¡Es peligroso subirse a una silla tan tambaleante!"
+            },
+            {
+                "usage": "temblar",
+                "sentence": "あぁ、寒い。ガクガクする。早く山小屋に避難しない",
+                "source": "https://goiryoku.com/onomatopoeia/gakugaku/",
+                "meaning": "Ah, hace frío. Estoy temblando. Tenemos que llegar al albergue."
+            }
+        ],
+        "related": [{
+                "name": "ぐらぐら",
+                "romaji": "Gura-Gura",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "フラフラ",
+                "romaji": "Fura-Fura",
+                "description": "Mismo significado"
+            }
+        ]
+    }
+}

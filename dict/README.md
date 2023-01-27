@@ -14,9 +14,12 @@
 ## F
 
 - Fu / フッ (No sound)
+- Fura-Fura / ふらふら
 
 ## G
 
+- Gaku-Gaku / がくがく
+- Gura-Gura / ぐらぐら
 - Gyunyu / ギュニュッ
 
 ## H
