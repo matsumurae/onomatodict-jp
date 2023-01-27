@@ -12,7 +12,9 @@
     "sound": "",
     "en": {
         "category": "feeling",
-        "description": "1. Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity.",
+        "description": [
+            "Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity."
+        ],
         "equivalent": "thump; ba-dump",
         "meaning": [
             "heartbeat",
@@ -54,7 +56,9 @@
     },
     "es": {
         "category": "sentimiento",
-        "description": "1. Latidos cardíacos intensos debido a excitación, sorpresa, miedo, ansiedad u otra actividad emocional.",
+        "description": [
+            "Latidos cardíacos intensos debido a excitación, sorpresa, miedo, ansiedad u otra actividad emocional."
+        ],
         "equivalent": "pum-pum",
         "meaning": [
             "latido del corazón",

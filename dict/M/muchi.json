@@ -13,7 +13,9 @@
 	"sound": "",
 	"en": {
 		"category": "state",
-		"description": "1. Freshly and chubby appearance of human body.",
+		"description": [
+			"Freshly and chubby appearance of human body."
+		],
 		"equivalent": "",
 		"meaning": [
 			"chubby; fat"
@@ -67,7 +69,9 @@
 	},
 	"es": {
 		"category": "estado",
-		"description": "1. Aspecto fresco y regordete del cuerpo humano.",
+		"description": [
+			"Aspecto fresco y regordete del cuerpo humano."
+		],
 		"equivalent": "",
 		"meaning": [
 			"regordete; gordo; rellenito"

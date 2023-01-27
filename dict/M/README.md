@@ -394,7 +394,7 @@ Al parecer, era irresistible para las mujeres locales cuando se iba al extranjer
 
 - **Type:** Gitaigo (擬態語).
 - **Category:** State.
-- **Onomatopoeia:** -
+- **Onomatopoeia:** full-bodied; bouncy; plump.
 - **Equivalence:** chubby; fat.
 - **Source:** https://goiryoku.com/onomatopoeia/mutimuti/
 
@@ -413,7 +413,7 @@ My arms are getting fat, I need to lose some weight!
 
 - **Tipo:** Gitaigo (擬態語).
 - **Categoría:** Estado.
-- **Onomatopeya:** -
+- **Onomatopeya:** con cuerpo; muelle; rechoncho.
 - **Equivalente:** regordete; gordo.
 - **Fuente:** https://goiryoku.com/onomatopoeia/mutimuti/
 

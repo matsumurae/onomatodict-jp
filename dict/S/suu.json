@@ -12,7 +12,9 @@
     "sound": "",
     "en": {
         "category": "sigh",
-        "description": "1. Inhale sound (used for smoke).",
+        "description": [
+            "Inhale sound (used for smoke)."
+        ],
         "equivalent": "1. Inhale.",
         "meaning": [
             "inhale"
@@ -25,7 +27,9 @@
     },
     "es": {
         "category": "suspiro",
-        "description": "1. Sonido al inhalar (usado para fumar).",
+        "description": [
+            "Sonido al inhalar (usado para fumar)."
+        ],
         "equivalent": "1. Inhalar.",
         "meaning": [
             "inhalar"

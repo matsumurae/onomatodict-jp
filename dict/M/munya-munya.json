@@ -12,7 +12,9 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=むにゃむにゃ",
     "en": {
         "category": "action",
-        "description": "1. Person speaking while is sleeping in a way that it's difficult to hear what's being said.",
+        "description": [
+            "Person speaking while is sleeping in a way that it's difficult to hear what's being said."
+        ],
         "equivalent": "numble numble (asleep)",
         "meaning": [
             "mumbling; murmuring"
@@ -61,7 +63,9 @@
     },
     "es": {
         "category": "acción",
-        "description": "1. Persona que habla mientras duerme de forma que es difícil escuchar lo que se dice.",
+        "description": [
+            "Persona que habla mientras duerme de forma que es difícil escuchar lo que se dice."
+        ],
         "equivalent": "murmurar murmurar (dormido)",
         "meaning": [
             "murmurando"

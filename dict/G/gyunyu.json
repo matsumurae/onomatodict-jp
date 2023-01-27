@@ -12,7 +12,9 @@
     "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kanji=牛乳&kana=ぎゅうにゅう",
     "en": {
         "category": "drink",
-        "description": "1. Sound when drinking milk.",
+        "description": [
+            "Sound when drinking milk."
+        ],
         "equivalent": "1. Glu-glu.",
         "meaning": [
             "drink milk"
@@ -26,7 +28,9 @@
     },
     "es": {
         "category": "bebida",
-        "description": "1. Sonido al beber leche.",
+        "description": [
+            "Sonido al beber leche."
+        ],
         "equivalent": "1. Glu-glu.",
         "meaning": [
             "beber leche"

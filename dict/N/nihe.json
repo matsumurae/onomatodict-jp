@@ -16,7 +16,9 @@
             "no sound",
             "action"
         ],
-        "description": "1. Pervert smile (when you think of someone you like)",
+        "description": [
+            "Pervert smile (when you think of someone you like)"
+        ],
         "equivalent": "No equivalent.",
         "meaning": [
             "Pervert smile"
@@ -45,7 +47,9 @@
             "sin sonido",
             "acción"
         ],
-        "description": "1. Sonrisa pervertida (cuando piensas en alguien que te gusta)",
+        "description": [
+            "Sonrisa pervertida (cuando piensas en alguien que te gusta)"
+        ],
         "equivalent": "Sin equivalencia.",
         "meaning": [
             "Sonrisa pervertida"

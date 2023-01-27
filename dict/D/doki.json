@@ -12,7 +12,10 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ドキ",
     "en": {
         "category": "feeling",
-        "description": "1. Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity. \n 2. Feeling shocked or startled.",
+        "description": [
+            "Intense heart beating due to excitement, surprise, fear, anxiety or other emotional activity.",
+            "Feeling shocked or startled."
+        ],
         "equivalent": "BA-DUMP",
         "meaning": [
             "thump",
@@ -52,7 +55,10 @@
     },
     "es": {
         "category": "sentimiento",
-        "description": "1. Latidos cardíacos intensos debido a emoción, sorpresa, miedo, ansiedad u otra actividad emocional.\n 2. Sentirse conmocionado o sobresaltado.",
+        "description": [
+            "Latidos cardíacos intensos debido a emoción, sorpresa, miedo, ansiedad u otra actividad emocional.",
+            "Sentirse conmocionado o sobresaltado."
+        ],
         "equivalence": "BA-DUMP",
         "meaning": [
             "latido",

@@ -13,7 +13,9 @@
 	"sound": "",
 	"en": {
 		"category": "state",
-		"description": "1. Elastic and sticky texture, soft.",
+		"description": [
+			"Elastic and sticky texture, soft."
+		],
 		"equivalent": "",
 		"meaning": [
 			"soft",
@@ -70,7 +72,9 @@
 	},
 	"es": {
 		"category": "estado",
-		"description": "1. Textura elástica y pegajosa, suave.",
+		"description": [
+			"Textura elástica y pegajosa, suave."
+		],
 		"equivalent": "",
 		"meaning": [
 			"suave",

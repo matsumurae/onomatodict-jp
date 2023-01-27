@@ -21,6 +21,7 @@
 
 - **Type:** Gijougo (擬情語)
 - **Category:** Feeling.
+- **Onomatopoeia:** uneasy; anxious; pain; flakey; pit-a-pat; nervous; tears overflowing.
 - **Equivalent:** fluttering; nervous.
 - **Source:** 
   - https://nihongokyoshi-net.com/2021/04/21/onomatopoeiaa-harahara/
@@ -57,6 +58,7 @@ Petals are falling down.
 
 - **Tipo:** Gijougo (擬情語)
 - **Categoría:** Sentimiento.
+- **Onomatopeya:** difícil; ansioso; dolor; escamoso; paso ligero; nervioso; lágrimas desbordantes.
 - **Equivalencia:** agitado; nervioso.
 - **Fuente:** 
   - https://nihongokyoshi-net.com/2021/04/21/onomatopoeiaa-harahara/

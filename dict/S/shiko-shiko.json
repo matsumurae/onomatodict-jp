@@ -12,7 +12,11 @@
 	"sound": "",
 	"en": {
 		"category": "status / action",
-		"description": "1. The feeling of being elastic and chewy when chewed. \n 2. To be persistently and vigorously active. \n 3. Indicates the continuation of a humble activity.",
+		"description": [
+			"The feeling of being elastic and chewy when chewed.",
+			"To be persistently and vigorously active.",
+			"Indicates the continuation of a humble activity."
+		],
 		"equivalent": "",
 		"meaning": [
 			"soft; firm",
@@ -89,7 +93,11 @@
 	},
 	"es": {
 		"category": "estado / acción",
-		"description": "1. La sensación de ser elástico y masticable cuando se mastica. \n 2. Ser persistente y enérgicamente activo. \n 3. Indica la continuación de una actividad humilde.",
+		"description": [
+			"La sensación de ser elástico y masticable cuando se mastica.",
+			"Ser persistente y enérgicamente activo.",
+			"Indica la continuación de una actividad humilde."
+		],
 		"equivalent": "",
 		"meaning": [
 			"suave; firme",

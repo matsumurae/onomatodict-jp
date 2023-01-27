@@ -12,7 +12,9 @@
     "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ズボン",
     "en": {
         "category": "clothes",
-        "description": "1. Putting on trousers.",
+        "description": [
+            "Putting on trousers."
+        ],
         "equivalent": "No exact equivalent.",
         "meaning": [
             "put on trousers"
@@ -26,7 +28,9 @@
     },
     "es": {
         "category": "clothes",
-        "description": "1. Poniéndose los pantalones.",
+        "description": [
+            "Poniéndose los pantalones."
+        ],
         "equivalent": "Sin equivalente exacto.",
         "meaning": [
             "ponerse los pantalones"

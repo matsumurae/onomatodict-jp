@@ -12,7 +12,10 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もぐもぐ",
     "en": {
         "category": "action",
-        "description": "1. Chewing without fully opening the mouth. \n 2. Mumbling without mouth open full.",
+        "description": [
+            "Chewing without fully opening the mouth.",
+            "Mumbling without mouth open full."
+        ],
         "equivalent": "munch munch",
         "meaning": [
             "chewing (food)",
@@ -75,7 +78,10 @@
     },
     "es": {
         "category": "acción",
-        "description": "1. Masticar sin abrir completamente la boca. \n 2. Murmurar sin tener la boca abierta completamente.",
+        "description": [
+            "Masticar sin abrir completamente la boca.",
+            "Murmurar sin tener la boca abierta completamente."
+        ],
         "equivalent": "masticar masticar",
         "meaning": [
             "masticar (comida)",

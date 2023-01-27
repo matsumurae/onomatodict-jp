@@ -13,7 +13,9 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=モテモテ",
     "en": {
         "category": "state",
-        "description": "1. Be popular with the opposite sex.",
+        "description": [
+            "Be popular with the opposite sex."
+        ],
         "equivalent": "",
         "meaning": [
             "popular; sexy; well-liked; irresistible"
@@ -34,7 +36,9 @@
     },
     "es": {
         "category": "estado",
-        "description": "1. Ser popular con el sexo opuesto.",
+        "description": [
+            "Ser popular con el sexo opuesto."
+        ],
         "equivalent": "",
         "meaning": [
             "popular; exitoso; favorecido; irresistible"

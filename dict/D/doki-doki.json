@@ -12,8 +12,11 @@
     "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ドキドキ",
     "en": {
         "category": "feeling",
-        "description": "1. Fast heart beating. Could be due to exercise, fear, anxiety, surprise… \n 2. Feeling when you see or are near the person you like.",
-        "equivalent": "BA-DUMP BA-DUMP",
+        "description": [
+            "Fast heart beating. Could be due to exercise, fear, anxiety, surprise…",
+            "Feeling when you see or are near the person you like."
+        ],
+        "equivalent": "heart thump; pit-a-pat; ba-dump ba-dump",
         "meaning": [
             "heartbeat",
             "excited; nervous",

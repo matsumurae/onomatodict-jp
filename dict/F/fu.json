@@ -13,7 +13,10 @@
     "en": {
         "category": "sigh",
         "tags": [],
-        "description": "1. Sigh. \n 2. Exhale sound (smoking).",
+        "description": [
+            "Sigh.",
+            "Exhale sound (smoking)."
+        ],
         "equivalent": "pant; haa; ha; sigh; blow; breath",
         "meaning": [
             "puff; huff; sigh; faint",
@@ -96,7 +99,10 @@
     "es": {
         "category": "suspiro",
         "tags": [],
-        "description": "1. Suspiro. \n 2. Sonido al exhalar (fumando).",
+        "description": [
+            "Suspiro.",
+            "Sonido al exhalar (fumando)."
+        ],
         "equivalent": "jadeo; haa; ha; suspiro; soplo; aliento",
         "meaning": [
             "puff; soplo; suspiro; desmayo",

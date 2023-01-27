@@ -16,8 +16,10 @@
             "no sound",
             "action"
         ],
-        "description": "1. Grin, broad smile.",
-        "equivalent": "",
+        "description": [
+            "Grin, broad smile."
+        ],
+        "equivalent": "grin; grinning; laugh; giggle; smile; heh heh",
         "meaning": [
             "Grinning; broad grin; smirk"
         ],
@@ -68,8 +70,10 @@
             "sin sonido",
             "acción"
         ],
-        "description": "1. Sonrisa siniestra.",
-        "equivalent": "",
+        "description": [
+            "Sonrisa siniestra."
+        ],
+        "equivalent": "sonrisa; sonriendo; risa; risilla; sonrisa; je je",
         "meaning": [
             "Sonreír; amplia sonrisa",
             "Sonrisa siniestra"

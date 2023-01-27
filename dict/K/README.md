@@ -106,7 +106,7 @@ Escucho el sonido de las hojas caídas rozándose.
 
 - **Type:** Giyougo (擬容語)
 - **Category:** movement.
-- **Onomatopoeia:** SPIN.
+- **Onomatopoeia:** spin; turn; turning; curly.
 - **Equivalent:** turn around; turn quickly; full turn;light environment; round and lovely.
 - **Source:** 
   - http://sura-sura.com/archives/1759.html
@@ -136,7 +136,7 @@ When I turned around, the hem of my skirt spread out gently.
 
 - **Tipo:** Giyougo (擬容語)
 - **Categoría:** movimiento.
-- **Onomatopeya:** girarse.
+- **Onomatopeya:** girar; giro; torneado; rizado.
 - **Equivalencia:** Darse la vuelta; girarse rápidamente; giro completo; entorno ligero; redondo y encantador.
 - **Fuente:** 
   - http://sura-sura.com/archives/1759.html

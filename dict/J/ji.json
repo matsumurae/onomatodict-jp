@@ -12,7 +12,14 @@
     "sound": "",
     "en": {
         "category": "fire",
-        "description": "1. Fire effect. \n 2. Chirping of insects. \n 3. Noise of alarm, buzzers or other alarms. \n 4. Being quiet without moving one's body. \n 5. Staring at something without averting one's eyes. \n 6. Concentrating, looking and thinking carefully.",
+        "description": [
+            "Fire effect.",
+            "Chirping of insects.",
+            "Noise of alarm, buzzers or other alarms.",
+            "Being quiet without moving one's body.",
+            "Staring at something without averting one's eyes.",
+            "Concentrating, looking and thinking carefully."
+        ],
         "equivalent": "lites; flame; staring at",
         "meaning": [
             "fire",
@@ -41,7 +48,14 @@
     },
     "es": {
         "category": "fuego",
-        "description": "1. Efecto de fuego. \n 2. No moverse un solo paso del lugar y permanecer quieto. \n 3. Estar concentrado, mirar y pensar con atención. \n 4. Estar quieto sin mover el cuerpo. \n 5. Mirar fijamente algo sin desviar la mirada. \n 6. Concentrarse, mirar y pensar detenidamente.",
+        "description": [
+            "Efecto de fuego.",
+            "No moverse un solo paso del lugar y permanecer quieto.",
+            "Estar concentrado, mirar y pensar con atención.",
+            "Estar quieto sin mover el cuerpo.",
+            "Mirar fijamente algo sin desviar la mirada.",
+            "Concentrarse, mirar y pensar detenidamente."
+        ],
         "equivalent": "luz; fuego; mirar fijamente",
         "meaning": [
             "fuego",

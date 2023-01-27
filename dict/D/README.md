@@ -32,7 +32,7 @@
 
 - **Type:** Gijougo (擬情語)
 - **Category:** Feeling.
-- **Onomatopoeia:** BA-DUMP BA-DUMP.
+- **Onomatopoeia:** heart thump; pit-a-pat; ba-dump ba-dump.
 - **Equivalent:** heartbeat; excited; nervous; have butterflies in stomach.
 - **Source:**
   - https://goiryoku.com/onomatopoeia/dokidoki/

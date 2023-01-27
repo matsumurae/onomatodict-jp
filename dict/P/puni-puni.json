@@ -12,7 +12,9 @@
 	"sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぷにぷに",
 	"en": {
 		"category": "state",
-		"description": "1. Moderately elastic, yet soft and supple.",
+		"description": [
+			"Moderately elastic, yet soft and supple."
+		],
 		"equivalent": "",
 		"meaning": [
 			"chewy",
@@ -42,7 +44,9 @@
 	},
 	"es": {
 		"category": "estado",
-		"description": "1. Moderadamente elástico, pero suave y flexible.",
+		"description": [
+			"Moderadamente elástico, pero suave y flexible."
+		],
 		"equivalent": "",
 		"meaning": [
 			"masticable",

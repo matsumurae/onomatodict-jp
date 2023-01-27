@@ -13,7 +13,10 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=もちもち",
     "en": {
         "category": "state",
-        "description": "1. Soft and sticky food. \n 2. Freshly and taut appearance of human body.",
+        "description": [
+            "Soft and sticky food.",
+            "Freshly and taut appearance of human body."
+        ],
         "equivalent": "",
         "meaning": [
             "chewy; doughy",
@@ -106,7 +109,10 @@
     },
     "es": {
         "category": "estado",
-        "description": "1. Comida blanda y pegajosa. \n 2. Aspecto fresco y tenso del cuerpo humano.",
+        "description": [
+            "Comida blanda y pegajosa.",
+            "Aspecto fresco y tenso del cuerpo humano."
+        ],
         "equivalent": "",
         "meaning": [
             "masticable; pastoso",

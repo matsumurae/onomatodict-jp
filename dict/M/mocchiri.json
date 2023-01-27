@@ -13,7 +13,9 @@
 	"sound": "",
 	"en": {
 		"category": "state",
-		"description": "1. The texture has elasticity and stickiness, and appears soft.",
+		"description": [
+			"The texture has elasticity and stickiness, and appears soft."
+		],
 		"equivalent": "",
 		"meaning": [
 			"chunky; chewy",
@@ -73,7 +75,9 @@
 	},
 	"es": {
 		"category": "estado",
-		"description": "1. La textura tiene elasticidad y pegajosidad, y parece suave.",
+		"description": [
+			"La textura tiene elasticidad y pegajosidad, y parece suave."
+		],
 		"equivalent": "",
 		"meaning": [
 			"masticable",

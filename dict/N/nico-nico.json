@@ -16,8 +16,10 @@
             "no sound",
             "action"
         ],
-        "description": "1. Happy, bright smile on a face.",
-        "equivalent": "Smile from ear to ear.",
+        "description": [
+            "Happy, bright smile on a face."
+        ],
+        "equivalent": "smile smile; smiling",
         "meaning": [
             "Smile broadly",
             "Smile",
@@ -70,8 +72,10 @@
             "sin sonido",
             "acción"
         ],
-        "description": "1. Sonrisa feliz y brillante en la cara.",
-        "equivalent": "Sonrisa de oreja a oreja.",
+        "description": [
+            "Sonrisa feliz y brillante en la cara."
+        ],
+        "equivalent": "sonríe sonríe; sonriente",
         "meaning": [
             "Sonreír ampliamente",
             "Sonrisa",

@@ -16,8 +16,12 @@
             "water",
             "moist"
         ],
-        "description": "1. Oil or viscous liquid on limbs or other parts of the body, making them slippery. \n 2. Things are progressing slowly. \n 3. The state of being slimy.",
-        "equivalent": "1. Wet and slimy. \n 2. Slow progress. \n 3. Slimy",
+        "description": [
+            "Oil or viscous liquid on limbs or other parts of the body, making them slippery.",
+            "Things are progressing slowly.",
+            "The state of being slimy."
+        ],
+        "equivalent": "slippery; slimey",
         "meaning": [
             "Slimy; slippery",
             "Greasy; oily",
@@ -65,8 +69,12 @@
             "agua",
             "húmedo"
         ],
-        "description": "1. Aceite o líquido viscoso en las extremidades u otras partes del cuerpo, haciéndolas resbaladizas. \n 2. Las cosas progresan lentamente. \n 3. El estado de ser viscoso.",
-        "equivalent": "1. Mojado y viscoso. \n 2. Progreso lento. \n 3. Viscoso",
+        "description": [
+            "Aceite o líquido viscoso en las extremidades u otras partes del cuerpo, haciéndolas resbaladizas.",
+            "Las cosas progresan lentamente.",
+            "El estado de ser viscoso."
+        ],
+        "equivalent": "resbaladizo; baboso",
         "meaning": [
             "Viscoso; baboso; resbaladizo",
             "Grasiento; aceitoso",

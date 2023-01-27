@@ -12,7 +12,9 @@
     "sound": "",
     "en": {
         "category": "drink",
-        "description": "1. When a person unexpectedly blows out coffee (or other drink) from his/her mouth in a sudden and reckless manner.",
+        "description": [
+            "When a person unexpectedly blows out coffee (or other drink) from his/her mouth in a sudden and reckless manner."
+        ],
         "equivalent": "1. Spoosh.",
         "meaning": [
             "spit after being shocked"
@@ -26,7 +28,9 @@
     },
     "es": {
         "category": "bebida",
-        "description": "1. Cuando una persona inesperadamente sopla el café (o cualquier otro líquido) de la boca de forma repentina e imprudente.",
+        "description": [
+            "Cuando una persona inesperadamente sopla el café (o cualquier otro líquido) de la boca de forma repentina e imprudente."
+        ],
         "equivalent": "",
         "meaning": [
             "escupir después de sorprenderse"

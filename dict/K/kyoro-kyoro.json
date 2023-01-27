@@ -12,7 +12,9 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php&kana=きょろきょろ",
     "en": {
         "category": "movement",
-        "description": "1. To be restless and constantly looking around.",
+        "description": [
+            "To be restless and constantly looking around."
+        ],
         "equivalent": "glance glance",
         "meaning": [
             "restlessly; nervously"
@@ -49,7 +51,9 @@
     },
     "es": {
         "category": "movimiento",
-        "description": "1. Estar inquieto y mirar constantemente a su alrededor.",
+        "description": [
+            "Estar inquieto y mirar constantemente a su alrededor."
+        ],
         "equivalent": "mirada mirada",
         "meaning": [
             "inquietamente; nerviosamente"

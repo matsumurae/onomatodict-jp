@@ -12,8 +12,11 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=はらはら",
     "en": {
         "category": "feeling",
-        "description": "1. Falling petals, leaves, snow… \n 2. Feeling of anxiety due to a sense of danger. Seeing a dangerous situation and worrying that something bad or difficult may happen.",
-        "equivalent": "1. falling (leafs) \n 2. wondering; nervous",
+        "description": [
+            "Falling petals, leaves, snow…",
+            "2. Feeling of anxiety due to a sense of danger. Seeing a dangerous situation and worrying that something bad or difficult may happen."
+        ],
+        "equivalent": "uneasy; anxious; pain; flakey; pit-a-pat; nervous; tears overflowing",
         "meaning": [
             "fluttering; nervous"
         ],
@@ -67,8 +70,11 @@
     },
     "es": {
         "category": "sentimiento",
-        "description": "1. Caída de pétalos, hojas, nieve... \n 2. Sensación de ansiedad debido a una sensación de peligro. Ver una situación peligrosa y preocuparse de que algo malo o difícil pueda suceder.",
-        "equivalent": "1. cayendo (hojas) \n 2. preguntándose qué pasa o va a pasar; nervioso",
+        "description": [
+            "Caída de pétalos, hojas, nieve...",
+            "Sensación de ansiedad debido a una sensación de peligro. Ver una situación peligrosa y preocuparse de que algo malo o difícil pueda suceder."
+        ],
+        "equivalent": "difícil; ansioso; dolor; escamoso; paso ligero; nervioso; lágrimas desbordantes",
         "meaning": [
             "agitado; nervioso"
         ],

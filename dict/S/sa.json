@@ -12,7 +12,9 @@
     "sound": "",
     "en": {
         "category": "movement",
-        "description": "1. Swipe fast.",
+        "description": [
+            "Swipe fast."
+        ],
         "equivalent": "1. Swipe.",
         "meaning": [
             "swipe"
@@ -20,7 +22,9 @@
     },
     "es": {
         "category": "movimiento",
-        "description": "1. Girarse rápidamente.",
+        "description": [
+            "Girarse rápidamente."
+        ],
         "equivalent": "1. Girarse.",
         "meaning": [
             "girarse"

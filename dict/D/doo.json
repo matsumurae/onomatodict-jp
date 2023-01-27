@@ -12,7 +12,9 @@
     "sound": "",
     "en": {
         "category": "feeling",
-        "description": "1. Adds weight and strength to the movement.",
+        "description": [
+            "Adds weight and strength to the movement."
+        ],
         "equivalent": "No exact equivalent.",
         "meaning": [
             "give more strength (emphasis)"
@@ -26,7 +28,9 @@
     },
     "es": {
         "category": "sentimiento",
-        "description": "1. Añade peso y fuerza al movimiento.",
+        "description": [
+            "Añade peso y fuerza al movimiento."
+        ],
         "equivalent": "Sin equivalente exacto.",
         "meaning": [
             "dar más fuerza (énfasis)"

@@ -16,8 +16,11 @@
             "water",
             "moist"
         ],
-        "description": "1. Appearance of an object's surface becoming slippery due to mucus, etc. \n 2. Something that works smooth (screen, internet…).",
-        "equivalent": "1. Wet and slimy. \n 2. Smooth.",
+        "description": [
+            "Appearance of an object's surface becoming slippery due to mucus, etc.",
+            "Something that works smooth (screen, internet…)."
+        ],
+        "equivalent": "slippery; slimey",
         "meaning": [
             "Slimy; slippery",
             "Greasy",
@@ -90,8 +93,11 @@
             "agua",
             "húmedo"
         ],
-        "description": "1. La superficie de un objeto se vuelve resbaladiza debido a la mucosidad, etc. \n 2. Algo que funciona sin problemas (pantalla, Internet...).",
-        "equivalent": "1. Mojado y viscoso. \n 2. Fluido.",
+        "description": [
+            "La superficie de un objeto se vuelve resbaladiza debido a la mucosidad, etc.",
+            "Algo que funciona sin problemas (pantalla, Internet...)."
+        ],
+        "equivalent": "resbaladizo; baboso",
         "meaning": [
             "Viscoso; resbaladizo",
             "Grasiento",

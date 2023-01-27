@@ -12,7 +12,10 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ヒソヒソ",
     "en": {
         "category": "speak",
-        "description": "1. Whispering. Speak in a low voice so that others cannot hear them. (It doesn't mean they are talking behind the backs of those in the immediate vicinity) \n 2. Doing something secretly so that others don't notice.",
+        "description": [
+            "Whispering. Speak in a low voice so that others cannot hear them. (It doesn't mean they are talking behind the backs of those in the immediate vicinity)",
+            "Doing something secretly so that others don't notice."
+        ],
         "equivalent": "Whisper",
         "meaning": [
             "whisper; talk in low voice",
@@ -58,7 +61,10 @@
     },
     "es": {
         "category": "hablar",
-        "description": "1. Susurrar. Hablar en voz baja para que los demás no puedan escucharlos. (No significa que estén hablando a espaldas de los que están cerca) \n 2. Hacer algo en secreto para que los demás no se den cuenta.",
+        "description": [
+            "Susurrar. Hablar en voz baja para que los demás no puedan escucharlos. (No significa que estén hablando a espaldas de los que están cerca)",
+            "Hacer algo en secreto para que los demás no se den cuenta."
+        ],
         "equivalent": "Susurro",
         "meaning": [
             "susurro; hablar en voz baja",

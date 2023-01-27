@@ -117,6 +117,7 @@ Sound [here](https://www.youtube.com/watch?v=Za430fjW2mEhttps://assets.languagep
 
 - **Type:** Gitaigo (擬態語)
 - **Category:** Mood.
+- **Onomatopoeia:** smile smile; smiling.
 - **Equivalent:** Smile from ear to ear.
 - **Source:** https://goiryoku.com/onomatopoeia/niko/
 
@@ -144,6 +145,7 @@ Children who have been in a good mood since morning
 
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Humor.
+- **Onomatopeya:** sonríe sonríe; sonriente.
 - **Equivalencia:** Sonrisa de oreja a oreja.
 - **Fuente:** https://goiryoku.com/onomatopoeia/niko/
 
@@ -220,6 +222,7 @@ Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?
 
 - **Type:** Gitaigo (擬態語)
 - **Category:** Status.
+- **Onomatopoeia:** grin; grinning; laugh; giggle; smile; heh heh.
 - **Equivalent:** No equivalence.
 - **Source:** https://goiryoku.com/onomatopoeia/niya/
 
@@ -247,6 +250,7 @@ She grins when she thinks about winning the lottery.
 
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Estado.
+- **Onomatopeya:** sonrisa; sonriendo; risa; risilla; sonrisa; je je.
 - **Equivalencia:** Sin equivalente.
 - **Fuente:** https://goiryoku.com/onomatopoeia/niya/
 
@@ -284,6 +288,7 @@ Ella **sonríe** cuando piensa en ganar la lotería.
 
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
+- **Onomatopoeia:** squelch squelch.
 - **Equivalent:** Wet; slimy; smooth; slippery.
 - **Sources:**
   - https://ncode.syosetu.com/n2674cv/1/
@@ -326,6 +331,7 @@ I thought it was smooth!
 
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
+- **Onomatopeya:** silenciar silenciar.
 - **Equivalencia:** Húmedo; Suave; viscoso; rebaladizo.
 - **Fuentes:**
   - https://ncode.syosetu.com/n2674cv/1/
@@ -471,6 +477,7 @@ Sound [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?
 
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
+- **Onomatopoeia:** slippery; slimey.
 - **Equivalent:** Wet; slimy; smooth.
 - **Source:**
   - https://ncode.syosetu.com/n4405cp/707/
@@ -511,6 +518,7 @@ Gaming PC move game screens smoothly.
 
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
+- **Onomatopeya:** resbaladizo; baboso.
 - **Equivalencia:** Mojado; viscoso; fluido.
 - **Fuente:**
   - https://ncode.syosetu.com/n4405cp/707/
@@ -561,6 +569,7 @@ El pc gaming mueve las pantallas de los juegos suavemente.
 
 - **Type:** Gitaigo (擬態語)
 - **Category:** Liquid.
+- **Onomatopoeia:** slippery; slimey.
 - **Equivalent:** Light bulb went on in my head or "ding-ding".
 - **Source:** https://goiryoku.com/onomatopoeia/nurultu/
 
@@ -584,6 +593,7 @@ The hot water in this onsen slippery.
 
 - **Tipo:** Gitaigo (擬態語)
 - **Categoría:** Líquido.
+- **Onomatopeya:** resbaladizo; baboso.
 - **Equivalencia:** Se me encendió una bombilla en la cabeza.
 - **Fuente:** https://goiryoku.com/onomatopoeia/nurultu/
 

@@ -12,7 +12,11 @@
     "sound": "http://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=こそこそ",
     "en": {
         "category": "speak",
-        "description": "1. To act in an inconspicuous manner. Doing things in a hidden way, out of sight of others. \n 2. Move stealthily. \n 3. Rubbing of light objects against each other, or the sound of such rubbing.",
+        "description": [
+            "To act in an inconspicuous manner. Doing things in a hidden way, out of sight of others.",
+            "Move stealthily.",
+            "Rubbing of light objects against each other, or the sound of such rubbing."
+        ],
         "equivalent": "escapes; secretly; secretly escapes; creep creep; sneaks away",
         "meaning": [
             "sneaking; secretly",
@@ -75,7 +79,11 @@
     },
     "es": {
         "category": "hablar",
-        "description": "1. Actuar de manera discreta. Hacer las cosas de forma oculta, fuera de la vista de los demás. \n 2. Moverse sigilosamente / furtivamente. \n 3. Frotamiento de objetos ligeros entre sí, o el sonido de dicho roce",
+        "description": [
+            "Actuar de manera discreta. Hacer las cosas de forma oculta, fuera de la vista de los demás.",
+            "Moverse sigilosamente / furtivamente.",
+            "Frotamiento de objetos ligeros entre sí, o el sonido de dicho roce"
+        ],
         "equivalence": "escapa; secretamente; escapa secretamente; arrastrarse arrastrarse; se escabulle",
         "meaning": [
             "furtivamente; escabullirse",
