@@ -17,7 +17,10 @@
 ## Doki-Doki / ドキドキ
 
 ![doki-doki](https://1.bp.blogspot.com/-9MUlrWFUpqs/Wn0zakGO9qI/AAAAAAAABP0/bacnw1KeRGEMBLco0joUrecPS55JBP8gQCLcBGAs/s320/dokidoki.jpg)
+
 ![doki-doki](https://magmix.jp/wp-content/uploads/2021/02/210211-purena-04.jpg)
+
+![https://twiman.net/user/781495392500199425/1468920027990867977](https://pbs.twimg.com/media/FGKm9lAUYAE20sm.jpg)
 
 [Video here](https://www.youtube.com/watch?v=qXoqOvJ9pBE&t=282). [Sound here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?&kana=ドキドキ).
 
