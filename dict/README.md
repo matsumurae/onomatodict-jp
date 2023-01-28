@@ -23,6 +23,7 @@
 - Guchi-Guchi / ぐちぐち (No sound)
 - Guji-Guji / ぐじぐじ (No sound)
 - Gura-Gura / ぐらぐら
+- Guzu-Guzu / ぐずぐず
 - Gyunyu / ギュニュッ
 
 ## H
