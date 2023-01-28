@@ -3,11 +3,15 @@
 - [G](#g)
   - [Gaku-Gaku / がくがく](#gaku-gaku--がくがく)
     - [English](#english)
-  - [Gura-Gura / ぐらぐら](#gura-gura--ぐらぐら)
+  - [Guchi-Guchi / ぐちぐち](#guchi-guchi--ぐちぐち)
     - [Spanish](#spanish)
+  - [Guji-Guji / ぐじぐじ](#guji-guji--ぐじぐじ)
+    - [Spanish](#spanish-1)
+  - [Gura-Gura / ぐらぐら](#gura-gura--ぐらぐら)
+    - [Spanish](#spanish-2)
   - [Gyunyu / ギュニュッ](#gyunyu--ギュニュッ)
     - [English](#english-1)
-    - [Spanish](#spanish-1)
+    - [Spanish](#spanish-3)
 
 ## Gaku-Gaku / がくがく
 
@@ -102,6 +106,122 @@ No puedo dejar de tambalearme y temblar desde que entré en esta habitación.
 Ah, hace frío. Estoy temblando. Tenemos que llegar al albergue.
 ```
 
+## Guchi-Guchi / ぐちぐち
+
+**Related**
+
+- Butsu-Butsu / ぶつぶつ
+- Guji-Guji / ぐじぐじ
+
+### English
+
+> 1. Speak in mumble manner",
+> 2. Speak in a vague and incoherent manner
+> 3. Not having a clear and positive attitude or will
+> 4. Complaining or making excuses
+
+- **Type:** Giyougo (擬容語)
+- **Category:** Voice.
+- **Onomatopoeia:** yeah yeah; rant rant; swishy; complain complain.
+- **Equivalent:** -
+- **Source:**
+  - https://goiryoku.com/onomatopoeia/gutiguti/
+  - https://onmtp.net/gutiguti/
+
+**Examples**
+```
+友達がぐちぐち言っているので聞き役に徹する
+My friend grumbles, so I concentrate on listening.
+
+いつまでもぐちぐち言ってくる
+He grumbles and complains forever.
+
+嫌味をぐちぐちと口にする。
+Muttering sarcasm.
+```
+
+### Spanish
+
+> 1. Habla entre murmullos
+> 2. Hablar de manera vaga e incoherente
+> 3. No tener una actitud o voluntad clara y positiva
+> 4. Quejarse o poner excusas
+
+- **Tipo:** Giyougo (擬容語)
+- **Categoría:** Voz.
+- **Onomatopeya:** sí, sí; despotricar despotricar; silbante; quejarse quejarse.
+- **Equivalencia:** -
+- **Fuente:**
+  - https://goiryoku.com/onomatopoeia/gutiguti/
+  - https://onmtp.net/gutiguti/
+
+**Examples**
+```
+友達がぐちぐち言っているので聞き役に徹する
+Mi amigo se queja, así que me concentro en escuchar.
+
+いつまでもぐちぐち言ってくる
+Se queja y se queja siempre.
+
+嫌味をぐちぐちと口にする。
+Murmurando sarcasmo.
+```
+
+## Guji-Guji / ぐじぐじ
+
+**Related**
+
+- Butsu-Butsu / ぶつぶつ
+- Guchi-Guchi / ぐちぐち
+
+### English
+
+> 1. A voice that is difficult to understand
+> 2. An attitude that is not in tune with the situation
+> 3. Complaining or making excuses
+
+- **Type:** Giyougo (擬容語)
+- **Category:** Voice.
+- **Onomatopoeia:** -
+- **Equivalent:** -
+- **Source:** https://onmtp.net/guziguzi/
+
+**Examples**
+```
+いつまでもぐじぐじ悩んでハッキリしない人だ
+He is a person who is forever worrying about things and not being clear.
+
+終わったことを未だにぐじぐじと言ってくる
+He still keeps harping on about things that have already been done.
+
+なにか指摘するとぐじぐじ言い訳ばかり返ってくる
+When I point something out to him, he always comes back with excuses.
+```
+
+### Spanish
+
+> 1. Una voz que es difícil de entender
+> 2. Una actitud que no está en sintonía con la situación
+> 3. Quejarse o poner excusas
+
+- **Tipo:** Giyougo (擬容語)
+- **Categoría:** Voz.
+- **Onomatopeya:** -
+- **Equivalencia:** -
+- **Fuente:** https://onmtp.net/guziguzi/
+
+**Examples**
+```
+いつまでもぐじぐじ悩んでハッキリしない人だ
+Es una persona que siempre está preocupada por las cosas y no las tiene claras.
+
+終わったことを未だにぐじぐじと言ってくる
+Todavía sigue insistiendo en cosas que ya se han hecho.
+
+なにか指摘するとぐじぐじ言い訳ばかり返ってくる
+Cuando le señalo algo, siempre vuelve con excusas.
+```
+
 ## Gura-Gura / ぐらぐら
 
 ![gura-gura](https://s1.mbbcdnv5.xyz/file/img-mbuddy/manga/ajin/chapter-3-file-03-the-escape-and-the-threat/36.jpg)
@@ -183,7 +303,7 @@ The president's policy is too loose to be trusted.
 - **Categoría:** Estado.
 - **Onomatopeya:** tembloroso; tembleque; traqueteo.
 - **Equivalencia:** temblando; tambaleándose; tembloroso; laxa.
-- **Source:**
+- **Fuente:**
   - https://goiryoku.com/onomatopoeia/guragura/
   - https://nihongokyoshi-net.com/2021/03/29/onomatopoeia-guragura/
 

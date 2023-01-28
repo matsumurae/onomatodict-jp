@@ -3,6 +3,7 @@
 ## B
 
 - Biku / びくっ (No sound)
+- Butsu-Butsu / ぶつぶつ
 
 ## D
 
@@ -19,6 +20,8 @@
 ## G
 
 - Gaku-Gaku / がくがく
+- Guchi-Guchi / ぐちぐち (No sound)
+- Guji-Guji / ぐじぐじ (No sound)
 - Gura-Gura / ぐらぐら
 - Gyunyu / ギュニュッ
 

@@ -1,0 +1,91 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ぐじぐじ",
+    "romaji": "Guji-Guji",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "",
+    "sound": "",
+    "en": {
+        "category": "voice",
+        "description": [
+            "A voice that is difficult to understand",
+            "An attitude that is not in tune with the situation",
+            "Complaining or making excuses"
+        ],
+        "equivalent": "",
+        "examples": [{
+                "usage": "not being clear",
+                "sentence": "いつまでもぐじぐじ悩んでハッキリしない人だ",
+                "source": "https://onmtp.net/guziguzi/",
+                "meaning": "He is a person who is forever worrying about things and not being clear."
+            },
+            {
+                "usage": "complaining",
+                "sentence": "終わったことを未だにぐじぐじと言ってくる",
+                "source": "https://onmtp.net/guziguzi/",
+                "meaning": "He still keeps harping on about things that have already been done."
+            },
+            {
+                "usage": "excuses",
+                "sentence": "なにか指摘するとぐじぐじ言い訳ばかり返ってくる",
+                "source": "https://onmtp.net/guziguzi/",
+                "meaning": "When I point something out to him, he always comes back with excuses."
+            }
+        ],
+        "related": [{
+                "name": "ぶつぶつ",
+                "romaji": "Butsu-Butsu",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ぐちぐち",
+                "romaji": "Guchi-Guchi",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "voz",
+        "description": [
+            "Una voz que es difícil de entender",
+            "Una actitud que no está en sintonía con la situación",
+            "Quejarse o poner excusas"
+        ],
+        "equivalent": "",
+        "examples": [{
+                "usage": "no ser claro",
+                "sentence": "いつまでもぐじぐじ悩んでハッキリしない人だ",
+                "source": "https://onmtp.net/guziguzi/",
+                "meaning": "Es una persona que siempre está preocupada por las cosas y no las tiene claras."
+            },
+            {
+                "usage": "quejarse",
+                "sentence": "終わったことを未だにぐじぐじと言ってくる",
+                "source": "https://onmtp.net/guziguzi/",
+                "meaning": "Todavía sigue insistiendo en cosas que ya se han hecho."
+            },
+            {
+                "usage": "excusas",
+                "sentence": "なにか指摘するとぐじぐじ言い訳ばかり返ってくる",
+                "source": "https://onmtp.net/guziguzi/",
+                "meaning": "Cuando le señalo algo, siempre vuelve con excusas."
+            }
+        ],
+        "related": [{
+                "name": "ぶつぶつ",
+                "romaji": "Butsu-Butsu",
+                "description": "Mismo significado"
+            },
+            {
+                "name": "ぐちぐち",
+                "romaji": "Guchi-Guchi",
+                "description": "Mismo significado"
+            }
+        ]
+    }
+}

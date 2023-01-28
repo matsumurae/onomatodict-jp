@@ -1,0 +1,93 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ぐちぐち",
+    "romaji": "Guchi-Guchi",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "",
+    "sound": "",
+    "en": {
+        "category": "voice",
+        "description": [
+            "Speak in mumble manner",
+            "Speak in a vague and incoherent manner",
+            "Not having a clear and positive attitude or will",
+            "Complaining or making excuses"
+        ],
+        "equivalent": "yeah yeah; rant rant; swishy; complain complain",
+        "examples": [{
+                "usage": "grumble",
+                "sentence": "友達がぐちぐち言っているので聞き役に徹する",
+                "source": "https://goiryoku.com/onomatopoeia/gutiguti/",
+                "meaning": "My friend grumbles, so I concentrate on listening."
+            },
+            {
+                "usage": "complain",
+                "sentence": "いつまでもぐちぐち言ってくる",
+                "source": "https://onmtp.net/gutiguti/",
+                "meaning": "He grumbles and complains forever."
+            },
+            {
+                "usage": "mutter",
+                "sentence": "嫌味をぐちぐちと口にする。",
+                "source": "https://onmtp.net/gutiguti/",
+                "meaning": "Muttering sarcasm."
+            }
+        ],
+        "related": [{
+                "name": "ぶつぶつ",
+                "romaji": "Butsu-Butsu",
+                "description": "Same meaning"
+            },
+            {
+                "name": "ぐじぐじ",
+                "romaji": "Guji-Guji",
+                "description": "Same meaning"
+            }
+        ]
+    },
+    "es": {
+        "category": "estado",
+        "description": [
+            "Habla entre murmullos",
+            "Hablar de manera vaga e incoherente",
+            "No tener una actitud o voluntad clara y positiva",
+            "Quejarse o poner excusas"
+        ],
+        "equivalent": "sí, sí; despotricar despotricar; silbante; quejarse quejarse",
+        "examples": [{
+                "usage": "queja",
+                "sentence": "友達がぐちぐち言っているので聞き役に徹する",
+                "source": "https://goiryoku.com/onomatopoeia/gutiguti/",
+                "meaning": "Mi amigo se queja, así que me concentro en escuchar."
+            },
+            {
+                "usage": "quejarse",
+                "sentence": "いつまでもぐちぐち言ってくる",
+                "source": "https://onmtp.net/gutiguti/",
+                "meaning": "Se queja y se queja siempre."
+            },
+            {
+                "usage": "murmurar",
+                "sentence": "嫌味をぐちぐちと口にする。",
+                "source": "https://onmtp.net/gutiguti/",
+                "meaning": "Murmurando sarcasmo."
+            }
+        ],
+        "related": [{
+            "name": "ぶつぶつ",
+            "romaji": "Butsu-Butsu",
+            "description": "Mismo significado"
+        },
+        {
+            "name": "ぐじぐじ",
+            "romaji": "Guji-Guji",
+            "description": "Mismo significado"
+        }
+    ]
+    }
+}

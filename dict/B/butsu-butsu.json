@@ -11,7 +11,7 @@
     "image": "https://pbs.twimg.com/media/FGA1L7XXoAUoaeH.jpg",
     "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぶつぶつ",
     "en": {
-        "category": "speak",
+        "category": "voice",
         "description": [
             "Murmuring or talking in a low voice",
             "Saying things in a whisper (talking to oneself)",
@@ -64,13 +64,19 @@
             }
         ],
         "related": [{
-            "name": "ぐちぐち",
-            "romaji": "Guchi-Guchi",
-            "description": "Speak in low voice"
-        }]
+                "name": "ぐちぐち",
+                "romaji": "Guchi-Guchi",
+                "description": "Speak in low voice"
+            },
+            {
+                "name": "ぐじぐじ",
+                "romaji": "Guji-Guji",
+                "description": "Speak in low voice"
+            }
+        ]
     },
     "es": {
-        "category": "hablar",
+        "category": "voz",
         "description": [
             "Murmurar o hablar en voz baja",
             "Decir cosas en un susurro (para sí mismo)",
@@ -123,9 +129,15 @@
             }
         ],
         "related": [{
-            "name": "ぐちぐち",
-            "romaji": "Guchi-Guchi",
-            "description": "Hablar en voz baja"
-        }]
+                "name": "ぐちぐち",
+                "romaji": "Guchi-Guchi",
+                "description": "Hablar en voz baja"
+            },
+            {
+                "name": "ぐじぐじ",
+                "romaji": "Guji-Guji",
+                "description": "Hablar en voz baja"
+            }
+        ]
     }
 }

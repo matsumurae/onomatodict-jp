@@ -40,18 +40,21 @@
 
 ### English
 
-> Murmuring or talking in a low voice
-> Saying things in a whisper (talking to oneself)
-> Complaint made in a whisper or low voice
-> Appearance of small grainy or foamy things being formed
-> State or sound of cutting things until they are small and fine
-> Sound of boiling as if bubbling
-> Having a lot of small bumps or pimples
+> 1. Murmuring or talking in a low voice
+> 2. Saying things in a whisper (talking to oneself)
+> 3. Complaint made in a whisper or low voice
+> 4. Appearance of small grainy or foamy things being formed
+> 5. State or sound of cutting things until they are small and fine
+> 6. Sound of boiling as if bubbling
+> 7. Having a lot of small bumps or pimples
 
 - **Type:** Giyougo (擬容語)
-- **Category:** Speak.
+- **Category:** Voice.
 - **Onomatopoeia:** mumble mumble; mutter mutter; grumbling; complaining; muttering.
 - **Equivalent:** moaning; complaining.
+- **Source:**
+  - https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/
+  - https://goiryoku.com/onomatopoeia/butubutu/
 
 **Usage**
 ```
@@ -79,18 +82,21 @@ Cut the fish into bite-sized pieces.
 
 ### Spanish
 
-> Murmurar o hablar en voz baja",
-> Decir cosas en un susurro (para sí mismo)
-> Protestar entre susurros o en voz baja
-> Aspecto de pequeñas cosas granulosas o espumosas que se forman
-> Estado o sonido de cortar cosas hasta que queden pequeñas y finas
-> Sonido de ebullición como si burbujeara
-> Tener muchos pequeños bultos o granos
+> 1. Murmurar o hablar en voz baja",
+> 2. Decir cosas en un susurro (para sí mismo)
+> 3. Protestar entre susurros o en voz baja
+> 4. Aspecto de pequeñas cosas granulosas o espumosas que se forman
+> 5. Estado o sonido de cortar cosas hasta que queden pequeñas y finas
+> 6. Sonido de ebullición como si burbujeara
+> 7. Tener muchos pequeños bultos o granos
 
 - **Tipo:** Giyougo (擬容語)
-- **Categoría:** Hablar.
+- **Categoría:** Voz.
 - **Onomatopeya:** mascullar mascullar; murmurar murmurar; refunfuñando; quejumbroso; murmullo.
 - **Equivalente:** gimiendo; quejándose.
+- **Fuente:**
+  - https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/
+  - https://goiryoku.com/onomatopoeia/butubutu/
 
 **Uso**
 ```
