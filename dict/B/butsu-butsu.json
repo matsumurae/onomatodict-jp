@@ -1,0 +1,131 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ぶつぶつ",
+    "romaji": "Butsu-Butsu",
+    "altWriting": "",
+    "gif": "",
+    "video": "https://zoro.to/watch/toradora-232?ep=4954",
+    "image": "https://pbs.twimg.com/media/FGA1L7XXoAUoaeH.jpg",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぶつぶつ",
+    "en": {
+        "category": "speak",
+        "description": [
+            "Murmuring or talking in a low voice",
+            "Saying things in a whisper (talking to oneself)",
+            "Complaint made in a whisper or low voice",
+            "Appearance of small grainy or foamy things being formed",
+            "State or sound of cutting things until they are small and fine",
+            "Sound of boiling as if bubbling",
+            "Having a lot of small bumps or pimples"
+        ],
+        "equivalent": "mumble mumble; mutter mutter; grumbling; complaining; muttering",
+        "meaning": [
+            "moaning; complaining"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "いつも〜言っている",
+                "meaning": "always moan about something; complain incessantly."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "〜言うな",
+                "meaning": "stop moaning! stop whining!"
+            }
+        ],
+        "examples": [{
+                "usage": "talking (to oneself)",
+                "sentence": "クラスメイトの鈴木君はいつもぶつぶつ独り言を言っていて、気味が悪い。",
+                "source": "https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/",
+                "meaning": "My classmate, Mr. Suzuki, is always talking to himself, which is creepy."
+            },
+            {
+                "usage": "complaining",
+                "sentence": "彼は上司のことでさっきからぶつぶつと文句を言っている。",
+                "source": "https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/",
+                "meaning": "He's been complaining about his boss for a while now."
+            },
+            {
+                "usage": "pimples",
+                "sentence": "やだ。背中にニキビのようなぶつぶつが出来てる。",
+                "source": "https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/",
+                "meaning": "Oh no, I’ve got a pimple-like bump on my back."
+            },
+            {
+                "usage": "cut in small pieces",
+                "sentence": "魚をぶつぶつと一口サイズに切ります",
+                "source": "https://goiryoku.com/onomatopoeia/butubutu/",
+                "meaning": "Cut the fish into bite-sized pieces."
+            }
+        ],
+        "related": [{
+            "name": "ぐちぐち",
+            "romaji": "Guchi-Guchi",
+            "description": "Speak in low voice"
+        }]
+    },
+    "es": {
+        "category": "hablar",
+        "description": [
+            "Murmurar o hablar en voz baja",
+            "Decir cosas en un susurro (para sí mismo)",
+            "Protestar entre susurros o en voz baja",
+            "Aspecto de pequeñas cosas granulosas o espumosas que se forman",
+            "Estado o sonido de cortar cosas hasta que queden pequeñas y finas",
+            "Sonido de ebullición como si burbujeara",
+            "Tener muchos pequeños bultos o granos"
+        ],
+        "equivalent": "mascullar mascullar; murmurar murmurar; refunfuñando; quejumbroso; murmullo",
+        "meaning": [
+            "gimiendo; quejándose"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "いつも〜言っている",
+                "meaning": "siempre quejarse de algo; quejarse sin cesar."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "〜言うな",
+                "meaning": "¡Deja de gemir! ¡para de quejarte!"
+            }
+        ],
+        "examples": [{
+                "usage": "hablar (para uno mismo)",
+                "sentence": "クラスメイトの鈴木君はいつもぶつぶつ独り言を言っていて、気味が悪い。",
+                "source": "https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/",
+                "meaning": "Mi compañero de clase, el Sr. Suzuki, siempre está hablando solo, lo cual es espeluznante."
+            },
+            {
+                "usage": "quejando",
+                "sentence": "彼は上司のことでさっきからぶつぶつと文句を言っている。",
+                "source": "https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/",
+                "meaning": "Se ha estado quejando de su jefe por un tiempo."
+            },
+            {
+                "usage": "granos",
+                "sentence": "やだ。背中にニキビのようなぶつぶつが出来てる。",
+                "source": "https://nihongokyoshi-net.com/2021/03/18/onomatopoeia-butsubutsu/",
+                "meaning": "Oh no, tengo un bulto parecido a un grano en la espalda."
+            },
+            {
+                "usage": "cortar en trozos pequeños",
+                "sentence": "魚をぶつぶつと一口サイズに切ります",
+                "source": "https://goiryoku.com/onomatopoeia/butubutu/",
+                "meaning": "Cortar el pescado en trozos del tamaño de un bocado."
+            }
+        ],
+        "related": [{
+            "name": "ぐちぐち",
+            "romaji": "Guchi-Guchi",
+            "description": "Hablar en voz baja"
+        }]
+    }
+}
