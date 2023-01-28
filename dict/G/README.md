@@ -9,9 +9,12 @@
     - [Spanish](#spanish-1)
   - [Gura-Gura / ぐらぐら](#gura-gura--ぐらぐら)
     - [Spanish](#spanish-2)
-  - [Gyunyu / ギュニュッ](#gyunyu--ギュニュッ)
+  - [Guzu-Guzu / ぐずぐず](#guzu-guzu--ぐずぐず)
     - [English](#english-1)
     - [Spanish](#spanish-3)
+  - [Gyunyu / ギュニュッ](#gyunyu--ギュニュッ)
+    - [English](#english-2)
+    - [Spanish](#spanish-4)
 
 ## Gaku-Gaku / がくがく
 
@@ -107,6 +110,8 @@ Ah, hace frío. Estoy temblando. Tenemos que llegar al albergue.
 ```
 
 ## Guchi-Guchi / ぐちぐち
+
+Audio [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぐじぐじ).
 
 **Related**
 
@@ -347,6 +352,116 @@ Mi diente se tambalea y está a punto de caerse.
 
 社長の方針はぐらぐらでいまいち信用できない。
 La política del presidente es demasiado laxa para confiar.
+```
+
+## Guzu-Guzu / ぐずぐず
+
+![guzu-guzu](https://www.goto-japanschool.jp/data/editor/1902/20190222153630_198bd5b6c7de35f76ecf0f22fbb4d572_u6hi.jpg)
+
+Audio [here](https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぐずぐず).
+
+**Related**
+
+- Guji-Guji / ぐじぐじ
+
+### English
+
+> 1. Deliberately spending time slowly
+> 2. Grumble and complain forever
+
+- **Type:** Giyougo (擬容語)
+- **Category:** Voice.
+- **Onomatopoeia:** whine whine; murmur; moan; fret; dally; slowly.
+- **Equivalent:** slowly; tardily; loose.
+- **Source:** https://goiryoku.com/onomatopoeia/guzuguzu/
+
+**Usage**
+```
+〜と先延ばしにする
+put something off; procrastinate.
+
+〜と時を過ごす
+waste time; loaf one's time away.
+
+〜と文句を言う
+complain; grumble.
+
+〜（と）した天気
+unsettled weather.
+
+〜になる
+~ come loose; come undone.
+
+〜する
+~ drag one's feet.
+
+〜するな
+step on it!; look sharp!.
+```
+
+**Examples**
+```
+ぐずぐずしてたら学校に遅刻するよ！
+You're going to be late for school if you keep messing around!
+
+ごめんねって言ってるのに、まだぐずぐず言ってるの？
+I said I'm sorry, but are you still lingering?
+
+眠くてぐずぐずしている赤ちゃん
+Sleepy, groggy baby.
+
+歯医者が嫌でいつまでもぐずぐずしている
+You don't like the dentist and you're forever wiggling.
+```
+
+### Spanish
+
+> 1. Deliberadamente pasar el tiempo lentamente
+> 2. Quejarse y protestar siempre
+
+- **Tipo:** Giyougo (擬容語)
+- **Categoría:** Voz.
+- **Onomatopeya:** gemido, gemido, murmullo, gemido, inquietud, coquetear, lentamente.
+- **Equivalencia:** lentamente; tardíamente; suelto.
+- **Fuente:** https://goiryoku.com/onomatopoeia/guzuguzu/
+
+**Uso**
+```
+〜と先延ばしにする
+dejar algo de lado; aplazar; procastinar.
+
+〜と時を過ごす
+perder el tiempo; holgazanear el tiempo de uno.
+
+〜と文句を言う
+quejarse; queja.
+
+〜（と）した天気
+clima inestable.
+
+〜になる
+~ viene suelto; deshecho.
+
+〜する
+~ arrastrar los pies.
+
+〜するな
+¡darse prisa!; ¡mirada aguda!
+```
+
+**Ejemplos**
+```
+ぐずぐずしてたら学校に遅刻するよ！
+¡Llegarás tarde a la escuela si sigues haciendo el tonto!
+
+ごめんねって言ってるのに、まだぐずぐず言ってるの？
+Dije que lo siento, pero ¿todavía te retrasas?
+
+眠くてぐずぐずしている赤ちゃん
+Bebé somnoliento y aturdido.
+
+歯医者が嫌でいつまでもぐずぐずしている
+No te gusta el dentista y siempre estás dando vueltas.
 ```
 
 ## Gyunyu / ギュニュッ

@@ -9,7 +9,7 @@
     "gif": "",
     "video": "",
     "image": "",
-    "sound": "",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぐじぐじ",
     "en": {
         "category": "voice",
         "description": [
@@ -46,6 +46,11 @@
                 "name": "ぐちぐち",
                 "romaji": "Guchi-Guchi",
                 "description": "Same meaning"
+            },
+            {
+                "name": "ぐずぐず",
+                "romaji": "Guzu-Guzu",
+                "description": "Complaining"
             }
         ]
     },
@@ -85,6 +90,11 @@
                 "name": "ぐちぐち",
                 "romaji": "Guchi-Guchi",
                 "description": "Mismo significado"
+            },
+            {
+                "name": "ぐずぐず",
+                "romaji": "Guzu-Guzu",
+                "description": "Dudar"
             }
         ]
     }

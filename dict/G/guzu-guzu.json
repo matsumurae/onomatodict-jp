@@ -1,0 +1,187 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ぐずぐず",
+    "romaji": "Guzu-Guzu",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://www.goto-japanschool.jp/data/editor/1902/20190222153630_198bd5b6c7de35f76ecf0f22fbb4d572_u6hi.jpg",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぐずぐず",
+    "en": {
+        "category": "voice",
+        "description": [
+            "Deliberately spending time slowly",
+            "Grumble and complain forever"
+        ],
+        "equivalent": "whine whine; murmur; moan; fret; dally; slowly",
+        "meaning": [
+            "slowly; tardily; loose"
+        ],
+        "usage": [{
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "〜と先延ばしにする",
+                "meaning": "put something off; procrastinate."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "〜と時を過ごす",
+                "meaning": "waste time; loaf one's time away."
+            },
+            {
+                "type": "Adverb",
+                "tag": "adv",
+                "sentence": "〜と文句を言う",
+                "meaning": "complain; grumble."
+            },
+            {
+                "type": "Adjective",
+                "tag": "adj",
+                "rules": [
+                    "Use of the と particle"
+                ],
+                "sentence": "〜（と）した天気",
+                "meaning": "unsettled weather."
+            },
+            {
+                "type": "Naru verb",
+                "tag": "naru",
+                "sentence": "〜になる",
+                "meaning": "~ come loose; come undone."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ drag one's feet."
+            },
+            {
+                "type": "Suru verb",
+                "tag": "suru",
+                "sentence": "〜するな",
+                "meaning": "step on it!; look sharp!."
+            }
+        ],
+        "examples": [{
+                "usage": "mess around",
+                "sentence": "ぐずぐずしてたら学校に遅刻するよ！",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "You're going to be late for school if you keep messing around!"
+            },
+            {
+                "usage": "lingering",
+                "sentence": "ごめんねって言ってるのに、まだぐずぐず言ってるの？",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "I said I'm sorry, but are you still lingering?"
+            },
+            {
+                "usage": "groogy",
+                "sentence": "眠くてぐずぐずしている赤ちゃん",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "Sleepy, groggy baby."
+            },
+            {
+                "usage": "wiggling",
+                "sentence": "歯医者が嫌でいつまでもぐずぐずしている",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "You don't like the dentist and you're forever wiggling."
+            }
+        ],
+        "related": [{
+            "name": "ぐじぐじ",
+            "romaji": "Guji-Guji",
+            "description": "Deliberate"
+        }]
+    },
+    "es": {
+        "category": "voz",
+        "description": [
+            "Deliberadamente pasar el tiempo lentamente",
+            "Quejarse y protestar siempre"
+        ],
+        "equivalente": "gemido, gemido, murmullo, gemido, inquietud, coquetear, lentamente",
+        "meaning": [
+            "lentamente; tardíamente; suelto"
+        ],
+        "usage": [{
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "〜と先延ばしにする",
+                "meaning": "dejar algo de lado; aplazar; procastinar."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "〜と時を過ごす",
+                "meaning": "perder el tiempo; holgazanear el tiempo de uno."
+            },
+            {
+                "type": "Adverbio",
+                "tag": "adv",
+                "sentence": "〜と文句を言う",
+                "meaning": "quejarse; queja."
+            },
+            {
+                "type": "Adjetivo",
+                "tag": "adj",
+                "rules": [
+                    "Usa la partícula と"
+                ],
+                "sentence": "〜（と）した天気",
+                "meaning": "clima inestable."
+            },
+            {
+                "type": "Verbo naru",
+                "tag": "naru",
+                "sentence": "〜になる",
+                "meaning": "~ viene suelto; deshecho."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜する",
+                "meaning": "~ arrastrar los pies."
+            },
+            {
+                "type": "Verbo suru",
+                "tag": "suru",
+                "sentence": "〜するな",
+                "meaning": "¡darse prisa!; ¡mirada aguda!"
+            }
+        ],
+        "examples": [{
+                "usage": "perder el tiempo",
+                "sentence": "ぐずぐずしてたら学校に遅刻するよ！",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "¡Llegarás tarde a la escuela si sigues haciendo el tonto!"
+            },
+            {
+                "usage": "retrasarse",
+                "sentence": "ごめんねって言ってるのに、まだぐずぐず言ってるの？",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "Dije que lo siento, pero ¿todavía te retrasas?"
+            },
+            {
+                "usage": "graturdido",
+                "sentence": "眠くてぐずぐずしている赤ちゃん",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "Bebé somnoliento y aturdido."
+            },
+            {
+                "usage": "dar vueltas",
+                "sentence": "歯医者が嫌でいつまでもぐずぐずしている",
+                "source": "https://goiryoku.com/onomatopoeia/guzuguzu/",
+                "meaning": "No te gusta el dentista y siempre estás dando vueltas."
+            }
+        ],
+        "related": [{
+            "name": "ぐじぐじ",
+            "romaji": "Guji-Guji",
+            "description": "Deliberar"
+        }]
+    }
+}
