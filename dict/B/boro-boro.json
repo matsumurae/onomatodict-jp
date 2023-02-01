@@ -1,0 +1,125 @@
+{
+    "type": [
+        "giyougo",
+        "擬容語"
+    ],
+    "name": "ぼろぼろ",
+    "romaji": "Boro-Boro",
+    "altWriting": "ボロボロ",
+    "gif": "",
+    "video": "https://zoro.to/watch/polar-bear-cafe-607?ep=11712",
+    "image": "https://thetv.jp/i/nw/1091041/10923666.jpg?w=615",
+    "sound": "https://assets.languagepod101.com/dictionary/japanese/audiomp3.php?kana=ぼろぼろ",
+    "en": {
+        "category": "state",
+        "description": [
+            "Continuously spilling or dropping granular objects",
+            "State of (object) being fragile and easily crumbles or crumbles",
+            "Clothes being torn badly",
+            "Objects being badly damaged",
+            "Facts were not known until then are coming to the surface more and more",
+            "Hurt a lot",
+            "Body and mind being exhausted"
+        ],
+        "equivalent": "crumble; torn; rumpled; scuffed; slightly damaged; tattered; worn-out",
+        "examples": [{
+                "usage": "disorder",
+                "sentence": "私の家は見た目はボロボロですが、中はとても綺麗ですよ",
+                "source": "https://nihongokyoshi-net.com/2021/03/15/onomatopoeia-boroboro/",
+                "meaning": "My house looks like a wreck, but it's very clean inside."
+            },
+            {
+                "usage": "ragged",
+                "sentence": "このチャーハン、もうぼろぼろで食べれないよ！",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "I can't eat this fried rice anymore, it's so ragged!"
+            },
+            {
+                "usage": "unknown fact",
+                "sentence": "ちょっと調べると彼の悪事がぼろぼろと出てきた",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "A little investigation brought out his evil deeds."
+            },
+            {
+                "usage": "spilling",
+                "sentence": "ぼろぼろとこぼしながら豪快にご飯を食べる子ども",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "A child who eats vigorously while spilling out rags."
+            },
+            {
+                "usage": "tattered",
+                "sentence": "古書店で見つけたぼろぼろの本",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "A tattered book found in a used bookstore."
+            },
+            {
+                "usage": "pain",
+                "sentence": "毎日、残業ばかりで、もう身体がボロボロだ",
+                "source": "https://nihongokyoshi-net.com/2021/03/15/onomatopoeia-boroboro/",
+                "meaning": "I've been working overtime every day, and my body is already falling apart."
+            },
+            {
+                "usage": "pain",
+                "sentence": "もうダメだ、身も心もぼろぼろだ…",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "I can't do it anymore, my body and soul are falling apart…"
+            }
+        ]
+    },
+    "es": {
+        "category": "estado",
+        "description": [
+            "Derramar o dejar caer continuamente objetos granulares",
+            "Objeto frágil y que fácilmente se desmorona",
+            "La ropa se rasga gravemente",
+            "Objetos muy dañados",
+            "Hechos que no se conocían hasta entonces están saliendo cada vez más a la superficie",
+            "Duele mucho",
+            "Cuerpo y mente agotados"
+        ],
+        "equivalent": "desmoronarse; desgarrado; arrugado; rayado; levemente dañado; andrajoso; desgastado",
+        "examples": [{
+                "usage": "desastre",
+                "sentence": "私の家は見た目はボロボロですが、中はとても綺麗ですよ",
+                "source": "https://nihongokyoshi-net.com/2021/03/15/onomatopoeia-boroboro/",
+                "meaning": "Mi casa parece un desastre, pero está muy limpia por dentro."
+            },
+            {
+                "usage": "malo",
+                "sentence": "このチャーハン、もうぼろぼろで食べれないよ！",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "¡Este arroz frito está demasiado malo para comerlo!"
+            },
+            {
+                "usage": "datos desconocidos",
+                "sentence": "ちょっと調べると彼の悪事がぼろぼろと出てきた",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "Una pequeña investigación sacó a la luz sus malas acciones."
+            },
+            {
+                "usage": "derramar",
+                "sentence": "ぼろぼろとこぼしながら豪快にご飯を食べる子ども",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "El niño come vigorosamente mientras derrama el arroz."
+            },
+            {
+                "usage": "andrajoso",
+                "sentence": "古書店で見つけたぼろぼろの本",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "Un libro andrajoso encontrado en una librería usada."
+            },
+            {
+                "usage": "desmoronarse",
+                "sentence": "毎日、残業ばかりで、もう身体がボロボロだ",
+                "source": "https://nihongokyoshi-net.com/2021/03/15/onomatopoeia-boroboro/",
+                "meaning": "He estado trabajando horas extra todos los días y mi cuerpo ya se está desmoronando."
+            },
+            {
+                "usage": "desmoronarse",
+                "sentence": "もうダメだ、身も心もぼろぼろだ…",
+                "source": "https://goiryoku.com/onomatopoeia/boroboro/",
+                "meaning": "No puedo más, mi cuerpo y mi alma se están desmoronando..."
+            }
+        ]
+    }
+}

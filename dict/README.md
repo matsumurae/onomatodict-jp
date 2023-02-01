@@ -3,6 +3,7 @@
 ## B
 
 - Biku / びくっ (No sound)
+- Boro-Boro / ぼろぼろ
 - Butsu-Butsu / ぶつぶつ
 
 ## D
