@@ -1,0 +1,48 @@
+{
+    "type": ["giongo", "擬音語"],
+    "name": "ジ—",
+    "romaji": "Ji—",
+    "altWriting": "",
+    "gif": "",
+    "video": "",
+    "image": "https://camo.githubusercontent.com/be3ddd4d98907334067622f4ace75865df2e2867b1f989d34cf12ee9fe45c030/68747470733a2f2f7866732d686431302e62617463672e6f72672f636f6d69632f373030362f3734352f3634663264373437636535356164643064616538663534372f33353637333537325f313434315f323034385f3135363230362e776562703f6163633d556d4d617265446b6a4131563177654f414e686b6941266578703d31373032353033323536",
+    "sound": "",
+    "en": {
+        "category": "fire",
+        "description": [
+            "Chirping of insects.",
+            "Noise of alarm, buzzers or other alarms.",
+            "Staring at something without averting one's eyes.",
+            "Concentrating, looking and thinking carefully."
+        ],
+        "equivalent": "staring at",
+        "meaning": ["staring"],
+        "examples": [
+            {
+                "usage": "stare",
+                "sentence": "じーっと見つめる",
+                "source": "http://sura-sura.com/archives/2432.html",
+                "meaning": "Stare at me."
+            }
+        ]
+    },
+    "es": {
+        "category": "fuego",
+        "description": [
+            "Chirrido de insectos.",
+            "Ruido de alarma, zumbadores u otras alarmas.",
+            "Mirar fijamente algo sin desviar la mirada.",
+            "Concentrarse, mirar y pensar detenidamente."
+        ],
+        "equivalent": "mirar fijamente",
+        "meaning": ["mirar fijamente"],
+        "examples": [
+            {
+                "usage": "mirar fijamente",
+                "sentence": "じーっと見つめる",
+                "source": "http://sura-sura.com/archives/2432.html",
+                "meaning": "Mírame."
+            }
+        ]
+    }
+}
